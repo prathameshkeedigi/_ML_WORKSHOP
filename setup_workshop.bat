@@ -59,7 +59,7 @@ if errorlevel 1 goto failed
 if errorlevel 1 goto failed
 if not exist "%BOOK%" goto needbook
 echo WORKSHOP READY - notebook found and kernel verified.
-echo During class, run: setup_workshop.bat --open
+echo Next: in VS Code, open deal_ya_doglapan_full_pipeline.ipynb and pick the .venv kernel.
 if "%~1"=="" pause
 popd
 exit /b 0

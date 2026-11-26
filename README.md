@@ -40,50 +40,66 @@ Double-click **`site/index.html`**. It opens in your browser, works offline, and
 
 ---
 
-## 🚀 Setup (on your laptop)
+## 🚀 Setup: everything happens inside VS Code
 
-### Option A: Windows one-click setup (recommended)
+You need **Windows**, **Git** and **VS Code**. Do steps 1–3 **before the workshop, with internet**: the setup downloads the libraries.
 
-1. Clone the repo (or **Code → Download ZIP** on GitHub and unzip it):
-   ```cmd
-   git clone https://github.com/prathameshkeedigi/_ML_WORKSHOP.git
-   cd _ML_WORKSHOP
-   ```
-2. **Before the workshop, with internet:** double-click `setup_workshop.bat` (or run it in cmd). It:
-   - finds 64-bit Python 3.11–3.13 (and installs Python 3.13 with `winget` if you have none),
-   - creates a private environment in a `.venv` folder,
-   - installs numpy, pandas, matplotlib, scikit-learn and JupyterLab,
-   - adds the Python + Jupyter extensions to VS Code (if you have VS Code),
-   - checks that everything works.
+### Step 1: Clone the repo and open it in VS Code
 
-   Wait until it prints **`WORKSHOP READY`**.
-3. **During the workshop:** open the notebook with
-   ```cmd
-   setup_workshop.bat --open
-   ```
+Open **Command Prompt** and run:
 
-Other options: `setup_workshop.bat --check` re-checks your setup without installing anything.
-
-### Option B: Any OS, manual setup
-
-You need **Python 3.11–3.13**.
-
-```bash
+```cmd
+cd Desktop
 git clone https://github.com/prathameshkeedigi/_ML_WORKSHOP.git
 cd _ML_WORKSHOP
-pip install pandas numpy matplotlib scikit-learn joblib jupyterlab
-jupyter lab deal_ya_doglapan_full_pipeline.ipynb
+code .
 ```
 
-In VS Code: open the folder, open the notebook, pick your Python kernel, and run the cells in order (**Shift + Enter**).
+VS Code opens with the `_ML_WORKSHOP` folder. You can close Command Prompt now. **From here on, stay in VS Code.**
 
-> Tested with pandas 2.2, numpy 2.2, matplotlib 3.10, scikit-learn 1.8.
+> If `code .` says *'code' is not recognized*: open VS Code yourself, then **File → Open Folder…** and pick `Desktop\_ML_WORKSHOP`.
+
+### Step 2: Run the setup in VS Code's terminal
+
+In VS Code, open the terminal: **Terminal → New Terminal** (or press **Ctrl + `**). Run:
+
+```powershell
+.\setup_workshop.bat
+```
+
+> Type the `.\` at the start. VS Code's terminal is PowerShell, and PowerShell needs it.
+
+The setup takes a few minutes. It:
+- finds 64-bit Python 3.11–3.13 (and installs Python 3.13 with `winget` if you have none),
+- creates a private Python environment in a `.venv` folder inside the workshop folder,
+- installs numpy, pandas, matplotlib, scikit-learn and the Jupyter kernel,
+- adds the **Python** and **Jupyter** extensions to VS Code,
+- checks that everything works.
+
+✅ Wait until it prints **`WORKSHOP READY - notebook found and kernel verified.`**, then press any key.
+❌ If it ends with **`Workshop setup or launch did not finish`**, show us the message above that line.
+
+> Some yellow/red lines that say `WARNING` or `RuntimeWarning` (about "TCP" or "Proactor event loop") are normal. Ignore them.
+
+### Step 3: Open the notebook and pick the `.venv` kernel
+
+1. In VS Code's file list on the left, click **`deal_ya_doglapan_full_pipeline.ipynb`** (the one in the main folder).
+2. Click **Select Kernel** (top right of the notebook) → **Python Environments…** → choose **`.venv`** (its path ends in `_ML_WORKSHOP\.venv\Scripts\python.exe`).
+3. Click into **Cell 1** and press **Shift + Enter**. You should see `Rows (pitches): 1000   Columns: 32`. 🎉
+
+> If **Select Kernel** doesn't offer Python environments, the extensions were just installed: press **Ctrl + Shift + P → Developer: Reload Window** and try again.
+
+You're ready. During the workshop, just open VS Code → `_ML_WORKSHOP` → the notebook, and run the cells one by one with **Shift + Enter**.
+
+> Not on Windows? Install Python 3.11–3.13, run `pip install pandas numpy matplotlib scikit-learn joblib ipykernel` in VS Code's terminal, then follow Step 3 with that Python.
 
 ### ✅ Golden rules
 
+- **Always open `deal_ya_doglapan_full_pipeline.ipynb` from the main `_ML_WORKSHOP` folder.** Never open the copy inside the hidden **`.ipynb_checkpoints`** folder: that's Jupyter's auto-backup, and running it gives `FileNotFoundError: Shark_tank/shark_tank_simulated.csv`.
+- **The kernel must be `.venv`.** If you get `ModuleNotFoundError: No module named 'sklearn'` (or pandas), you picked the wrong kernel: redo Step 3.2.
 - **Run the cells in order, top to bottom.** Later cells use variables made by earlier ones.
 - If you get `NameError: name '…' is not defined`, you skipped a cell. Go back and run the cells above it.
-- If things get weird: **Kernel → Restart & Run All** (in VS Code: **Restart**, then **Run All**).
+- If things get weird: click **Restart** at the top of the notebook, then **Run All**.
 
 ---
 
