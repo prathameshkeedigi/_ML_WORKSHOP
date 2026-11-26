@@ -37,8 +37,8 @@ if not exist "%NEWPY%" goto needpython
 if errorlevel 1 goto failed
 
 :packages
-echo [2/3] Installing the notebook libraries and the local Jupyter interface...
-"%ENV_PY%" -m pip install --disable-pip-version-check "numpy>=1.26,<3" "pandas>=2.2,<4" "matplotlib>=3.8,<4" "scikit-learn>=1.4,<2" "jupyterlab>=4,<5" "ipykernel>=6,<8"
+echo [2/3] Installing the notebook libraries and the data-profiling report...
+"%ENV_PY%" -m pip install --disable-pip-version-check "numpy>=1.26,<3" "pandas>=2.2,<4" "matplotlib>=3.8,<4" "scikit-learn>=1.4,<2" "ipykernel>=6,<8" "ipywidgets>=8,<9" "fg-data-profiling>=4.19,<5"
 if errorlevel 1 goto failed
 where code.cmd >nul 2>&1
 if errorlevel 1 goto verify
@@ -55,7 +55,7 @@ if not exist "%ENV_PY%" goto needsetup
 echo [3/3] Checking packages and starting a real notebook kernel...
 "%ENV_PY%" -m pip check
 if errorlevel 1 goto failed
-"%ENV_PY%" -c "from jupyter_client.manager import run_kernel; from pathlib import Path; import sys; code='import sys, numpy, pandas, matplotlib.pyplot, sklearn, IPython, ipykernel, jupyterlab; from sklearn.preprocessing import OneHotEncoder; OneHotEncoder(sparse_output=False); assert sys.prefix == '+repr(sys.prefix); ctx=run_kernel(kernel_name='python3', startup_timeout=60); kc=ctx.__enter__(); reply=kc.execute_interactive(code, timeout=60); ctx.__exit__(None,None,None); sys.exit(0 if reply['content']['status']=='ok' else 1)"
+"%ENV_PY%" -c "from jupyter_client.manager import run_kernel; from pathlib import Path; import sys; code='import sys, numpy, pandas, matplotlib.pyplot, sklearn, IPython, ipykernel, ipywidgets; from data_profiling import ProfileReport; from sklearn.preprocessing import OneHotEncoder; OneHotEncoder(sparse_output=False); assert sys.prefix == '+repr(sys.prefix); ctx=run_kernel(kernel_name='python3', startup_timeout=60); kc=ctx.__enter__(); reply=kc.execute_interactive(code, timeout=60); ctx.__exit__(None,None,None); sys.exit(0 if reply['content']['status']=='ok' else 1)"
 if errorlevel 1 goto failed
 if not exist "%BOOK%" goto needbook
 echo WORKSHOP READY - notebook found and kernel verified.
@@ -67,7 +67,7 @@ exit /b 0
 :open
 if not exist "%ENV_PY%" goto needsetup
 if not exist "%BOOK%" goto needbook
-"%ENV_PY%" -m jupyterlab "%BOOK%"
+call code.cmd . "%BOOK%"
 if errorlevel 1 goto failed
 popd
 exit /b 0
