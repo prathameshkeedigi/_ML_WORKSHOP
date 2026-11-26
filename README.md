@@ -28,19 +28,51 @@ If something breaks, raise your hand and tell us: **"Cell 12, I got this error: 
 |---|---|
 | `deal_ya_doglapan_full_pipeline.ipynb` | The workshop notebook: 42 numbered code cells, with all results already saved |
 | `Shark_tank/shark_tank_simulated.csv` | The dataset: 1,000 pitches × 32 columns |
+| `site/index.html` | 🎮 The interactive **pitch desk**: open it in any browser, no setup needed |
+| `setup_workshop.bat` | One-click setup for Windows |
 | `README.md` | This guide |
 
 ---
 
-## 🚀 Setup (on your laptop: Jupyter or VS Code)
+## 🎮 Just want to play? Open the pitch desk
 
-You need **Python 3.10 or newer**.
+Double-click **`site/index.html`**. It opens in your browser, works offline, and needs no Python. Enter a pitch (industry, ask, equity, revenue…), submit it, and click the photo to see whether our trained model says **Deal** or **Doglapan**.
+
+---
+
+## 🚀 Setup (on your laptop)
+
+### Option A: Windows one-click setup (recommended)
+
+1. Clone the repo (or **Code → Download ZIP** on GitHub and unzip it):
+   ```cmd
+   git clone https://github.com/prathameshkeedigi/_ML_WORKSHOP.git
+   cd _ML_WORKSHOP
+   ```
+2. **Before the workshop, with internet:** double-click `setup_workshop.bat` (or run it in cmd). It:
+   - finds 64-bit Python 3.11–3.13 (and installs Python 3.13 with `winget` if you have none),
+   - creates a private environment in a `.venv` folder,
+   - installs numpy, pandas, matplotlib, scikit-learn and JupyterLab,
+   - adds the Python + Jupyter extensions to VS Code (if you have VS Code),
+   - checks that everything works.
+
+   Wait until it prints **`WORKSHOP READY`**.
+3. **During the workshop:** open the notebook with
+   ```cmd
+   setup_workshop.bat --open
+   ```
+
+Other options: `setup_workshop.bat --check` re-checks your setup without installing anything.
+
+### Option B: Any OS, manual setup
+
+You need **Python 3.11–3.13**.
 
 ```bash
 git clone https://github.com/prathameshkeedigi/_ML_WORKSHOP.git
 cd _ML_WORKSHOP
-pip install pandas numpy matplotlib scikit-learn joblib jupyter
-jupyter notebook deal_ya_doglapan_full_pipeline.ipynb
+pip install pandas numpy matplotlib scikit-learn joblib jupyterlab
+jupyter lab deal_ya_doglapan_full_pipeline.ipynb
 ```
 
 In VS Code: open the folder, open the notebook, pick your Python kernel, and run the cells in order (**Shift + Enter**).
@@ -155,8 +187,8 @@ Your numbers should match these exactly (the data and all random seeds are fixed
 | 38 | Opens the sealed test set: scorecard for all models | Logistic Regression: **79.0% test accuracy** (vs 57.0% for "Always Deal") |
 | 39 | Model ranking + confusion matrix | 101 deals caught, 13 missed, 29 false alarms, 57 correct "No deal" |
 | 40 | Prepares the data for the pitch-desk dashboard | No output (that's normal) |
-| 41 | Dashboard layout | Empty for now: the dashboard will be added during the session |
-| 42 | Opens the dashboard | Until Cell 41 is filled: `Dashboard layout cell not loaded…` (that's expected) |
+| 41 | Loads the dashboard layout and two reaction photos (a very long cell, so just run it) | No output (that's normal) |
+| 42 | 🎮 Opens the pitch desk inside the notebook | `Live model: Logistic Regression \| 800 training pitches \| 200 test pitches` + the interactive desk. It also saves `simulated_pitch_dashboard.html`, the same desk as `site/index.html` |
 
 ---
 

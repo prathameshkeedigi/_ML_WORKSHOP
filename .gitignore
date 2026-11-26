@@ -1,0 +1,6 @@
+# created on students' laptops by setup_workshop.bat / by running the notebook
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+handoff_part1.joblib
+simulated_pitch_dashboard.html
