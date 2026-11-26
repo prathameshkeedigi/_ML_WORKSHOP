@@ -1,0 +1,1001 @@
+Season Number,Episode Number,Pitch Number,Startup Name,Industry,Business Description,Started in,Number of Presenters,Male Presenters,Female Presenters,Couple Presenters,Pitchers Average Age,Pitchers City,Pitchers State,Yearly Revenue,Monthly Sales,Gross Margin,Net Margin,EBITDA,Cash Burn,SKUs,Has Patents,Bootstrapped,Original Ask Amount,Original Offered Equity,Valuation Requested,Received Offer,Accepted Offer,Total Deal Amount,Total Deal Equity,Deal Valuation,Number of Sharks in Deal
+1,1,1,AanganSpace,Lifestyle/Home,Handmade decor,,4,3,1,0,Middle,Delhi,Delhi,43.0,4.5,57.0,-6.5,1.4,no,6.0,no,yes,40.0,4.0,1000.0,0,,,,,
+1,1,2,OfficePartners,Business Services,Corporate gifting,2018.0,2,2,0,0,Middle,Mumbai,Maharashtra,53.0,6.3,52.0,,12.9,no,1.0,no,funded,60.0,1.5,4000.0,0,,,,,
+1,1,3,KesarFresh,Food and Beverage,Healthy millet snacks,,2,2,0,0,Middle,Jaipur,Rajasthan,,2871.9,33.0,,,yes,35.0,yes,yes,200.0,1.0,20000.0,1,1.0,400.0,2.68,14925.37,2.0
+1,1,4,SutraLabel,Beauty/Fashion,Plus-size ethnic wear,2017.0,1,1,0,0,Middle,Gurugram,Haryana,529.0,26.5,59.0,5.3,7.1,no,,no,yes,35.0,3.5,1000.0,1,1.0,35.0,4.02,870.65,3.0
+1,2,5,SutraWear,Beauty/Fashion,Handloom sarees online,2017.0,2,2,0,0,Middle,Delhi,Delhi,1368.0,37.9,77.0,,14.0,no,111.0,no,funded,90.0,1.25,7200.0,1,1.0,90.0,2.72,3308.82,3.0
+1,2,6,VitalPlus,Medical/Health,Ortho support braces,2020.0,2,1,1,1,Middle,Kolkata,West Bengal,101.0,15.4,,34.7,37.3,no,8.0,,yes,70.0,1.5,4666.67,1,0.0,,,,
+1,2,7,SmartHub,Business Services,HR outsourcing,2019.0,2,2,0,0,Young,Mumbai,Maharashtra,421.0,27.1,,2.4,3.5,no,11.0,no,yes,40.0,2.0,2000.0,1,1.0,40.0,4.25,941.18,2.0
+1,2,8,ArogyaCare,Medical/Health,Menstrual care products,2019.0,2,2,0,0,Middle,Delhi,Delhi,1059.0,,63.0,,16.1,no,19.0,no,yes,75.0,2.0,3750.0,1,1.0,75.0,2.0,3750.0,1.0
+1,3,9,LoopTech,Technology/Software,Vernacular learning app,2012.0,1,0,1,0,Middle,Ahmedabad,Gujarat,3787.0,504.7,91.0,7.1,11.0,yes,1.0,no,yes,90.0,0.75,12000.0,1,1.0,90.0,0.75,12000.0,3.0
+1,3,10,TadkaFoods,Food and Beverage,Healthy millet snacks,,1,1,0,0,Middle,Mumbai,Maharashtra,,16.9,47.0,6.9,13.5,no,18.0,no,yes,150.0,10.0,1500.0,1,1.0,150.0,10.0,1500.0,1.0
+1,3,11,MittiCo,Lifestyle/Home,Modular furniture,,3,3,0,0,Young,Mumbai,Maharashtra,965.0,79.5,66.0,,16.3,,10.0,no,yes,100.0,2.5,4000.0,1,1.0,65.0,1.68,3869.05,2.0
+1,3,12,NutriBrew,Food and Beverage,Ready-to-cook regional curries,2013.0,2,1,1,1,Middle,Delhi,Delhi,174.0,2.8,,2.2,4.7,no,108.0,no,funded,60.0,1.5,4000.0,1,0.0,,,,
+1,4,13,SutraWearPlus,Beauty/Fashion,Silver jewellery,2021.0,1,1,0,0,Young,Hyderabad,Telangana,26.0,,79.0,20.6,23.3,no,,no,funded,100.0,6.0,1666.67,0,,,,,
+1,4,14,BharatWorks,Manufacturing,Biodegradable cutlery,,4,4,0,0,Middle,Indore,Madhya Pradesh,252.0,,57.0,13.9,18.8,no,72.0,no,funded,75.0,2.5,3000.0,1,1.0,75.0,4.64,1616.38,1.0
+1,4,15,HealPlus,Medical/Health,Diabetes-friendly foods,2012.0,2,0,2,0,Middle,Delhi,Delhi,0.0,0.0,,,,,,no,funded,90.0,12.0,750.0,0,,,,,
+1,4,16,SahayakAssist,Business Services,HR outsourcing,2017.0,1,1,0,0,Middle,Nagpur,Maharashtra,1054.0,37.7,,,18.0,no,2.0,,,90.0,0.5,18000.0,1,0.0,,,,
+1,5,17,CosyCo,Lifestyle/Home,Handmade decor,2018.0,2,1,1,1,Middle,Delhi,Delhi,23.0,1.2,56.0,,,no,97.0,no,funded,70.0,20.0,350.0,0,,,,,
+1,5,18,WoofPals,Animal/Pets,Pet treats,2019.0,2,1,1,1,Middle,Hyderabad,Telangana,379.0,33.0,58.0,23.5,28.2,no,98.0,no,funded,35.0,2.5,1400.0,1,1.0,35.0,2.5,1400.0,1.0
+1,5,19,ZariLabel,Beauty/Fashion,Sustainable sneakers,2020.0,3,1,2,0,Middle,Bangalore,Karnataka,,0.3,92.0,21.2,27.1,no,7.0,no,yes,35.0,10.0,350.0,1,1.0,30.0,23.43,128.04,1.0
+1,5,20,ChaiBrew,Food and Beverage,Ready-to-cook regional curries,2020.0,2,2,0,0,Young,Ahmedabad,Gujarat,80.0,,49.0,3.5,16.5,no,104.0,,yes,150.0,3.0,5000.0,0,,,,,
+1,6,21,HaldiFresh,Food and Beverage,Ready-to-cook regional curries,2021.0,3,3,0,0,Middle,Ludhiana,Punjab,70.0,4.9,52.0,,31.6,no,220.0,yes,,80.0,2.0,4000.0,0,,,,,
+1,6,22,SwasthRx,Medical/Health,Ortho support braces,,3,1,2,0,Middle,Gurugram,Haryana,69.0,5.8,80.0,9.3,13.7,no,99.0,no,yes,75.0,5.0,1500.0,1,1.0,75.0,12.77,587.31,2.0
+1,6,23,KonaDecor,Lifestyle/Home,Eco cleaning products,2020.0,2,2,0,0,Middle,Kolkata,West Bengal,75.0,5.8,82.0,14.6,18.4,no,41.0,no,yes,70.0,1.5,4666.67,1,1.0,70.0,5.0,1400.0,1.0
+1,6,24,PaaniPlanet,Green/CleanTech,Rooftop solar,2020.0,1,1,0,0,Middle,Gurugram,Haryana,164.0,7.7,48.0,,3.5,,17.0,no,funded,60.0,6.0,1000.0,1,1.0,60.0,12.47,481.15,4.0
+1,7,25,PulseLabs,Medical/Health,Diabetes-friendly foods,2020.0,1,1,0,0,Middle,Delhi,Delhi,279.0,16.7,52.0,,1.8,no,38.0,no,yes,75.0,4.0,1875.0,1,1.0,55.0,6.5,846.15,5.0
+1,7,26,SprintMoves,Fitness/Sports/Outdoors,Smart skipping rope,2016.0,2,2,0,0,Young,,Delhi,364.0,46.7,46.0,-1.5,0.6,no,71.0,no,,120.0,3.0,4000.0,0,,,,,
+1,7,27,ChaiKitchen,Food and Beverage,Artisanal coffee,2012.0,1,1,0,0,Young,Gurugram,Haryana,771.0,183.8,54.0,,,yes,127.0,no,funded,60.0,1.0,6000.0,1,1.0,60.0,2.59,2316.6,2.0
+1,7,28,StaminaFit,Fitness/Sports/Outdoors,Camping equipment,2021.0,2,2,0,0,Middle,Jaipur,Rajasthan,36.0,2.1,64.0,,11.0,,20.0,no,funded,50.0,5.0,1000.0,1,1.0,30.0,12.44,241.16,1.0
+1,8,29,HaldiFoods360,Food and Beverage,Artisanal coffee,2018.0,2,2,0,0,Young,Delhi,Delhi,83.0,,50.0,-22.3,-20.6,no,,no,funded,60.0,1.5,4000.0,0,,,,,
+1,8,30,NestHome,Lifestyle/Home,Organic bedding,2021.0,1,1,0,0,Middle,Jaipur,Rajasthan,100.0,17.3,,,7.1,no,4.0,no,yes,35.0,3.5,1000.0,1,1.0,20.0,2.86,699.3,3.0
+1,8,31,BinduWear,Beauty/Fashion,Plus-size ethnic wear,2021.0,2,2,0,0,Young,Guwahati,Assam,50.0,1.9,67.0,9.1,19.9,no,160.0,no,funded,45.0,7.5,600.0,1,1.0,45.0,24.25,185.57,2.0
+1,8,32,NutriBrewPlus,Food and Beverage,Artisanal coffee,2020.0,1,1,0,0,Middle,Kolkata,West Bengal,304.0,,30.0,,5.0,no,,yes,funded,50.0,3.0,1666.67,1,1.0,25.0,4.71,530.79,1.0
+1,9,33,MilletDabba,Food and Beverage,Healthy millet snacks,2020.0,2,2,0,0,Middle,Delhi,Delhi,13.0,0.9,63.0,-1.1,10.5,no,109.0,no,yes,40.0,6.0,666.67,1,1.0,50.0,58.47,85.51,2.0
+1,9,34,NeuralTech,Technology/Software,SaaS for kirana billing,2018.0,2,1,1,1,Middle,Delhi,Delhi,1393.0,74.5,77.0,,1.6,,1.0,no,funded,90.0,1.25,7200.0,1,1.0,90.0,1.25,7200.0,4.0
+1,9,35,ZariCare,Beauty/Fashion,Sustainable sneakers,2018.0,3,2,1,0,Middle,Bangalore,Karnataka,551.0,56.9,66.0,6.6,15.9,,,no,funded,40.0,5.0,800.0,1,1.0,30.0,3.75,800.0,1.0
+1,9,36,SmartSolutions,Business Services,HR outsourcing,,4,0,4,0,Middle,Delhi,Delhi,159.0,9.8,45.0,,,,1.0,,yes,35.0,1.5,2333.33,0,,,,,
+1,10,37,DhagaLabel,Beauty/Fashion,Handloom sarees online,2019.0,2,2,0,0,Middle,Delhi,Delhi,150.0,,73.0,,10.7,no,30.0,no,funded,75.0,1.0,7500.0,0,,,,,
+1,10,38,HaldiDabba,Food and Beverage,Ready-to-cook regional curries,2014.0,2,1,1,1,Middle,Gurugram,Haryana,1785.0,58.1,51.0,16.9,18.3,no,70.0,no,yes,75.0,2.0,3750.0,1,1.0,40.0,2.1,1904.76,1.0
+1,10,39,VidyaAcademy,Children/Education,Exam prep app,2015.0,3,2,1,0,Old,Bangalore,Karnataka,237.0,21.4,63.0,,8.1,no,,no,funded,40.0,4.0,1000.0,1,1.0,40.0,4.11,973.24,1.0
+1,10,40,BharatFab,Manufacturing,Steel kitchenware,2017.0,1,1,0,0,Middle,Delhi,Delhi,393.0,51.9,45.0,-4.3,4.2,no,47.0,yes,yes,75.0,2.5,3000.0,1,1.0,75.0,4.32,1736.11,2.0
+1,11,41,KayaCarePro,Beauty/Fashion,Men's grooming kits,,1,0,1,0,Young,Bangalore,Karnataka,228.0,31.3,66.0,,46.7,no,,no,funded,90.0,7.5,1200.0,1,1.0,90.0,7.5,1200.0,1.0
+1,11,42,VedaClinic,Medical/Health,Telehealth for villages,2019.0,3,3,0,0,Middle,Hubballi,Karnataka,350.0,,81.0,23.5,26.6,,3.0,yes,yes,125.0,1.0,12500.0,1,1.0,125.0,2.46,5081.3,2.0
+1,11,43,KonaLivingX,Lifestyle/Home,Handmade decor,2021.0,2,1,1,1,Middle,Ahmedabad,Gujarat,122.0,,72.0,,,no,65.0,yes,funded,90.0,1.25,7200.0,0,,,,,
+1,11,44,DhagaSkinPro,Beauty/Fashion,Ayurvedic skincare,2020.0,3,3,0,0,Middle,Bangalore,Karnataka,353.0,27.8,70.0,7.5,9.4,,,no,yes,70.0,2.5,2800.0,1,1.0,87.5,7.67,1140.81,2.0
+1,12,45,KayaBeauty,Beauty/Fashion,Handloom sarees online,2021.0,2,2,0,0,Middle,Bangalore,Karnataka,4155.0,359.5,84.0,8.7,10.2,no,16.0,no,yes,300.0,2.0,15000.0,1,1.0,255.0,1.7,15000.0,1.0
+1,12,46,TadkaTreats,Food and Beverage,Ready-to-cook regional curries,2019.0,2,1,1,1,Middle,Mumbai,Maharashtra,331.0,20.5,52.0,,,,21.0,no,yes,100.0,4.0,2500.0,1,1.0,100.0,10.87,919.96,1.0
+1,12,47,ByteSoftOne,Technology/Software,Clinic management app,2021.0,3,1,2,0,Young,Delhi,Delhi,63.0,3.0,,,7.6,no,2.0,no,yes,40.0,1.25,3200.0,1,0.0,,,,
+1,12,48,KesarFoods360,Food and Beverage,Sugar-free sweets,2020.0,2,1,1,1,Young,Mumbai,Maharashtra,,,53.0,7.8,10.5,no,,no,yes,90.0,3.0,3000.0,1,0.0,,,,
+1,13,49,SaffronWear,Beauty/Fashion,Sustainable sneakers,2013.0,2,1,1,1,Young,Delhi,Delhi,920.0,59.5,76.0,28.8,39.5,no,,no,yes,250.0,6.0,4166.67,1,1.0,250.0,11.13,2246.18,1.0
+1,13,50,MonsoonBrews,Liquor/Alcohol,Indian single malt,2021.0,1,1,0,0,Middle,Ahmedabad,Gujarat,23.0,,,,5.3,no,111.0,no,yes,40.0,6.0,666.67,1,1.0,80.0,46.15,173.35,2.0
+1,13,51,TrekActive,Fitness/Sports/Outdoors,Smart skipping rope,2020.0,2,1,1,1,Middle,Mumbai,Maharashtra,653.0,,57.0,8.4,15.2,no,,no,yes,200.0,3.0,6666.67,0,,,,,
+1,13,52,KhelGear,Fitness/Sports/Outdoors,Camping equipment,2017.0,2,1,1,1,Middle,Jaipur,Rajasthan,,15.3,,-6.7,3.7,no,20.0,no,yes,60.0,1.5,4000.0,1,1.0,60.0,3.17,1892.74,4.0
+1,14,53,MilletFresh,Food and Beverage,Protein-rich namkeen,2017.0,1,1,0,0,Young,Mumbai,Maharashtra,1191.0,131.5,49.0,10.6,11.9,,,no,yes,120.0,2.5,4800.0,1,1.0,120.0,2.5,4800.0,3.0
+1,14,54,MilletBites,Food and Beverage,Ready-to-cook regional curries,2010.0,2,2,0,0,Middle,Ahmedabad,Gujarat,,34.3,46.0,-5.6,14.9,no,61.0,no,yes,60.0,3.5,1714.29,1,1.0,120.0,23.12,519.03,2.0
+1,14,55,UrbanLiving,Lifestyle/Home,Modular furniture,2021.0,2,2,0,0,Middle,Goa,Goa,58.0,,42.0,,,no,96.0,no,yes,120.0,4.0,3000.0,0,,,,,
+1,14,56,ZenHome,Lifestyle/Home,Smart home lighting,2012.0,1,0,1,0,Middle,Mumbai,Maharashtra,92.0,,52.0,,0.1,no,,no,funded,175.0,2.0,8750.0,0,,,,,
+1,15,57,GreenPower,Green/CleanTech,Solar dryers for farmers,2020.0,2,1,1,1,Middle,Kochi,Kerala,102.0,,9.0,,,yes,40.0,no,yes,80.0,7.5,1066.67,0,,,,,
+1,15,58,UtsavCo,Others,Stationery,2020.0,2,0,2,0,Middle,Noida,Uttar Pradesh,65.0,11.5,,-16.1,0.7,yes,94.0,no,,40.0,3.5,1142.86,1,1.0,40.0,13.97,286.33,1.0
+1,15,59,MehndiSkin,Beauty/Fashion,Men's grooming kits,2015.0,1,1,0,0,Young,Delhi,Delhi,30.0,3.9,83.0,15.4,17.5,no,7.0,,funded,40.0,4.0,1000.0,1,0.0,,,,
+1,15,60,KayaBeauty360,Beauty/Fashion,Handloom sarees online,2018.0,2,0,2,0,Middle,Vadodara,Gujarat,515.0,,71.0,,23.1,yes,101.0,no,funded,90.0,2.5,3600.0,1,1.0,55.0,1.53,3594.77,3.0
+1,16,61,SutraLabelX,Beauty/Fashion,Men's grooming kits,2017.0,3,1,2,0,Middle,Ahmedabad,Gujarat,35.0,2.7,,6.0,19.1,no,33.0,no,yes,25.0,5.0,500.0,1,1.0,25.0,25.95,96.34,3.0
+1,16,62,SutraSkinOne,Beauty/Fashion,Men's grooming kits,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,46.0,,70.0,,12.6,,10.0,no,yes,35.0,3.0,1166.67,1,1.0,35.0,9.09,385.04,3.0
+1,16,63,BinduStudio,Beauty/Fashion,Silver jewellery,2020.0,1,1,0,0,Middle,Gurugram,Haryana,88.0,,70.0,,,yes,,no,funded,100.0,12.0,833.33,0,,,,,
+1,16,64,HarvestFarms,Agriculture,Hydroponic farming kits,2020.0,1,1,0,0,Young,,,346.0,19.5,42.0,13.9,21.5,,8.0,no,funded,250.0,6.0,4166.67,1,0.0,,,,
+1,17,65,E-DriveGo,Vehicles/Electrical Vehicles,Electric 3-wheelers,2014.0,3,1,2,0,Middle,,,1195.0,213.6,,,10.0,,51.0,yes,funded,100.0,1.25,8000.0,1,1.0,60.0,0.75,8000.0,1.0
+1,17,66,NutriSnacks,Food and Beverage,Protein-rich namkeen,2020.0,3,1,2,0,Middle,Delhi,Delhi,466.0,,33.0,,9.8,,4.0,no,,40.0,4.0,1000.0,1,1.0,40.0,9.78,409.0,2.0
+1,17,67,KesarTreats,Food and Beverage,Protein-rich namkeen,2017.0,3,3,0,0,Middle,Goa,Goa,254.0,26.3,,,,yes,13.0,no,funded,250.0,6.0,4166.67,1,0.0,,,,
+1,17,68,SahayakDesk,Business Services,B2B logistics,2018.0,2,1,1,0,Middle,Gurugram,Haryana,39.0,3.6,50.0,-8.0,1.0,no,1.0,no,yes,90.0,6.0,1500.0,0,,,,,
+1,18,69,JoshSports360,Fitness/Sports/Outdoors,Smart skipping rope,2018.0,3,3,0,0,Middle,Ahmedabad,Gujarat,272.0,14.6,50.0,-12.4,1.8,no,19.0,no,yes,150.0,2.0,7500.0,1,1.0,150.0,5.2,2884.62,4.0
+1,18,70,MilletSnacks,Food and Beverage,Ready-to-cook regional curries,2020.0,3,2,1,0,Young,Bangalore,Karnataka,221.0,20.1,65.0,0.4,8.4,no,12.0,no,funded,25.0,1.5,1666.67,1,1.0,25.0,3.38,739.64,4.0
+1,18,71,GharCraft,Lifestyle/Home,Organic bedding,2015.0,1,0,1,0,Middle,Mumbai,Maharashtra,2080.0,104.0,57.0,,36.3,no,,no,yes,125.0,2.5,5000.0,1,0.0,,,,
+1,18,72,LinkSolutionsPro,Business Services,Co-working spaces,,1,1,0,0,Middle,Bangalore,Karnataka,,6.9,43.0,13.9,16.7,no,1.0,no,yes,40.0,4.0,1000.0,1,1.0,40.0,9.91,403.63,4.0
+1,19,73,CureHealth,Medical/Health,Menstrual care products,2018.0,3,3,0,0,Middle,Hyderabad,Telangana,267.0,7.6,67.0,,8.4,no,,no,funded,40.0,5.0,800.0,1,0.0,,,,
+1,19,74,NutriTreats,Food and Beverage,Sugar-free sweets,2013.0,2,1,1,1,Middle,Goa,Goa,287.0,78.5,57.0,,,,,no,yes,70.0,2.0,3500.0,1,1.0,70.0,5.09,1375.25,2.0
+1,19,75,MittiSpace,Lifestyle/Home,Scented candles,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,102.0,,56.0,2.5,8.6,no,101.0,no,funded,45.0,3.5,1285.71,0,,,,,
+1,19,76,ZipAuto,Vehicles/Electrical Vehicles,Electric scooters,2015.0,2,2,0,0,Middle,Ludhiana,Punjab,382.0,39.6,,,21.0,no,175.0,yes,funded,50.0,3.0,1666.67,1,1.0,50.0,5.62,889.68,1.0
+1,20,77,PulseLabsX,Medical/Health,At-home diagnostic kits,2015.0,1,1,0,0,Middle,Hyderabad,Telangana,613.0,103.5,80.0,22.4,28.9,no,,no,funded,100.0,2.0,5000.0,1,1.0,50.0,1.92,2604.17,1.0
+1,20,78,DesiFoodsOne,Food and Beverage,Ready-to-cook regional curries,2016.0,3,2,1,0,Middle,Delhi,Delhi,,5.7,,,11.2,no,47.0,no,funded,40.0,2.5,1600.0,1,1.0,40.0,8.12,492.61,1.0
+1,20,79,AyurHealth,Medical/Health,Smart pill dispenser,2018.0,2,2,0,0,Middle,Delhi,Delhi,498.0,,,-6.3,-3.7,yes,367.0,yes,,35.0,3.5,1000.0,0,,,,,
+1,20,80,SuryaPowerX,Green/CleanTech,Solar dryers for farmers,2019.0,1,1,0,0,Young,Mumbai,Maharashtra,388.0,17.5,53.0,,2.5,no,7.0,no,yes,125.0,2.0,6250.0,0,,,,,
+1,21,81,RasoiDabba,Food and Beverage,Cold-pressed juices,2015.0,2,2,0,0,Middle,Mumbai,Maharashtra,1165.0,52.3,60.0,8.4,11.1,no,134.0,no,yes,45.0,5.0,900.0,1,1.0,45.0,5.0,900.0,2.0
+1,21,82,RasoiFresh360,Food and Beverage,Ready-to-cook regional curries,2017.0,1,1,0,0,Middle,Delhi,Delhi,1567.0,,54.0,,,no,,no,,70.0,1.25,5600.0,1,1.0,45.0,2.5,1800.0,2.0
+1,21,83,KayaSkin,Beauty/Fashion,Men's grooming kits,,3,1,2,0,Middle,Hyderabad,Telangana,383.0,43.0,92.0,6.3,10.5,no,19.0,no,,120.0,2.0,6000.0,1,1.0,120.0,2.0,6000.0,1.0
+1,21,84,SaffronCare,Beauty/Fashion,Handloom sarees online,2019.0,2,0,2,0,Young,Ahmedabad,Gujarat,122.0,6.6,65.0,,6.8,no,10.0,no,funded,50.0,2.5,2000.0,0,,,,,
+1,22,85,EcoFab,Manufacturing,Biodegradable cutlery,2014.0,2,2,0,0,Young,Gurugram,Haryana,163.0,15.5,45.0,5.4,10.7,no,,no,yes,120.0,2.5,4800.0,0,,,,,
+1,22,86,NeuralAIPro,Technology/Software,SaaS for kirana billing,2016.0,1,1,0,0,Middle,Delhi,Delhi,681.0,,69.0,3.4,13.4,no,,,funded,120.0,1.25,9600.0,1,1.0,70.0,0.94,7446.81,2.0
+1,22,87,KiddoMinds,Children/Education,Exam prep app,2019.0,5,4,1,0,Middle,Goa,Goa,54.0,2.3,71.0,,-0.7,yes,11.0,no,funded,50.0,1.5,3333.33,0,,,,,
+1,22,88,KayaSkinOne,Beauty/Fashion,Ayurvedic skincare,2019.0,1,1,0,0,Young,Mumbai,Maharashtra,,,500.0,2.6,12.7,,113.0,no,yes,70.0,3.5,2000.0,1,1.0,70.0,11.39,614.57,5.0
+1,23,89,ChaiBitesOne,Food and Beverage,Artisanal coffee,2018.0,3,3,0,0,Middle,Bangalore,Karnataka,248.0,20.7,78.0,-6.1,10.1,no,218.0,no,yes,40.0,2.5,1600.0,1,1.0,40.0,2.5,1600.0,2.0
+1,23,90,JeevanLabsPro,Medical/Health,Telehealth for villages,2017.0,2,0,2,0,Middle,Bangalore,Karnataka,317.0,31.5,61.0,,,no,13.0,,funded,70.0,4.0,1750.0,1,1.0,65.0,3.71,1752.02,3.0
+1,23,91,RasoiBrew,Food and Beverage,Sugar-free sweets,2018.0,1,1,0,0,Middle,Bangalore,Karnataka,527.0,21.6,,,2.8,yes,,no,,45.0,3.5,1285.71,1,1.0,25.0,4.94,506.07,1.0
+1,23,92,ByteTechOne,Technology/Software,Fleet tracking software,2013.0,3,2,1,0,Middle,Bangalore,Karnataka,20.0,1.7,78.0,13.3,15.3,yes,1.0,yes,funded,25.0,4.0,625.0,1,1.0,31.25,15.35,203.58,2.0
+1,24,93,UdyogParts,Manufacturing,Recycled plastic tiles,2018.0,2,1,1,1,Middle,Indore,Madhya Pradesh,,1.7,45.0,-16.9,-12.1,no,17.0,no,funded,60.0,3.5,1714.29,1,1.0,60.0,12.72,471.7,1.0
+1,24,94,StaminaActive,Fitness/Sports/Outdoors,Smart skipping rope,2018.0,3,3,0,0,Middle,Bangalore,Karnataka,925.0,40.3,,,,yes,25.0,no,yes,70.0,2.0,3500.0,1,1.0,84.0,2.4,3500.0,2.0
+1,24,95,BrightMinds,Children/Education,Montessori furniture,2021.0,2,1,1,1,Middle,Ahmedabad,Gujarat,42.0,1.7,33.0,-1.9,9.8,no,211.0,no,funded,30.0,2.5,1200.0,0,,,,,
+1,24,96,SaffronWearPro,Beauty/Fashion,Handloom sarees online,2021.0,2,1,1,0,Middle,Surat,Gujarat,271.0,127.5,84.0,,28.5,no,,no,yes,50.0,2.0,2500.0,1,1.0,50.0,5.02,996.02,1.0
+1,25,97,DesiBrew,Food and Beverage,Artisanal coffee,2017.0,3,1,2,0,Young,Kochi,Kerala,116.0,,54.0,,19.7,,17.0,no,yes,70.0,1.5,4666.67,1,1.0,84.0,9.72,864.2,2.0
+1,25,98,BalToys,Children/Education,Story books in Indian languages,2019.0,1,1,0,0,Middle,Gurugram,Haryana,590.0,,53.0,,15.0,no,79.0,no,funded,35.0,1.5,2333.33,1,1.0,35.0,3.51,997.15,1.0
+1,25,99,MediClinicPlus,Medical/Health,At-home diagnostic kits,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,205.0,9.1,74.0,-14.0,-1.5,yes,36.0,,funded,120.0,3.5,3428.57,1,1.0,70.0,5.25,1333.33,4.0
+1,25,100,KayaLoom,Beauty/Fashion,Men's grooming kits,,1,1,0,0,Middle,Bangalore,Karnataka,35.0,3.5,51.0,11.2,14.6,no,30.0,no,funded,50.0,4.0,1250.0,1,1.0,30.0,6.48,462.96,5.0
+1,26,101,KesarKitchen,Food and Beverage,Ready-to-cook regional curries,2013.0,1,1,0,0,Middle,Hyderabad,Telangana,281.0,23.1,37.0,-16.8,-8.7,yes,,no,yes,120.0,1.5,8000.0,0,,,,,
+1,26,102,SmartLogixX,Business Services,HR outsourcing,2016.0,2,2,0,0,Middle,Bangalore,Karnataka,296.0,32.8,47.0,2.2,8.8,,1.0,no,funded,35.0,1.25,2800.0,0,,,,,
+1,26,103,BinduLabel,Beauty/Fashion,Sustainable sneakers,2021.0,3,3,0,0,Middle,Pune,Maharashtra,80.0,4.1,45.0,,2.3,no,,no,funded,35.0,3.5,1000.0,0,,,,,
+1,26,104,HealHealthX,Medical/Health,Telehealth for villages,2019.0,3,2,1,0,Middle,Mumbai,Maharashtra,20.0,5.6,,-3.6,8.0,,47.0,no,funded,30.0,4.0,750.0,1,1.0,45.0,28.6,157.34,2.0
+1,27,105,SteelParts,Manufacturing,Steel kitchenware,2016.0,2,2,0,0,Middle,Delhi,Delhi,289.0,58.9,,,,no,,no,yes,250.0,2.5,10000.0,1,1.0,250.0,8.79,2844.14,1.0
+1,27,106,RideMobility,Vehicles/Electrical Vehicles,Electric scooters,2018.0,3,3,0,0,Middle,Mumbai,Maharashtra,2223.0,380.2,20.0,,-24.2,yes,55.0,yes,funded,90.0,1.0,9000.0,1,1.0,90.0,1.4,6428.57,1.0
+1,27,107,CureCareX,Medical/Health,Menstrual care products,2021.0,2,2,0,0,Middle,Jaipur,Rajasthan,780.0,78.0,78.0,9.4,13.5,no,88.0,,funded,100.0,1.25,8000.0,1,1.0,100.0,2.09,4784.69,3.0
+1,27,108,PixelAIX,Technology/Software,SaaS for kirana billing,2019.0,2,2,0,0,Middle,Surat,Gujarat,2832.0,373.7,52.0,,14.2,,,,yes,175.0,0.5,35000.0,1,1.0,75.0,0.31,24193.55,2.0
+1,28,109,PeakMoves,Fitness/Sports/Outdoors,Smart skipping rope,2021.0,1,0,1,0,Middle,Mumbai,Maharashtra,202.0,16.4,52.0,1.5,3.3,yes,94.0,no,yes,100.0,1.0,10000.0,0,,,,,
+1,28,110,NeuralStackPro,Technology/Software,AI resume screening,,2,2,0,0,Middle,Ahmedabad,Gujarat,813.0,,56.0,11.9,13.9,no,4.0,no,,250.0,1.25,20000.0,1,1.0,250.0,3.96,6313.13,1.0
+1,28,111,ZipEVPro,Vehicles/Electrical Vehicles,EV for delivery fleets,,2,2,0,0,Middle,Hyderabad,Telangana,1448.0,162.9,,,,yes,63.0,yes,yes,50.0,2.5,2000.0,1,1.0,50.0,4.02,1243.78,1.0
+1,28,112,KayaWear,Beauty/Fashion,Plus-size ethnic wear,2022.0,1,1,0,0,Middle,Mumbai,Maharashtra,282.0,,71.0,,,yes,,no,yes,50.0,1.5,3333.33,1,1.0,35.0,2.17,1612.9,2.0
+1,29,113,PixelStackPlus,Technology/Software,AI resume screening,2020.0,2,2,0,0,Middle,Ludhiana,Punjab,91.0,30.9,38.0,,,no,3.0,no,funded,50.0,2.0,2500.0,0,,,,,
+1,29,114,TatvaDecorPro,Lifestyle/Home,Eco cleaning products,2017.0,1,0,1,0,Middle,Gurugram,Haryana,503.0,39.1,43.0,-6.4,9.9,,19.0,yes,,80.0,1.0,8000.0,0,,,,,
+1,29,115,SolarEnergy,Green/CleanTech,Compostable bags,,2,2,0,0,Middle,Mumbai,Maharashtra,125.0,6.3,,,4.9,no,48.0,no,funded,50.0,3.0,1666.67,0,,,,,
+1,29,116,ChaiFoods,Food and Beverage,Sugar-free sweets,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,228.0,46.1,77.0,8.4,20.6,no,,no,yes,50.0,2.0,2500.0,1,1.0,50.0,6.1,819.67,3.0
+1,30,117,VitalLabsOne,Medical/Health,Menstrual care products,2017.0,1,0,1,0,Middle,Lucknow,Uttar Pradesh,75.0,13.8,47.0,4.1,9.7,,,no,funded,120.0,5.0,2400.0,0,,,,,
+1,30,118,ZariLabelPlus,Beauty/Fashion,Plus-size ethnic wear,2021.0,1,0,1,0,Middle,Jaipur,Rajasthan,32.0,2.5,,8.6,14.6,yes,5.0,no,yes,75.0,1.5,5000.0,0,,,,,
+1,30,119,ProConnect,Business Services,HR outsourcing,2017.0,2,2,0,0,Middle,Delhi,Delhi,94.0,,49.0,-7.4,3.4,no,5.0,no,yes,60.0,2.5,2400.0,0,,,,,
+1,30,120,ShikshaTots,Children/Education,STEM toy kits,2020.0,1,0,1,0,Old,Delhi,Delhi,99.0,8.4,77.0,3.1,4.9,no,,no,funded,60.0,2.5,2400.0,1,1.0,50.0,2.08,2403.85,1.0
+1,31,121,PulsePlus,Medical/Health,At-home diagnostic kits,2018.0,2,2,0,0,Middle,,,1095.0,77.8,80.0,29.6,34.2,no,,,,200.0,1.25,16000.0,1,1.0,200.0,1.25,16000.0,4.0
+1,31,122,VidyaAcademyPlus,Children/Education,Montessori furniture,2020.0,2,2,0,0,Middle,Ahmedabad,Gujarat,52.0,4.2,68.0,8.0,12.1,no,1677.0,no,yes,25.0,4.0,625.0,1,1.0,25.0,4.0,625.0,1.0
+1,31,123,RangLoomOne,Beauty/Fashion,Plus-size ethnic wear,2021.0,1,1,0,0,Middle,Bangalore,Karnataka,,34.6,82.0,24.8,29.9,no,,no,funded,80.0,1.0,8000.0,1,1.0,80.0,1.0,8000.0,1.0
+1,31,124,MehndiThreadsPro,Beauty/Fashion,Handloom sarees online,2011.0,1,1,0,0,Middle,Bangalore,Karnataka,1243.0,216.2,49.0,,31.7,no,,yes,funded,50.0,2.0,2500.0,1,1.0,35.0,1.4,2500.0,2.0
+1,32,125,MilletSnacksPro,Food and Beverage,Sugar-free sweets,2018.0,2,2,0,0,Middle,Delhi,Delhi,371.0,10.5,49.0,,18.5,yes,213.0,no,yes,60.0,2.5,2400.0,1,1.0,60.0,7.26,826.45,2.0
+1,32,126,KayaStudio,Beauty/Fashion,Handloom sarees online,2018.0,2,2,0,0,Middle,Kolkata,West Bengal,245.0,34.7,45.0,,-22.1,yes,,no,funded,90.0,5.0,1800.0,0,,,,,
+1,32,127,BalTots,Children/Education,Coding classes for kids,,2,2,0,0,Middle,Guwahati,Assam,68.0,4.6,89.0,14.2,23.8,no,,,funded,90.0,3.5,2571.43,1,1.0,90.0,3.95,2278.48,1.0
+1,32,128,ZipEVPlus,Vehicles/Electrical Vehicles,Electric scooters,,1,1,0,0,Middle,Lucknow,Uttar Pradesh,133.0,,36.0,3.0,11.8,no,4.0,yes,yes,125.0,4.0,3125.0,1,1.0,125.0,17.5,714.29,1.0
+1,33,129,SuryaLabs,Green/CleanTech,Biogas plants,2020.0,1,0,1,0,Middle,Hubballi,Karnataka,18.0,1.7,55.0,,,no,70.0,,yes,45.0,4.0,1125.0,1,1.0,45.0,29.51,152.49,2.0
+1,33,130,GlowLoom360,Beauty/Fashion,Sustainable sneakers,2021.0,2,1,1,1,Young,Jaipur,Rajasthan,166.0,,,14.5,23.5,no,177.0,,funded,60.0,2.0,3000.0,0,,,,,
+1,33,131,UtsavIndia,Others,Travel experiences,2018.0,3,3,0,0,Middle,Mumbai,Maharashtra,179.0,14.9,46.0,,,yes,,no,yes,150.0,2.0,7500.0,1,1.0,150.0,8.99,1668.52,2.0
+1,33,132,HealWell360,Medical/Health,Menstrual care products,2018.0,2,2,0,0,Middle,Hyderabad,Telangana,1084.0,64.4,72.0,,14.4,no,102.0,no,funded,120.0,2.0,6000.0,1,1.0,120.0,2.0,6000.0,1.0
+1,34,133,MilletFreshPro,Food and Beverage,Protein-rich namkeen,2012.0,1,1,0,0,Young,Hubballi,Karnataka,42.0,7.5,,-6.1,-4.8,yes,135.0,no,funded,100.0,7.5,1333.33,0,,,,,
+1,34,134,SevaConnect,Business Services,HR outsourcing,2015.0,4,4,0,0,Middle,Noida,Uttar Pradesh,,,45.0,,12.8,,5.0,no,funded,35.0,3.0,1166.67,0,,,,,
+1,34,135,NovaLabsPro,Technology/Software,AI resume screening,2020.0,1,1,0,0,Middle,Mumbai,Maharashtra,338.0,,47.0,2.3,10.6,,1.0,no,,100.0,1.0,10000.0,0,,,,,
+1,34,136,SteelPolymersX,Manufacturing,Packaging solutions,2021.0,3,2,1,0,Middle,Mumbai,Maharashtra,3024.0,77.9,67.0,,0.5,no,,yes,funded,150.0,1.5,10000.0,1,1.0,150.0,1.5,10000.0,2.0
+1,35,137,ZariStudioX,Beauty/Fashion,Plus-size ethnic wear,,3,2,1,0,Young,Kochi,Kerala,,0.0,,,,yes,,no,funded,100.0,2.5,4000.0,0,,,,,
+1,35,138,SwiftWorks,Technology/Software,Vernacular learning app,2020.0,1,1,0,0,Middle,Noida,Uttar Pradesh,0.0,0.0,,,,yes,,no,,40.0,3.0,1333.33,0,,,,,
+1,35,139,HaldiFreshPlus,Food and Beverage,Healthy millet snacks,2021.0,2,0,2,0,Middle,Delhi,Delhi,253.0,,58.0,,,yes,118.0,no,funded,120.0,7.5,1600.0,1,1.0,120.0,16.74,716.85,1.0
+1,35,140,HaraLabsGo,Green/CleanTech,Solar dryers for farmers,,1,1,0,0,Middle,Gurugram,Haryana,23.0,2.9,,-4.1,-2.6,yes,6.0,no,funded,60.0,3.5,1714.29,0,,,,,
+1,36,141,KesarSnacks,Food and Beverage,Cold-pressed juices,2020.0,2,0,2,0,Middle,Chennai,Tamil Nadu,86.0,4.0,,,,yes,4.0,no,yes,60.0,7.5,800.0,0,,,,,
+1,36,142,OfficeConnect,Business Services,Corporate gifting,2016.0,2,2,0,0,Middle,Delhi,Delhi,26.0,,57.0,,,yes,,no,funded,30.0,3.5,857.14,0,,,,,
+1,36,143,KraftFab,Manufacturing,Steel kitchenware,2014.0,4,4,0,0,Middle,Gurugram,Haryana,149.0,46.4,47.0,24.5,31.6,no,9.0,no,funded,120.0,4.0,3000.0,1,1.0,55.0,6.65,827.07,3.0
+1,36,144,LogicStack,Technology/Software,Fleet tracking software,2020.0,4,4,0,0,Middle,Pune,Maharashtra,279.0,,60.0,,,yes,7.0,no,funded,45.0,2.5,1800.0,0,,,,,
+1,37,145,UtsavWorld,Others,Spiritual products,,2,1,1,1,Middle,Mumbai,Maharashtra,156.0,,,-1.5,2.8,no,,no,yes,120.0,2.0,6000.0,0,,,,,
+1,37,146,TatvaNestPro,Lifestyle/Home,Eco cleaning products,2020.0,1,0,1,0,Middle,Bangalore,Karnataka,14.0,0.4,36.0,,,no,18.0,no,yes,50.0,3.0,1666.67,0,,,,,
+1,37,147,StaminaMovesGo,Fitness/Sports/Outdoors,Yoga wear,2021.0,2,2,0,0,Old,Delhi,Delhi,46.0,2.9,67.0,7.8,18.0,no,59.0,no,funded,35.0,3.5,1000.0,1,1.0,35.0,10.55,331.75,1.0
+1,37,148,ForgeWorksPro,Manufacturing,Precision auto parts,2020.0,3,2,1,0,Middle,Ahmedabad,Gujarat,377.0,,29.0,-6.7,1.8,no,100.0,yes,funded,200.0,1.5,13333.33,1,1.0,170.0,5.38,3159.85,2.0
+1,38,149,PahadiMovesX,Fitness/Sports/Outdoors,Trekking tours,2020.0,3,1,2,0,Young,Delhi,Delhi,915.0,124.4,50.0,0.2,1.5,,26.0,no,funded,35.0,4.0,875.0,1,0.0,,,,
+1,38,150,NestCoPlus,Lifestyle/Home,Eco cleaning products,2018.0,2,2,0,0,Middle,Delhi,Delhi,1119.0,208.8,70.0,22.6,25.2,no,10.0,no,funded,50.0,0.75,6666.67,1,1.0,50.0,0.75,6666.67,2.0
+1,38,151,KayaStudioOne,Beauty/Fashion,Silver jewellery,2018.0,3,2,1,0,Middle,Ahmedabad,Gujarat,252.0,,83.0,15.0,24.0,no,40.0,,funded,80.0,1.0,8000.0,1,1.0,80.0,1.0,8000.0,1.0
+1,38,152,PrithviPlanet,Green/CleanTech,E-waste recycling,2020.0,2,2,0,0,Young,Bangalore,Karnataka,165.0,4.2,,-20.4,-17.1,yes,162.0,no,funded,25.0,8.0,312.5,0,,,,,
+1,39,153,HaldiDabbaGo,Food and Beverage,Protein-rich namkeen,2018.0,3,1,2,0,Middle,Jaipur,Rajasthan,38.0,3.2,49.0,-16.7,-14.1,yes,14.0,no,funded,60.0,3.5,1714.29,0,,,,,
+1,39,154,IndusPolymers,Manufacturing,Steel kitchenware,2021.0,1,1,0,0,Middle,Gurugram,Haryana,129.0,8.4,25.0,,,yes,354.0,no,funded,125.0,1.5,8333.33,0,,,,,
+1,39,155,LogicWorks,Technology/Software,Fleet tracking software,2020.0,3,3,0,0,Middle,Noida,Uttar Pradesh,59.0,3.1,58.0,30.4,34.2,no,2.0,no,funded,50.0,12.0,416.67,1,1.0,30.0,20.73,144.72,1.0
+1,39,156,DiyaNest,Lifestyle/Home,Modular furniture,2018.0,2,1,1,1,Young,Jaipur,Rajasthan,33.0,1.0,75.0,3.3,11.9,no,,no,funded,40.0,3.0,1333.33,0,,,,,
+1,40,157,MehndiStudioOne,Beauty/Fashion,Handloom sarees online,2020.0,2,2,0,0,Young,Jaipur,Rajasthan,904.0,176.3,,-3.4,0.3,no,39.0,no,yes,70.0,3.0,2333.33,1,1.0,40.0,2.77,1444.04,1.0
+1,40,158,EcoTools,Manufacturing,Precision auto parts,2015.0,2,1,1,1,Middle,Mumbai,Maharashtra,216.0,46.7,,4.3,6.1,no,40.0,no,yes,50.0,1.5,3333.33,1,0.0,,,,
+1,40,159,UtsavHub,Others,Stationery,,4,3,1,0,Middle,Hyderabad,Telangana,428.0,33.2,52.0,,7.0,no,9.0,no,yes,90.0,1.0,9000.0,1,1.0,90.0,2.46,3658.54,1.0
+1,40,160,SwaadBrewOne,Food and Beverage,Protein-rich namkeen,2021.0,2,1,1,1,Young,Delhi,Delhi,144.0,17.5,51.0,6.2,13.0,no,300.0,no,yes,90.0,4.0,2250.0,0,,,,,
+1,41,161,SaffronBeauty,Beauty/Fashion,Silver jewellery,2021.0,2,2,0,0,Middle,Noida,Uttar Pradesh,101.0,6.6,58.0,10.2,11.8,yes,,,funded,25.0,8.0,312.5,1,1.0,31.25,18.92,165.17,2.0
+1,41,162,SwaadTreats360,Food and Beverage,Ready-to-cook regional curries,2016.0,2,2,0,0,Young,Delhi,Delhi,360.0,16.7,68.0,,18.4,no,35.0,no,yes,100.0,2.0,5000.0,1,1.0,60.0,3.15,1904.76,2.0
+1,41,163,TadkaSnacksGo,Food and Beverage,Sugar-free sweets,2021.0,2,1,1,1,Middle,Bangalore,Karnataka,9.0,,,,-3.8,yes,13.0,,,4500000.0,2.0,2250.0,0,,,,,
+1,41,164,MasalaBrewPro,Food and Beverage,Sugar-free sweets,2013.0,1,1,0,0,Old,Delhi,Delhi,40.0,2.4,56.0,4.7,12.8,no,103.0,no,yes,30.0,5.0,600.0,1,1.0,37.5,17.88,209.73,2.0
+1,42,165,ZariWearGo,Beauty/Fashion,Sustainable sneakers,2017.0,3,1,2,0,Middle,Pune,Maharashtra,76.0,1.0,86.0,,6.1,,,no,yes,35.0,3.0,1166.67,1,1.0,20.0,4.85,412.37,2.0
+1,42,166,MastiZone,Entertainment,Comedy content studio,,2,1,1,1,Middle,Bangalore,Karnataka,446.0,,44.0,,,yes,16.0,no,yes,250.0,2.5,10000.0,0,,,,,
+1,42,167,GlowThreadsPro,Beauty/Fashion,Men's grooming kits,2016.0,2,2,0,0,Young,Jaipur,Rajasthan,229.0,15.1,,,27.7,no,10.0,no,yes,60.0,3.0,2000.0,1,1.0,60.0,4.81,1247.4,4.0
+1,42,168,SwasthPlusGo,Medical/Health,At-home diagnostic kits,2020.0,2,1,1,0,Middle,Mumbai,Maharashtra,0.0,0.0,,,,no,,no,yes,60.0,12.0,500.0,0,,,,,
+1,43,169,VedaWell,Medical/Health,Telehealth for villages,2019.0,2,1,1,1,Middle,Delhi,Delhi,354.0,,69.0,9.2,13.0,no,12.0,no,funded,60.0,1.25,4800.0,1,1.0,35.0,1.66,2108.43,1.0
+1,43,170,ByteAI,Technology/Software,SaaS for kirana billing,2018.0,1,0,1,0,Middle,,,,47.6,76.0,9.0,17.5,no,8.0,,yes,70.0,3.0,2333.33,1,1.0,70.0,4.36,1605.5,1.0
+1,43,171,IndusPack,Manufacturing,Recycled plastic tiles,2018.0,3,3,0,0,Middle,Hubballi,Karnataka,105.0,11.2,17.0,,1.5,no,,no,funded,150.0,1.5,10000.0,0,,,,,
+1,43,172,KesarKitchenX,Food and Beverage,Sugar-free sweets,2018.0,4,3,1,0,Young,Mumbai,Maharashtra,1781.0,228.8,,18.6,26.5,no,80.0,,yes,150.0,1.25,12000.0,1,1.0,150.0,2.05,7317.07,1.0
+1,44,173,KraftFabGo,Manufacturing,Biodegradable cutlery,2019.0,2,0,2,0,Middle,Noida,Uttar Pradesh,47.0,1.0,62.0,,,no,,no,yes,80.0,1.25,6400.0,0,,,,,
+1,44,174,VedaLife360,Medical/Health,Ortho support braces,2021.0,1,1,0,0,Young,Gurugram,Haryana,104.0,4.4,76.0,23.6,26.4,no,68.0,no,funded,50.0,3.0,1666.67,1,1.0,62.5,10.94,571.3,2.0
+1,44,175,ShaadiWorldPlus,Others,Spiritual products,2019.0,2,2,0,0,Young,Jaipur,Rajasthan,452.0,56.3,37.0,,4.8,,17.0,no,yes,150.0,1.25,12000.0,1,1.0,150.0,5.04,2976.19,1.0
+1,44,176,RangSkinPlus,Beauty/Fashion,Ayurvedic skincare,2020.0,2,1,1,0,Middle,Kochi,Kerala,59.0,6.2,83.0,-7.8,0.6,,,no,funded,75.0,2.5,3000.0,1,1.0,93.75,14.13,663.48,2.0
+1,45,177,SafeCo,Others,Wedding planning,2019.0,1,1,0,0,Middle,Gurugram,Haryana,191.0,17.7,62.0,18.8,19.8,no,12.0,no,yes,50.0,4.0,1250.0,1,1.0,62.5,5.0,1250.0,2.0
+1,45,178,ZariBeauty360,Beauty/Fashion,Men's grooming kits,2018.0,1,1,0,0,Middle,Kochi,Kerala,2.0,0.1,70.0,,,no,67.0,no,yes,25.0,4.0,625.0,0,,,,,
+1,45,179,LoopStack,Technology/Software,Cybersecurity for SMEs,2017.0,2,1,1,0,Young,Delhi,Delhi,550.0,,69.0,21.9,23.8,no,2.0,yes,yes,60.0,1.0,6000.0,1,1.0,60.0,2.28,2631.58,1.0
+1,45,180,JoshFit,Fitness/Sports/Outdoors,Trekking tours,2019.0,5,5,0,0,Young,Delhi,Delhi,117.0,,58.0,,,yes,,no,,45.0,3.0,1500.0,1,0.0,,,,
+1,46,181,SparkRide,Vehicles/Electrical Vehicles,Battery swapping,2018.0,1,1,0,0,Young,Ludhiana,Punjab,92.0,8.0,,2.1,5.4,no,,,yes,15.0,4.0,375.0,1,1.0,15.0,7.88,190.36,2.0
+1,46,182,ZariCarePlus,Beauty/Fashion,Men's grooming kits,2018.0,1,1,0,0,Middle,Nagpur,Maharashtra,482.0,,65.0,,30.8,no,77.0,no,funded,40.0,3.0,1333.33,1,1.0,35.0,2.63,1330.8,1.0
+1,46,183,BinduThreads360,Beauty/Fashion,Ayurvedic skincare,2021.0,2,1,1,0,Middle,Ahmedabad,Gujarat,91.0,9.6,,-8.0,-2.4,yes,,no,funded,20.0,1.5,1333.33,0,,,,,
+1,46,184,BeejRoots,Agriculture,Drone crop spraying,2016.0,2,2,0,0,Middle,Delhi,Delhi,51.0,2.0,33.0,0.6,4.4,yes,87.0,no,yes,30.0,1.5,2000.0,0,,,,,
+1,47,185,ZariCare360,Beauty/Fashion,Ayurvedic skincare,2018.0,1,0,1,0,Middle,Delhi,Delhi,855.0,,92.0,,-4.5,yes,75.0,no,funded,100.0,2.0,5000.0,1,1.0,100.0,2.99,3344.48,1.0
+1,47,186,SwaadFoodsPro,Food and Beverage,Healthy millet snacks,2021.0,3,3,0,0,Young,Bangalore,Karnataka,27.0,1.8,53.0,,,yes,,no,,60.0,2.0,3000.0,0,,,,,
+1,47,187,LoopAIPlus,Technology/Software,Cybersecurity for SMEs,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,171.0,,67.0,,,,1.0,no,yes,150.0,3.0,5000.0,0,,,,,
+1,47,188,DesiTreats360,Food and Beverage,Healthy millet snacks,2015.0,3,3,0,0,Young,,Goa,,1.4,,17.6,23.3,no,7.0,no,funded,50.0,5.0,1000.0,1,1.0,50.0,12.08,413.91,2.0
+1,48,189,DoolallyCellars,Liquor/Alcohol,Low-alcohol drinks,2009.0,2,1,1,0,Young,Mumbai,Maharashtra,288.0,21.7,37.0,7.9,18.6,no,63.0,no,,120.0,2.0,6000.0,0,,,,,
+1,48,190,RideWheelsGo,Vehicles/Electrical Vehicles,EV charging stations,2021.0,3,1,2,0,Middle,Gurugram,Haryana,559.0,8.5,15.0,,6.3,no,148.0,yes,,40.0,1.25,3200.0,1,1.0,40.0,1.97,2030.46,1.0
+1,48,191,VidyaBooks,Children/Education,Story books in Indian languages,2022.0,3,1,2,0,Middle,Delhi,Delhi,392.0,,33.0,,,yes,83.0,no,funded,100.0,2.5,4000.0,0,,,,,
+1,48,192,GharNestPlus,Lifestyle/Home,Scented candles,2021.0,1,1,0,0,Middle,Mumbai,Maharashtra,44.0,1.7,65.0,4.6,6.9,yes,82.0,no,yes,50.0,2.5,2000.0,1,1.0,20.0,3.36,595.24,5.0
+1,49,193,BioEarth,Green/CleanTech,E-waste recycling,2020.0,3,1,2,0,Middle,Mumbai,Maharashtra,27.0,3.0,,,,yes,81.0,no,,60.0,20.0,300.0,0,,,,,
+1,49,194,GharCo,Lifestyle/Home,Scented candles,2021.0,4,2,2,0,Middle,Hubballi,Karnataka,86.0,5.3,91.0,4.7,12.6,no,,no,funded,100.0,0.75,13333.33,0,,,,,
+1,49,195,SolarEnergyPlus,Green/CleanTech,E-waste recycling,2020.0,2,1,1,1,Middle,Mumbai,Maharashtra,1790.0,,,0.5,10.8,no,,no,funded,125.0,0.75,16666.67,1,0.0,,,,
+2,1,196,EcoLabs,Green/CleanTech,E-waste recycling,2109.0,3,2,1,0,Middle,Mumbai,Maharashtra,906.0,29.0,49.0,8.1,12.0,,,,,200.0,2.0,10000.0,1,0.0,,,,
+2,1,197,TatvaDecor,Lifestyle/Home,Smart home lighting,2020.0,2,2,0,0,Middle,Hyderabad,Telangana,0.0,0.0,,,,yes,,no,funded,60.0,3.5,1714.29,0,,,,,
+2,1,198,LogicSystems,Technology/Software,SaaS for kirana billing,2018.0,1,0,1,0,Middle,Bangalore,Karnataka,162.0,10.0,48.0,6.1,9.6,no,6.0,no,funded,60.0,4.0,1500.0,0,,,,,
+2,1,199,DiyaSpace,Lifestyle/Home,Modular furniture,2019.0,3,3,0,0,Middle,Noida,Uttar Pradesh,117.0,5.4,66.0,,,,12.0,no,funded,70.0,6.0,1166.67,0,,,,,
+2,2,200,CloudLabs,Technology/Software,AI resume screening,2023.0,2,1,1,1,Young,Jaipur,Rajasthan,60.0,4.4,78.0,,,no,,no,yes,45.0,0.75,6000.0,0,,,,,
+2,2,201,SutraSkin,Beauty/Fashion,Silver jewellery,2022.0,2,1,1,1,Middle,Ahmedabad,Gujarat,251.0,13.5,70.0,10.0,12.0,no,78.0,no,,40.0,1.0,4000.0,1,0.0,,,,
+2,2,202,SwaadTreats,Food and Beverage,Protein-rich namkeen,,2,2,0,0,Middle,Mumbai,Maharashtra,21.0,1.3,57.0,9.8,14.0,no,,no,yes,25.0,6.0,416.67,1,0.0,,,,
+2,2,203,MehndiWear,Beauty/Fashion,Silver jewellery,2019.0,1,1,0,0,Middle,Bangalore,Karnataka,53.0,7.5,92.0,,16.4,no,48.0,no,funded,70.0,6.0,1166.67,1,1.0,140.0,38.29,365.63,3.0
+2,3,204,MehndiBeauty,Beauty/Fashion,Ayurvedic skincare,2019.0,2,1,1,1,Middle,Bangalore,Karnataka,1256.0,138.7,59.0,-11.2,-9.6,yes,147.0,no,yes,90.0,1.5,6000.0,1,1.0,40.0,1.43,2797.2,1.0
+2,3,205,NovaTech,Technology/Software,Vernacular learning app,2020.0,1,1,0,0,Middle,,,215.0,5.8,55.0,,3.7,no,1.0,no,funded,60.0,2.5,2400.0,1,1.0,90.0,7.54,1193.63,2.0
+2,3,206,KonaLiving,Lifestyle/Home,Smart home lighting,2021.0,1,1,0,0,Middle,Pune,Maharashtra,418.0,63.5,64.0,,,no,49.0,no,yes,70.0,2.5,2800.0,1,1.0,70.0,5.61,1247.77,1.0
+2,3,207,HaldiFoods,Food and Beverage,Protein-rich namkeen,2020.0,2,2,0,0,Young,Pune,Maharashtra,337.0,6.8,57.0,,,,13.0,no,funded,100.0,4.0,2500.0,1,1.0,70.0,4.7,1489.36,2.0
+2,4,208,E-Mobility,Vehicles/Electrical Vehicles,Electric scooters,2016.0,2,2,0,0,Young,Bangalore,Karnataka,272.0,,26.0,,,,61.0,yes,yes,50.0,0.75,6666.67,0,,,,,
+2,4,209,SwaadBrew,Food and Beverage,Sugar-free sweets,2020.0,2,1,1,1,Middle,Kochi,Kerala,848.0,,57.0,,14.3,no,,no,funded,100.0,1.5,6666.67,1,1.0,200.0,3.0,6666.67,2.0
+2,4,210,HaldiTreatsX,Food and Beverage,Protein-rich namkeen,2020.0,2,2,0,0,Middle,Bangalore,Karnataka,108.0,27.2,39.0,0.9,4.0,no,17.0,no,yes,75.0,3.5,2142.86,1,0.0,,,,
+2,4,211,NeuralLabs,Technology/Software,AI resume screening,2016.0,3,2,1,0,Young,Mumbai,Maharashtra,754.0,102.6,78.0,,,no,3.0,no,yes,80.0,2.0,4000.0,1,1.0,80.0,2.0,4000.0,1.0
+2,5,212,SwasthHealth,Medical/Health,Ortho support braces,,2,1,1,1,Middle,Surat,Gujarat,339.0,28.4,,,,,215.0,no,yes,120.0,2.5,4800.0,1,1.0,120.0,13.19,909.78,1.0
+2,5,213,MilletBrew,Food and Beverage,Protein-rich namkeen,2013.0,2,1,1,1,Middle,Vadodara,Gujarat,934.0,46.3,,,12.7,no,11.0,no,funded,50.0,3.0,1666.67,1,1.0,50.0,5.9,847.46,3.0
+2,5,214,PawPals,Animal/Pets,Fresh pet food,2019.0,3,2,1,0,Middle,Hyderabad,Telangana,98.0,,48.0,,,,,no,yes,45.0,3.0,1500.0,0,,,,,
+2,5,215,TrustDesk,Business Services,HR outsourcing,,3,2,1,0,Middle,Pune,Maharashtra,10239.0,577.7,,13.2,17.7,,1.0,no,funded,250.0,0.75,33333.33,1,1.0,250.0,0.75,33333.33,1.0
+2,6,216,UrbanNest,Lifestyle/Home,Modular furniture,2020.0,1,0,1,0,Middle,Mumbai,Maharashtra,37.0,7.4,75.0,6.2,7.5,no,,,yes,90.0,6.0,1500.0,0,,,,,
+2,6,217,GharNest,Lifestyle/Home,Modular furniture,2022.0,1,0,1,0,Middle,Jaipur,Rajasthan,54.0,4.9,,1.6,10.7,,6.0,no,funded,60.0,2.0,3000.0,0,,,,,
+2,6,218,CureLife,Medical/Health,At-home diagnostic kits,2021.0,1,1,0,0,Young,Hyderabad,Telangana,,0.0,,,,no,265.0,no,funded,45.0,3.5,1285.71,0,,,,,
+2,6,219,ZariThreads,Beauty/Fashion,Plus-size ethnic wear,2022.0,2,2,0,0,Middle,Mumbai,Maharashtra,61.0,3.0,47.0,-3.5,-1.1,yes,70.0,no,funded,20.0,2.5,800.0,1,1.0,10.0,4.7,212.77,3.0
+2,7,220,TadkaSnacks,Food and Beverage,Cold-pressed juices,2021.0,5,3,2,0,Middle,Delhi,Delhi,64.0,3.9,47.0,-4.6,4.5,,11.0,no,funded,90.0,3.0,3000.0,0,,,,,
+2,7,221,ZariLabelPro,Beauty/Fashion,Handloom sarees online,2020.0,3,3,0,0,Middle,Delhi,Delhi,542.0,,69.0,,,no,7.0,no,funded,80.0,1.0,8000.0,1,1.0,80.0,1.57,5095.54,2.0
+2,7,222,SutraSkinX,Beauty/Fashion,Ayurvedic skincare,2013.0,2,0,2,0,Middle,Delhi,Delhi,106.0,13.7,70.0,,29.6,yes,41.0,no,funded,200.0,1.0,20000.0,0,,,,,
+2,7,223,UdyogPolymers,Manufacturing,Recycled plastic tiles,2020.0,1,1,0,0,Middle,Hyderabad,Telangana,195.0,5.9,77.0,,11.1,yes,18.0,no,yes,150.0,1.5,10000.0,0,,,,,
+2,8,224,JeevanHealth,Medical/Health,Menstrual care products,2019.0,2,2,0,0,Middle,Delhi,Delhi,,85.1,71.0,,19.1,yes,48.0,no,funded,125.0,0.75,16666.67,1,1.0,125.0,1.25,10000.0,2.0
+2,8,225,NoorSkinGo,Beauty/Fashion,Silver jewellery,2019.0,1,0,1,0,Young,Chandigarh,Punjab,68.0,3.7,66.0,,8.2,no,29.0,no,yes,100.0,2.0,5000.0,1,1.0,200.0,23.28,859.11,2.0
+2,8,226,SwaadBites,Food and Beverage,Sugar-free sweets,2019.0,2,2,0,0,Middle,Noida,Uttar Pradesh,163.0,19.2,42.0,5.5,13.2,no,14.0,no,yes,40.0,3.0,1333.33,1,1.0,40.0,5.03,795.23,3.0
+2,8,227,PrimeConnect,Business Services,Event management,,2,2,0,0,Middle,Delhi,Delhi,577.0,36.1,,,,,9.0,,yes,50.0,2.5,2000.0,1,1.0,50.0,6.29,794.91,1.0
+2,9,228,HealRx,Medical/Health,At-home diagnostic kits,2019.0,4,2,2,0,Young,Vadodara,Gujarat,25.0,2.5,42.0,14.2,22.5,no,419.0,yes,funded,50.0,3.5,1428.57,0,,,,,
+2,9,229,AgroFields,Agriculture,Drone crop spraying,2015.0,1,1,0,0,Middle,Chennai,Tamil Nadu,35.0,1.6,38.0,-0.1,3.3,no,,no,yes,40.0,3.5,1142.86,0,,,,,
+2,9,230,AgroFarms,Agriculture,Drone crop spraying,2019.0,1,1,0,0,Young,Lucknow,Uttar Pradesh,609.0,45.4,,-27.8,-19.8,no,,,yes,125.0,1.0,12500.0,0,,,,,
+2,9,231,HaldiKitchen,Food and Beverage,Ready-to-cook regional curries,2022.0,3,2,1,0,Middle,Delhi,Delhi,250.0,18.4,60.0,,11.6,no,,no,yes,60.0,1.5,4000.0,1,1.0,30.0,0.75,4000.0,2.0
+2,10,232,NoorLoomPlus,Beauty/Fashion,Handloom sarees online,2021.0,3,2,1,0,Middle,Ahmedabad,Gujarat,587.0,,50.0,,5.2,no,19.0,no,funded,45.0,1.25,3600.0,1,1.0,45.0,1.25,3600.0,3.0
+2,10,233,AanganSpacePro,Lifestyle/Home,Organic bedding,2021.0,1,0,1,0,Middle,Bangalore,Karnataka,212.0,,47.0,,,yes,1090.0,no,yes,70.0,3.0,2333.33,0,,,,,
+2,10,234,ChaiSnacks,Food and Beverage,Cold-pressed juices,2017.0,1,0,1,0,Middle,Mumbai,Maharashtra,947.0,118.9,43.0,-2.5,6.4,no,519.0,,funded,100.0,1.5,6666.67,1,1.0,50.0,2.27,2202.64,3.0
+2,10,235,CureLife360,Medical/Health,Ortho support braces,2021.0,2,0,2,0,Middle,Noida,Uttar Pradesh,64.0,,62.0,9.4,12.4,no,23.0,yes,yes,45.0,2.0,2250.0,1,1.0,20.0,5.13,389.86,2.0
+2,11,236,RaftaarRide,Vehicles/Electrical Vehicles,EV for delivery fleets,2018.0,2,1,1,1,Young,Lucknow,Uttar Pradesh,172.0,,41.0,,3.4,,2.0,no,funded,25.0,1.0,2500.0,1,1.0,25.0,2.63,950.57,1.0
+2,11,237,NutriBrew360,Food and Beverage,Artisanal coffee,2017.0,3,3,0,0,Middle,Mumbai,Maharashtra,437.0,,56.0,7.6,11.6,no,58.0,no,funded,30.0,5.0,600.0,1,1.0,30.0,6.1,491.8,1.0
+2,11,238,SahayakConnect,Business Services,Corporate gifting,2021.0,1,1,0,0,Middle,Pune,Maharashtra,335.0,27.0,,,26.6,no,,no,funded,80.0,2.0,4000.0,1,1.0,80.0,6.62,1208.46,1.0
+2,11,239,ZipMoto,Vehicles/Electrical Vehicles,EV for delivery fleets,2020.0,2,1,1,1,Middle,Vadodara,Gujarat,,,48.0,,-8.5,no,63.0,yes,yes,70.0,1.5,4666.67,1,1.0,70.0,5.85,1196.58,1.0
+2,12,240,RangCare,Beauty/Fashion,Silver jewellery,2019.0,3,3,0,0,Middle,Pune,Maharashtra,160.0,12.2,81.0,21.6,24.8,no,45.0,no,yes,40.0,2.5,1600.0,1,1.0,40.0,5.23,764.82,1.0
+2,12,241,SolarSolutions,Green/CleanTech,Biogas plants,2019.0,2,1,1,1,Young,Kochi,Kerala,113.0,11.9,17.0,,12.0,no,22.0,no,yes,80.0,2.5,3200.0,0,,,,,
+2,12,242,NutriFresh,Food and Beverage,Healthy millet snacks,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,42.0,6.3,,-14.5,-12.5,yes,,no,funded,30.0,3.0,1000.0,0,,,,,
+2,12,243,DataLabs,Technology/Software,SaaS for kirana billing,2022.0,2,2,0,0,Middle,Delhi,Delhi,114.0,23.8,56.0,23.0,25.6,no,1.0,yes,funded,70.0,12.0,583.33,1,1.0,35.0,11.94,293.13,4.0
+2,13,244,AyurWell360,Medical/Health,Diabetes-friendly foods,2019.0,4,4,0,0,Middle,Ahmedabad,Gujarat,0.0,,,,,,294.0,no,funded,75.0,4.0,1875.0,0,,,,,
+2,13,245,NeuralLabsX,Technology/Software,Cybersecurity for SMEs,2013.0,2,2,0,0,Middle,Bangalore,Karnataka,,34.5,85.0,43.2,47.9,no,3.0,no,yes,90.0,2.0,4500.0,1,1.0,90.0,2.0,4500.0,1.0
+2,13,246,MehndiCareX,Beauty/Fashion,Plus-size ethnic wear,,2,1,1,0,Middle,Gurugram,Haryana,268.0,31.8,,,31.3,no,105.0,no,funded,80.0,2.0,4000.0,0,,,,,
+2,13,247,UrbanHome,Lifestyle/Home,Smart home lighting,2018.0,1,0,1,0,Old,Gurugram,Haryana,0.0,0.0,,,,no,696.0,no,,50.0,5.0,1000.0,0,,,,,
+2,14,248,RasoiFreshOne,Food and Beverage,Ready-to-cook regional curries,2019.0,2,0,2,0,Middle,Noida,Uttar Pradesh,249.0,,47.0,,14.2,no,,no,funded,90.0,1.25,7200.0,0,,,,,
+2,14,249,NeelTech,Green/CleanTech,E-waste recycling,2014.0,1,0,1,0,Middle,Mumbai,Maharashtra,7361.0,429.6,28.0,-7.2,0.1,no,16.0,no,,125.0,1.0,12500.0,1,1.0,125.0,1.56,8012.82,2.0
+2,14,250,CloudTech,Technology/Software,AI resume screening,2020.0,2,2,0,0,Middle,Ahmedabad,Gujarat,26.0,4.8,84.0,,,no,1.0,no,yes,70.0,7.5,933.33,1,1.0,70.0,36.82,190.11,1.0
+2,14,251,ChaiBrewPlus,Food and Beverage,Artisanal coffee,2020.0,2,2,0,0,Young,Lucknow,Uttar Pradesh,86.0,,,12.1,17.5,,2.0,no,yes,90.0,7.5,1200.0,1,1.0,90.0,20.27,444.01,3.0
+2,15,252,CureCare,Medical/Health,Menstrual care products,2021.0,1,1,0,0,Middle,Delhi,Delhi,739.0,49.7,,8.9,12.3,no,28.0,no,yes,75.0,10.0,750.0,1,1.0,75.0,13.18,569.04,1.0
+2,15,253,ChaiFreshPlus,Food and Beverage,Cold-pressed juices,2021.0,1,1,0,0,Middle,Kolkata,West Bengal,423.0,32.8,60.0,26.4,29.0,no,574.0,no,funded,175.0,1.5,11666.67,0,,,,,
+2,15,254,ChaiBrewPro,Food and Beverage,Artisanal coffee,2020.0,3,3,0,0,Young,Mumbai,Maharashtra,0.0,,,,,yes,,no,funded,60.0,2.5,2400.0,1,1.0,60.0,11.61,516.8,1.0
+2,15,255,EcoPackGo,Manufacturing,Industrial gloves,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,631.0,51.8,69.0,-11.8,2.6,no,,yes,funded,90.0,1.25,7200.0,1,1.0,108.0,3.57,3025.21,2.0
+2,16,256,SmartTech,Electronics,Portable projectors,2015.0,3,1,2,0,Middle,Gurugram,Haryana,291.0,19.4,,7.2,10.4,no,18.0,yes,yes,70.0,7.5,933.33,1,1.0,105.0,13.64,769.79,2.0
+2,16,257,SevaDesk,Business Services,Digital marketing agency,2021.0,2,2,0,0,Middle,Pune,Maharashtra,7.0,0.3,35.0,,,yes,1.0,,funded,50.0,5.0,1000.0,0,,,,,
+2,16,258,CloudLabs360,Technology/Software,Clinic management app,2016.0,2,2,0,0,Young,Noida,Uttar Pradesh,241.0,49.5,51.0,,11.4,no,1.0,no,funded,125.0,4.0,3125.0,0,,,,,
+2,16,259,RangSkin,Beauty/Fashion,Men's grooming kits,2022.0,1,1,0,0,Middle,Noida,Uttar Pradesh,0.0,0.0,,,,yes,81.0,yes,yes,35.0,10.0,350.0,0,,,,,
+2,17,260,ByteTech360,Technology/Software,Vernacular learning app,,2,1,1,1,Middle,Vadodara,Gujarat,1666.0,331.4,,,,yes,1.0,yes,yes,90.0,2.5,3600.0,1,1.0,90.0,2.5,3600.0,4.0
+2,17,261,SwaadFoods,Food and Beverage,Cold-pressed juices,2014.0,1,1,0,0,Middle,Bangalore,Karnataka,171.0,10.3,62.0,,7.5,no,45.0,no,funded,70.0,2.5,2800.0,1,1.0,70.0,4.5,1555.56,1.0
+2,17,262,JeevanLabs,Medical/Health,Telehealth for villages,2021.0,1,0,1,0,Middle,Guwahati,Assam,32.0,,55.0,,,no,,yes,,70.0,1.5,4666.67,0,,,,,
+2,17,263,RasoiSnacks,Food and Beverage,Cold-pressed juices,2018.0,1,1,0,0,Young,Hyderabad,Telangana,,3.4,,0.4,11.5,no,17.0,,yes,45.0,5.0,900.0,1,1.0,67.5,32.09,210.35,2.0
+2,18,264,PeakCamp,Fitness/Sports/Outdoors,Smart skipping rope,2022.0,1,1,0,0,Middle,Bangalore,Karnataka,223.0,,62.0,,-11.6,yes,7.0,no,yes,25000000.0,3.0,8333.33,1,1.0,250.0,11.42,2189.14,2.0
+2,18,265,KiddoAcademy,Children/Education,Story books in Indian languages,2019.0,2,2,0,0,Middle,,,346.0,15.4,52.0,-0.3,0.8,no,,no,funded,175.0,2.0,8750.0,0,,,,,
+2,18,266,LittleMinds,Children/Education,STEM toy kits,2020.0,2,1,1,1,Middle,Pune,Maharashtra,376.0,,63.0,-0.7,6.4,no,13.0,no,yes,25.0,2.0,1250.0,1,1.0,25.0,2.99,836.12,1.0
+2,18,267,IndusIndustriesX,Manufacturing,Biodegradable cutlery,,3,2,1,0,Middle,Gurugram,Haryana,178.0,19.0,57.0,14.8,17.1,yes,,no,funded,80.0,1.0,8000.0,1,1.0,80.0,3.35,2388.06,5.0
+2,19,268,NeelPlanet,Green/CleanTech,Biogas plants,2021.0,1,0,1,0,Young,Mumbai,Maharashtra,454.0,83.3,38.0,0.6,7.8,no,,yes,funded,70.0,3.5,2000.0,1,1.0,70.0,13.02,537.63,3.0
+2,19,269,AmpRide,Vehicles/Electrical Vehicles,E-cycle conversion kits,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,547.0,106.0,31.0,,,yes,6.0,,yes,175.0,1.0,17500.0,0,,,,,
+2,19,270,DesiTreats,Food and Beverage,Sugar-free sweets,2017.0,2,2,0,0,Young,Jaipur,Rajasthan,462.0,127.2,,,,no,237.0,no,yes,80.0,0.75,10666.67,0,,,,,
+2,19,271,TadkaTreatsGo,Food and Beverage,Protein-rich namkeen,2018.0,2,1,1,1,Middle,Delhi,Delhi,52.0,1.5,67.0,3.9,7.5,no,,no,yes,70.0,4.0,1750.0,1,1.0,70.0,18.29,382.72,1.0
+2,20,272,BizDesk,Business Services,Corporate gifting,2018.0,3,3,0,0,Middle,Kochi,Kerala,655.0,,58.0,,15.0,no,1.0,no,funded,40.0,2.0,2000.0,1,1.0,40.0,5.39,742.12,1.0
+2,20,273,UdyogPolymersPlus,Manufacturing,Packaging solutions,2021.0,2,2,0,0,Middle,Jaipur,Rajasthan,,20.1,41.0,9.4,12.5,yes,34.0,no,funded,125.0,5.0,2500.0,1,1.0,85.0,9.94,855.13,1.0
+2,20,274,ZariSkin,Beauty/Fashion,Sustainable sneakers,,2,2,0,0,Middle,Chandigarh,Punjab,,1.0,74.0,11.9,14.1,no,27.0,no,funded,25.0,5.0,500.0,1,0.0,,,,
+2,20,275,TadkaFoodsOne,Food and Beverage,Protein-rich namkeen,2018.0,1,1,0,0,Middle,Noida,Uttar Pradesh,114.0,13.1,54.0,2.1,18.8,no,,no,,60.0,2.5,2400.0,1,1.0,75.0,16.46,455.65,2.0
+2,21,276,ZariLabelOne,Beauty/Fashion,Silver jewellery,2022.0,2,2,0,0,Middle,Indore,Madhya Pradesh,532.0,144.3,62.0,,,no,,no,yes,90.0,1.0,9000.0,1,1.0,90.0,2.77,3249.1,1.0
+2,21,277,DataWorksOne,Technology/Software,Cybersecurity for SMEs,2018.0,2,2,0,0,Middle,Pune,Maharashtra,110.0,15.4,67.0,,15.6,no,6.0,no,funded,45.0,2.5,1800.0,1,1.0,45.0,9.19,489.66,1.0
+2,21,278,TadkaDabbaX,Food and Beverage,Artisanal coffee,2017.0,3,1,2,0,Young,Delhi,Delhi,155.0,18.0,54.0,7.4,12.2,no,,no,yes,50.0,3.0,1666.67,1,1.0,30.0,1.8,1666.67,2.0
+2,21,279,LittleTots,Children/Education,STEM toy kits,2018.0,2,1,1,1,Middle,Bangalore,Karnataka,156.0,12.2,73.0,,,yes,,yes,yes,150.0,1.25,12000.0,0,,,,,
+2,22,280,FasalTech,Agriculture,Farm-to-home vegetables,,2,1,1,0,Middle,Bangalore,Karnataka,0.0,,,,,yes,153.0,,,60.0,5.0,1200.0,1,1.0,60.0,23.11,259.63,1.0
+2,22,281,RangSkinOne,Beauty/Fashion,Silver jewellery,2023.0,2,1,1,1,Middle,Surat,Gujarat,102.0,4.6,70.0,,,no,24.0,no,,25.0,3.5,714.29,1,1.0,25.0,8.76,285.39,1.0
+2,22,282,NutriFreshPro,Food and Beverage,Protein-rich namkeen,2020.0,2,1,1,1,Middle,Hyderabad,Telangana,80.0,5.2,,,,yes,,no,yes,100.0,2.5,4000.0,0,,,,,
+2,22,283,MehndiSkinPlus,Beauty/Fashion,Men's grooming kits,2017.0,2,2,0,0,Young,Delhi,Delhi,246.0,23.9,,,19.0,yes,,no,,50.0,2.5,2000.0,0,,,,,
+2,23,284,NoorWear,Beauty/Fashion,Silver jewellery,2021.0,2,2,0,0,Middle,Noida,Uttar Pradesh,,,84.0,,23.2,no,32.0,no,funded,35.0,1.25,2800.0,1,1.0,20.0,3.59,557.1,1.0
+2,23,285,MehndiWearX,Beauty/Fashion,Men's grooming kits,2022.0,2,2,0,0,Middle,Mumbai,Maharashtra,0.0,0.0,,,,yes,70.0,no,funded,25.0,5.0,500.0,0,,,,,
+2,23,286,GlowLabel,Beauty/Fashion,Silver jewellery,2018.0,1,0,1,0,Middle,Bangalore,Karnataka,213.0,26.3,51.0,-20.6,-11.6,,7.0,no,yes,45.0,5.0,900.0,0,,,,,
+2,23,287,AxisPackPro,Manufacturing,Industrial gloves,,1,1,0,0,Young,Ahmedabad,Gujarat,320.0,,,,,yes,207.0,no,funded,50.0,1.5,3333.33,0,,,,,
+2,24,288,ForgePolymers,Manufacturing,Biodegradable cutlery,2018.0,2,1,1,0,Middle,Ahmedabad,Gujarat,6157.0,485.0,,,27.4,no,28.0,no,yes,70.0,2.0,3500.0,1,1.0,70.0,2.0,3500.0,1.0
+2,24,289,SwaadDabbaGo,Food and Beverage,Ready-to-cook regional curries,2020.0,3,3,0,0,Young,Mumbai,Maharashtra,0.0,,,,,yes,128.0,no,funded,35.0,5.0,700.0,0,,,,,
+2,24,290,NutriBrewGo,Food and Beverage,Healthy millet snacks,2017.0,1,0,1,0,Middle,Ahmedabad,Gujarat,846.0,45.0,61.0,,3.4,no,19.0,no,funded,35.0,1.25,2800.0,1,1.0,35.0,1.97,1776.65,1.0
+2,24,291,VedaLife,Medical/Health,At-home diagnostic kits,2019.0,3,2,1,0,Middle,Mumbai,Maharashtra,33.0,3.2,62.0,-6.4,1.6,no,,yes,funded,35.0,4.0,875.0,1,1.0,35.0,4.0,875.0,2.0
+2,25,292,ZenHomePlus,Lifestyle/Home,Smart home lighting,2016.0,1,0,1,0,Middle,Mumbai,Maharashtra,50.0,5.8,77.0,,21.0,no,46.0,no,funded,90.0,5.0,1800.0,1,1.0,65.0,13.35,486.89,1.0
+2,25,293,RaftaarEV,Vehicles/Electrical Vehicles,Battery swapping,2019.0,2,2,0,0,Middle,Lucknow,Uttar Pradesh,362.0,9.6,,1.2,7.2,no,46.0,,yes,90.0,5.0,1800.0,0,,,,,
+2,25,294,CloudSoftOne,Technology/Software,Clinic management app,2014.0,1,1,0,0,Young,Mumbai,Maharashtra,429.0,58.7,79.0,10.1,16.3,no,,,,125.0,1.5,8333.33,0,,,,,
+2,25,295,ZariThreads360,Beauty/Fashion,Handloom sarees online,2017.0,2,0,2,0,Middle,Bangalore,Karnataka,,0.0,,,,yes,,no,funded,15.0,4.0,375.0,0,,,,,
+2,26,296,GharNestPro,Lifestyle/Home,Eco cleaning products,2021.0,3,1,2,0,Middle,Bangalore,Karnataka,213.0,23.9,52.0,,8.7,no,45.0,no,yes,200.0,1.5,13333.33,0,,,,,
+2,26,297,KesarFreshOne,Food and Beverage,Ready-to-cook regional curries,,2,0,2,0,Young,Delhi,Delhi,18.0,1.8,,,,yes,531.0,no,funded,45.0,7.5,600.0,0,,,,,
+2,26,298,NeuralSystems360,Technology/Software,Cybersecurity for SMEs,2018.0,3,3,0,0,Middle,Hyderabad,Telangana,183.0,9.2,65.0,,12.0,no,,yes,yes,70.0,4.0,1750.0,1,1.0,70.0,4.08,1715.69,3.0
+2,26,299,HarvestRoots,Agriculture,Seed quality testing,2018.0,1,0,1,0,Middle,Surat,Gujarat,91.0,,,-12.9,1.1,yes,,no,yes,45.0,2.0,2250.0,1,1.0,45.0,9.44,476.69,1.0
+2,27,300,MehndiStudio,Beauty/Fashion,Men's grooming kits,2017.0,2,2,0,0,Middle,Pune,Maharashtra,588.0,66.2,40.0,,,yes,,,yes,150.0,4.0,3750.0,0,,,,,
+2,27,301,SwaadKitchenGo,Food and Beverage,Healthy millet snacks,2019.0,3,2,1,0,Middle,Bangalore,Karnataka,42.0,1.8,32.0,,,yes,32.0,no,,60.0,3.0,2000.0,0,,,,,
+2,27,302,PahadiOutdoors,Fitness/Sports/Outdoors,Yoga wear,2021.0,2,2,0,0,Middle,Pune,Maharashtra,0.0,,,,,yes,14.0,no,funded,60.0,4.0,1500.0,0,,,,,
+2,27,303,JeevanPlus,Medical/Health,Menstrual care products,2022.0,3,3,0,0,Middle,Kolkata,West Bengal,38.0,,83.0,-6.9,2.4,no,26.0,no,yes,80.0,2.0,4000.0,0,,,,,
+2,28,304,BijliAudio,Electronics,Power banks,2018.0,1,0,1,0,Middle,Bangalore,Karnataka,158.0,,16.0,,,,42.0,no,yes,60.0,2.0,3000.0,0,,,,,
+2,28,305,LoopWorks,Technology/Software,SaaS for kirana billing,2018.0,2,1,1,1,Young,Bangalore,Karnataka,328.0,,58.0,,51.8,no,1.0,no,yes,70.0,2.5,2800.0,1,1.0,87.5,3.12,2804.49,3.0
+2,28,306,ArogyaWellPro,Medical/Health,Ortho support braces,2020.0,2,1,1,0,Middle,Mumbai,Maharashtra,387.0,,87.0,24.9,31.2,no,45.0,yes,funded,120.0,4.0,3000.0,1,1.0,120.0,4.0,3000.0,1.0
+2,28,307,TadkaDabba360,Food and Beverage,Protein-rich namkeen,2020.0,2,1,1,0,Young,Mumbai,Maharashtra,124.0,7.3,60.0,-4.6,7.6,no,310.0,no,,120.0,6.0,2000.0,1,1.0,120.0,16.39,732.15,1.0
+2,29,308,DoggoBowl,Animal/Pets,Pet grooming at home,2020.0,2,2,0,0,Middle,Pune,Maharashtra,27.0,,47.0,,,yes,52.0,no,funded,70.0,3.0,2333.33,0,,,,,
+2,29,309,BandarCraft,Liquor/Alcohol,Craft beer,2016.0,3,1,2,0,Middle,,,4154.0,428.9,62.0,,,yes,31.0,no,,200.0,1.0,20000.0,1,1.0,200.0,1.37,14598.54,1.0
+2,29,310,HaldiKitchenGo,Food and Beverage,Artisanal coffee,2021.0,2,2,0,0,Middle,Ahmedabad,Gujarat,320.0,53.7,61.0,4.5,10.0,no,127.0,,yes,75.0,2.0,3750.0,1,1.0,75.0,6.01,1247.92,1.0
+2,29,311,PulseLifeGo,Medical/Health,At-home diagnostic kits,2011.0,2,1,1,1,Middle,Mumbai,Maharashtra,834.0,61.8,71.0,,39.5,no,,yes,funded,120.0,1.25,9600.0,1,1.0,85.0,0.89,9550.56,1.0
+2,30,312,JeevanHealthPro,Medical/Health,At-home diagnostic kits,2021.0,2,1,1,0,Middle,Delhi,Delhi,,13.4,85.0,-12.4,4.8,no,88.0,no,funded,50.0,0.75,6666.67,1,1.0,50.0,1.31,3816.79,1.0
+2,30,313,LittleKids,Children/Education,Baby care products,2017.0,2,1,1,1,Middle,Delhi,Delhi,58.0,11.7,72.0,,6.6,no,,no,,70.0,2.5,2800.0,1,0.0,,,,
+2,30,314,BizSolutions,Business Services,Co-working spaces,2022.0,3,3,0,0,Middle,Bangalore,Karnataka,518.0,82.5,63.0,4.1,11.9,yes,,,yes,60.0,3.0,2000.0,1,1.0,60.0,5.15,1165.05,2.0
+2,30,315,SmartHubOne,Business Services,Co-working spaces,2023.0,1,1,0,0,Middle,,,166.0,4.1,38.0,,,no,1.0,,yes,4000000.0,2.0,2000.0,1,0.0,,,,
+2,31,316,JoshMoves,Fitness/Sports/Outdoors,Cricket training gear,2021.0,4,2,2,0,Young,Delhi,Delhi,131.0,,45.0,,,yes,,,yes,60.0,5.0,1200.0,1,1.0,75.0,34.62,216.64,2.0
+2,31,317,PahadiMoves,Fitness/Sports/Outdoors,Home gym kits,2021.0,1,1,0,0,Middle,Pune,Maharashtra,69.0,4.2,71.0,-12.8,-6.8,yes,6.0,no,funded,45.0,3.0,1500.0,0,,,,,
+2,31,318,SwaadBitesPro,Food and Beverage,Ready-to-cook regional curries,2201.0,1,1,0,0,Old,Bangalore,Karnataka,24.0,3.1,66.0,,20.3,no,136.0,no,yes,50.0,3.5,1428.57,1,1.0,35.0,10.01,349.65,1.0
+2,31,319,DataSoftPlus,Technology/Software,Fleet tracking software,2021.0,3,1,2,0,Middle,Bhopal,Madhya Pradesh,0.0,,,,,yes,1.0,no,funded,25.0,2.0,1250.0,0,,,,,
+2,32,320,PulseHealth,Medical/Health,Diabetes-friendly foods,2022.0,3,3,0,0,Middle,Ahmedabad,Gujarat,,9.8,62.0,12.9,17.8,no,17.0,no,funded,70.0,3.0,2333.33,1,1.0,45.0,4.96,907.26,1.0
+2,32,321,MehndiBeautyPlus,Beauty/Fashion,Ayurvedic skincare,2022.0,2,2,0,0,Young,Hyderabad,Telangana,9.0,,42.0,1.2,10.2,no,,,yes,25.0,4.0,625.0,0,,,,,
+2,32,322,NeerCellars,Liquor/Alcohol,Low-alcohol drinks,2021.0,2,0,2,0,Middle,Mumbai,Maharashtra,512.0,,64.0,3.2,10.7,no,,no,funded,120.0,2.0,6000.0,1,1.0,180.0,9.17,1962.92,2.0
+2,32,323,DiyaHome,Lifestyle/Home,Modular furniture,2016.0,2,2,0,0,Middle,Chandigarh,Punjab,116.0,6.6,63.0,,32.5,no,222.0,no,funded,120.0,2.5,4800.0,0,,,,,
+2,33,324,MehndiBeauty360,Beauty/Fashion,Handloom sarees online,2015.0,4,2,2,0,Middle,Mumbai,Maharashtra,250.0,12.4,40.0,2.4,7.9,no,7.0,no,,70.0,2.0,3500.0,1,1.0,105.0,7.94,1322.42,2.0
+2,33,325,KesarDabbaGo,Food and Beverage,Sugar-free sweets,1920.0,2,2,0,0,Middle,Mumbai,Maharashtra,107.0,11.8,,,,yes,9.0,no,funded,60.0,3.0,2000.0,0,,,,,
+2,33,326,KraftPolymers,Manufacturing,Biodegradable cutlery,2023.0,2,1,1,0,Young,Indore,Madhya Pradesh,481.0,38.5,31.0,,6.0,,,no,yes,90.0,2.0,4500.0,1,0.0,,,,
+2,33,327,PahadiMovesPro,Fitness/Sports/Outdoors,Camping equipment,2020.0,2,2,0,0,Middle,Mumbai,Maharashtra,,27.9,55.0,0.5,11.0,no,,no,funded,60.0,15.0,400.0,1,1.0,50.0,13.76,363.37,5.0
+2,34,328,NoorStudio,Beauty/Fashion,Handloom sarees online,2022.0,2,1,1,1,Middle,Chennai,Tamil Nadu,4378.0,1178.2,60.0,-0.5,6.9,,,no,funded,150.0,3.0,5000.0,1,1.0,150.0,3.0,5000.0,1.0
+2,34,329,MonsoonBrewsGo,Liquor/Alcohol,Premium mixers,2016.0,2,0,2,0,Middle,Delhi,Delhi,85.0,3.8,35.0,,-6.3,yes,,no,funded,120.0,1.5,8000.0,0,,,,,
+2,34,330,NeelEnergy,Green/CleanTech,Compostable bags,2020.0,5,4,1,0,Middle,Mumbai,Maharashtra,717.0,61.7,,-2.0,2.0,no,443.0,no,yes,45.0,3.0,1500.0,0,,,,,
+2,34,331,NeuralHub,Technology/Software,Clinic management app,2018.0,2,2,0,0,Middle,Bangalore,Karnataka,70.0,36.7,65.0,16.5,18.5,no,,no,funded,25.0,3.0,833.33,1,1.0,25.0,11.36,220.07,1.0
+2,35,332,ProSolutionsPlus,Business Services,Co-working spaces,2022.0,3,2,1,0,Young,Mumbai,Maharashtra,136.0,,54.0,,14.3,no,2.0,no,yes,150.0,4.0,3750.0,0,,,,,
+2,35,333,CloudSystems,Technology/Software,AI resume screening,2021.0,2,2,0,0,Middle,Gurugram,Haryana,509.0,25.9,59.0,-4.6,1.3,no,,no,yes,150.0,1.25,12000.0,1,1.0,150.0,3.33,4504.5,2.0
+2,35,334,OfficeDesk,Business Services,Event management,2021.0,2,2,0,0,Middle,Hyderabad,Telangana,65.0,,51.0,,21.5,,1.0,,yes,50.0,2.5,2000.0,0,,,,,
+2,35,335,LoopAI,Technology/Software,Vernacular learning app,2018.0,2,1,1,1,Young,Delhi,Delhi,292.0,55.3,69.0,-6.6,3.8,no,5.0,,yes,90.0,2.0,4500.0,1,1.0,90.0,3.4,2647.06,1.0
+2,36,336,DhagaWearOne,Beauty/Fashion,Men's grooming kits,2021.0,4,2,2,0,Middle,Delhi,Delhi,39.0,,52.0,,,,21.0,,yes,45.0,1.5,3000.0,0,,,,,
+2,36,337,SwasthWell,Medical/Health,Ortho support braces,2012.0,2,2,0,0,Middle,Delhi,Delhi,217.0,16.9,61.0,,,yes,,no,funded,45.0,5.0,900.0,1,1.0,67.5,9.73,693.73,2.0
+2,36,338,JoshSportsGo,Fitness/Sports/Outdoors,Camping equipment,2020.0,1,1,0,0,Middle,Mumbai,Maharashtra,130.0,6.5,53.0,-8.0,0.8,no,18.0,no,yes,100.0,2.5,4000.0,1,0.0,,,,
+2,36,339,VitalHealth,Medical/Health,Ortho support braces,2015.0,1,1,0,0,Middle,Mumbai,Maharashtra,16.0,1.4,57.0,,19.5,no,23.0,yes,yes,30.0,4.0,750.0,1,0.0,,,,
+2,37,340,MastiStudios,Entertainment,Event ticketing,2016.0,4,3,1,0,Young,,Maharashtra,0.0,0.0,,,,yes,,,yes,50.0,3.0,1666.67,1,0.0,,,,
+2,37,341,EcoTech,Green/CleanTech,Water purification units,2017.0,1,1,0,0,Middle,Hyderabad,Telangana,0.0,0.0,,,,no,31.0,yes,yes,15.0,7.5,200.0,1,0.0,,,,
+2,37,342,TadkaFoods360,Food and Beverage,Cold-pressed juices,2016.0,3,3,0,0,Young,Surat,Gujarat,1225.0,,40.0,2.5,5.9,no,132.0,no,funded,75.0,2.0,3750.0,1,1.0,75.0,4.87,1540.04,3.0
+2,37,343,BioLabs,Green/CleanTech,E-waste recycling,2015.0,2,2,0,0,Middle,Gurugram,Haryana,1891.0,100.3,42.0,-0.5,4.4,no,81.0,yes,funded,60.0,1.0,6000.0,1,1.0,120.0,2.0,6000.0,2.0
+2,38,344,BinduStudioPlus,Beauty/Fashion,Ayurvedic skincare,2021.0,2,2,0,0,Young,Kolkata,West Bengal,149.0,25.5,61.0,,,no,14.0,no,funded,75.0,2.5,3000.0,0,,,,,
+2,38,345,HarvestFarmsOne,Agriculture,Hydroponic farming kits,2018.0,1,1,0,0,Middle,Ludhiana,Punjab,246.0,6.9,53.0,3.3,8.8,no,139.0,no,funded,100.0,3.0,3333.33,1,1.0,100.0,9.81,1019.37,1.0
+2,38,346,VoltMobility360,Vehicles/Electrical Vehicles,Battery swapping,2020.0,2,1,1,1,Young,Delhi,Delhi,174.0,,46.0,,2.2,no,42.0,no,funded,150.0,1.25,12000.0,0,,,,,
+2,38,347,NayiWorks,Others,Wedding planning,2022.0,3,2,1,0,Middle,Delhi,Delhi,1055.0,,51.0,,-1.0,yes,46.0,no,funded,150.0,1.5,10000.0,1,1.0,150.0,2.29,6550.22,4.0
+2,39,348,EcoPlanet,Green/CleanTech,Water purification units,2017.0,1,1,0,0,Middle,Mumbai,Maharashtra,,6.4,53.0,15.9,24.8,no,,no,funded,50.0,2.5,2000.0,1,0.0,,,,
+2,39,349,WoofBowl,Animal/Pets,Cattle health monitor,2019.0,2,2,0,0,Middle,Vadodara,Gujarat,234.0,9.0,51.0,,4.4,no,,no,yes,100.0,2.5,4000.0,1,1.0,100.0,6.57,1522.07,1.0
+2,39,350,HaldiTreats360,Food and Beverage,Cold-pressed juices,2017.0,2,2,0,0,Middle,Bangalore,Karnataka,,205.9,,-5.3,14.3,no,13.0,no,,50.0,1.25,4000.0,1,1.0,50.0,1.98,2525.25,2.0
+2,39,351,SutraThreadsPlus,Beauty/Fashion,Silver jewellery,,1,1,0,0,Middle,Mumbai,Maharashtra,155.0,11.6,77.0,24.9,27.0,no,,,funded,80.0,2.0,4000.0,1,1.0,80.0,4.45,1797.75,2.0
+2,40,352,KesarDabbaPro,Food and Beverage,Sugar-free sweets,2022.0,2,2,0,0,Middle,Bangalore,Karnataka,92.0,3.4,36.0,,,yes,10.0,no,yes,45.0,7.5,600.0,0,,,,,
+2,40,353,VedaPlus360,Medical/Health,Smart pill dispenser,2018.0,4,4,0,0,Middle,Mumbai,Maharashtra,134.0,6.4,67.0,14.1,19.9,no,,no,funded,90.0,4.0,2250.0,0,,,,,
+2,40,354,SwasthCare,Medical/Health,Menstrual care products,2020.0,3,3,0,0,Middle,Mumbai,Maharashtra,353.0,16.2,80.0,22.9,24.4,yes,5.0,no,yes,80.0,1.5,5333.33,1,1.0,80.0,2.8,2857.14,2.0
+2,40,355,ArogyaClinicPro,Medical/Health,Smart pill dispenser,2020.0,2,2,0,0,Middle,Bangalore,Karnataka,178.0,,66.0,-3.7,4.1,no,,no,funded,60.0,0.75,8000.0,0,,,,,
+2,41,356,HaraLabs,Green/CleanTech,Biogas plants,2019.0,2,1,1,1,Middle,Bangalore,Karnataka,371.0,25.8,,,15.8,no,16.0,no,yes,80.0,0.5,16000.0,0,,,,,
+2,41,357,ChaiKitchenPlus,Food and Beverage,Healthy millet snacks,,2,2,0,0,Middle,Delhi,Delhi,117.0,12.0,57.0,-8.9,3.4,no,,yes,yes,75.0,6.0,1250.0,1,1.0,35.0,7.71,453.96,2.0
+2,41,358,GyaanAcademy,Children/Education,Story books in Indian languages,2022.0,1,1,0,0,Middle,Kolkata,West Bengal,,1.9,,-3.0,4.8,no,28.0,no,,25.0,3.0,833.33,0,,,,,
+2,41,359,SaffronSkin360,Beauty/Fashion,Men's grooming kits,2021.0,1,1,0,0,Middle,Jaipur,Rajasthan,3.0,0.3,89.0,8.1,20.3,no,16.0,,funded,20.0,7.5,266.67,1,0.0,,,,
+2,42,360,VitalLife,Medical/Health,Menstrual care products,2016.0,3,3,0,0,Middle,Mumbai,Maharashtra,7692.0,1049.0,81.0,19.2,26.1,no,,no,,50.0,1.0,5000.0,1,1.0,50.0,1.0,5000.0,1.0
+2,42,361,ToughFab,Manufacturing,Biodegradable cutlery,2020.0,2,2,0,0,Young,Pune,Maharashtra,29.0,0.8,,-12.4,-6.8,yes,21.0,no,funded,30.0,4.0,750.0,0,,,,,
+2,42,362,CosyHome,Lifestyle/Home,Modular furniture,2017.0,2,2,0,0,Young,Mumbai,Maharashtra,,70.6,,,22.3,,418.0,no,yes,175.0,1.25,14000.0,1,1.0,175.0,2.87,6097.56,1.0
+2,42,363,NestCraft,Lifestyle/Home,Organic bedding,2021.0,2,2,0,0,Middle,Pune,Maharashtra,,27.8,55.0,-8.5,-6.5,yes,116.0,no,yes,150.0,0.75,20000.0,0,,,,,
+2,43,364,ZenHomeX,Lifestyle/Home,Organic bedding,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,942.0,75.9,,0.8,3.8,no,,no,funded,60.0,6.0,1000.0,0,,,,,
+2,43,365,KesarFoodsOne,Food and Beverage,Artisanal coffee,2020.0,3,3,0,0,Middle,Delhi,Delhi,84.0,,33.0,,13.9,no,62.0,no,yes,125.0,1.5,8333.33,0,,,,,
+2,43,366,NoorWear360,Beauty/Fashion,Handloom sarees online,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,154.0,9.4,71.0,-5.8,2.2,,,no,funded,35.0,6.0,583.33,1,1.0,15.0,3.93,381.68,1.0
+2,43,367,ChargeEV,Vehicles/Electrical Vehicles,E-cycle conversion kits,2018.0,1,0,1,0,Middle,Noida,Uttar Pradesh,25000.0,1305.8,5.0,,,yes,,,yes,250.0,0.5,50000.0,1,1.0,250.0,0.54,46296.3,1.0
+2,44,368,DoggoKart,Animal/Pets,Fresh pet food,2018.0,1,1,0,0,Middle,Ahmedabad,Gujarat,0.0,0.0,,,,yes,,no,yes,75.0,3.0,2500.0,1,0.0,,,,
+2,44,369,VedaLifePro,Medical/Health,Ortho support braces,2020.0,2,1,1,1,Middle,Pune,Maharashtra,520.0,85.0,67.0,,18.8,no,30.0,yes,funded,75.0,3.0,2500.0,1,1.0,75.0,5.51,1361.16,5.0
+2,44,370,CureRx,Medical/Health,Diabetes-friendly foods,2018.0,2,2,0,0,Young,Ahmedabad,Gujarat,120.0,5.9,58.0,,26.4,no,,yes,yes,60.0,6.0,1000.0,1,1.0,72.0,14.7,489.8,2.0
+2,44,371,PlayZonePlus,Entertainment,Comedy content studio,,1,1,0,0,Middle,Bangalore,Karnataka,2342.0,,40.0,,,no,,no,yes,175.0,1.0,17500.0,1,1.0,175.0,2.44,7172.13,1.0
+2,45,372,PrimePolymers,Manufacturing,Biodegradable cutlery,2017.0,2,1,1,1,Middle,Kolkata,West Bengal,382.0,28.6,,,,,,,yes,175.0,0.75,23333.33,0,,,,,
+2,45,373,AyurLabs,Medical/Health,At-home diagnostic kits,2015.0,1,1,0,0,Young,Delhi,Delhi,136.0,,77.0,,47.1,no,27.0,yes,funded,25.0,2.0,1250.0,1,1.0,25.0,2.95,847.46,1.0
+2,45,374,DesiDabbaPro,Food and Beverage,Artisanal coffee,,3,0,3,0,Middle,Gurugram,Haryana,99.0,7.3,,-0.3,3.8,no,78.0,no,yes,60.0,3.5,1714.29,0,,,,,
+2,45,375,LoopSystems,Technology/Software,Vernacular learning app,2021.0,2,1,1,1,Middle,Mumbai,Maharashtra,142.0,8.8,57.0,,2.0,no,1.0,no,yes,120.0,3.5,3428.57,0,,,,,
+2,46,376,PixelTechX,Technology/Software,SaaS for kirana billing,2016.0,3,2,1,0,Middle,Mumbai,Maharashtra,42.0,2.9,70.0,,23.1,no,,no,yes,30.0,2.5,1200.0,1,0.0,,,,
+2,46,377,ZariThreadsX,Beauty/Fashion,Silver jewellery,2018.0,3,2,1,0,Middle,Mumbai,Maharashtra,83.0,11.4,39.0,,,yes,455.0,no,funded,35.0,2.5,1400.0,0,,,,,
+2,46,378,MasalaKitchenOne,Food and Beverage,Cold-pressed juices,,2,1,1,1,Middle,Mumbai,Maharashtra,154.0,9.1,57.0,-2.1,2.8,no,3.0,no,funded,40.0,10.0,400.0,1,1.0,35.0,15.76,222.08,3.0
+2,46,379,VoltWheels,Vehicles/Electrical Vehicles,Battery swapping,2020.0,2,2,0,0,Middle,Delhi,Delhi,169.0,,22.0,-16.9,-13.0,yes,27.0,no,yes,80.0,3.5,2285.71,0,,,,,
+2,47,380,ChaiFoodsOne,Food and Beverage,Ready-to-cook regional curries,2021.0,2,2,0,0,Middle,Kochi,Kerala,94.0,,38.0,,,yes,,no,yes,60.0,4.0,1500.0,0,,,,,
+2,47,381,TrustLogix,Business Services,Co-working spaces,2021.0,3,2,1,0,Middle,Pune,Maharashtra,152.0,,77.0,-1.3,8.6,no,1.0,no,yes,60.0,2.0,3000.0,0,,,,,
+2,47,382,RangLabelOne,Beauty/Fashion,Sustainable sneakers,2021.0,2,0,2,0,Middle,Hyderabad,Telangana,955.0,66.8,77.0,26.0,28.8,no,,no,funded,60.0,1.25,4800.0,1,1.0,60.0,1.91,3141.36,1.0
+2,47,383,ToughPack,Manufacturing,Precision auto parts,,1,0,1,0,Middle,Chennai,Tamil Nadu,65.0,2.4,,,,yes,37.0,no,yes,100.0,1.25,8000.0,0,,,,,
+2,48,384,LinkLogixX,Business Services,Corporate gifting,2017.0,3,2,1,0,Middle,Delhi,Delhi,68.0,3.7,55.0,,27.0,no,4.0,no,funded,100.0,5.0,2000.0,0,,,,,
+2,48,385,CosyCraft360,Lifestyle/Home,Scented candles,,2,2,0,0,Middle,Delhi,Delhi,404.0,48.1,47.0,19.9,26.0,no,188.0,no,funded,60.0,0.75,8000.0,0,,,,,
+2,48,386,StaminaPro,Fitness/Sports/Outdoors,Cricket training gear,,2,2,0,0,Young,Bangalore,Karnataka,17.0,,,,-0.5,no,9.0,,funded,15.0,3.5,428.57,1,1.0,15.0,13.15,114.07,1.0
+2,48,387,WoofKart,Animal/Pets,Dog accessories,2020.0,2,2,0,0,Middle,Ahmedabad,Gujarat,462.0,26.5,31.0,,1.2,no,210.0,no,,45.0,10.0,450.0,1,1.0,30.0,15.89,188.8,1.0
+2,49,388,UrbanLivingGo,Lifestyle/Home,Organic bedding,2020.0,2,1,1,0,Middle,Kolkata,West Bengal,196.0,7.9,62.0,,15.8,no,2.0,no,funded,60.0,2.0,3000.0,1,1.0,120.0,11.13,1078.17,2.0
+2,49,389,CureCarePro,Medical/Health,Menstrual care products,,2,0,2,0,Middle,Mumbai,Maharashtra,356.0,29.8,65.0,15.1,24.1,no,29.0,yes,,60.0,3.5,1714.29,1,1.0,60.0,3.72,1612.9,1.0
+2,49,390,LogicSoft,Technology/Software,SaaS for kirana billing,2018.0,3,2,1,0,Middle,Bangalore,Karnataka,9.0,0.5,71.0,4.8,7.5,no,3.0,no,yes,30.0,5.0,600.0,1,1.0,30.0,13.06,229.71,2.0
+2,49,391,NeuralSoftGo,Technology/Software,Vernacular learning app,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,35.0,2.1,62.0,-17.3,-6.7,yes,,yes,funded,20.0,8.0,250.0,0,,,,,
+2,50,392,DhagaSkinGo,Beauty/Fashion,Plus-size ethnic wear,2019.0,3,3,0,0,Middle,Chennai,Tamil Nadu,97.0,16.7,44.0,7.2,9.9,,36.0,no,funded,125.0,2.0,6250.0,0,,,,,
+2,50,393,ZariBeautyPlus,Beauty/Fashion,Handloom sarees online,2013.0,1,1,0,0,Middle,Bangalore,Karnataka,66.0,5.8,45.0,-4.4,6.7,,35.0,,yes,50.0,3.5,1428.57,0,,,,,
+2,50,394,KonaHomeGo,Lifestyle/Home,Scented candles,,2,1,1,1,Middle,Delhi,Delhi,704.0,78.5,66.0,,,no,,no,funded,60.0,3.0,2000.0,1,1.0,60.0,5.8,1034.48,2.0
+2,50,395,HaldiFreshOne,Food and Beverage,Cold-pressed juices,2018.0,2,1,1,1,Middle,Kolkata,West Bengal,178.0,16.0,49.0,,14.7,no,,no,yes,90.0,3.0,3000.0,1,1.0,90.0,9.85,913.71,3.0
+2,51,396,TadkaDabbaPlus,Food and Beverage,Sugar-free sweets,,5,3,2,0,Middle,Pune,Maharashtra,685.0,65.2,40.0,2.6,12.1,,,no,yes,45.0,2.5,1800.0,1,1.0,56.25,4.91,1145.62,5.0
+2,51,397,LinkAssistX,Business Services,B2B logistics,2020.0,2,2,0,0,Middle,Lucknow,Uttar Pradesh,0.0,0.0,,,,yes,1.0,no,,25.0,2.5,1000.0,1,1.0,25.0,10.41,240.15,2.0
+2,51,398,KayaWear360,Beauty/Fashion,Handloom sarees online,2016.0,2,2,0,0,Middle,Chennai,Tamil Nadu,28.0,1.6,,,22.8,no,,no,yes,50.0,3.5,1428.57,1,1.0,50.0,3.5,1428.57,1.0
+2,51,399,SprintSports,Fitness/Sports/Outdoors,Camping equipment,2020.0,1,0,1,0,Young,Noida,Uttar Pradesh,24.0,1.2,,,,yes,30.0,yes,yes,25.0,10.0,250.0,1,1.0,20.0,20.01,99.95,1.0
+2,52,400,HaldiFreshGo,Food and Beverage,Sugar-free sweets,2019.0,1,1,0,0,Young,Delhi,Delhi,282.0,23.1,,,-3.6,yes,,no,funded,35.0,0.75,4666.67,1,1.0,42.0,3.87,1085.27,2.0
+2,52,401,MilletKitchenGo,Food and Beverage,Ready-to-cook regional curries,2015.0,2,2,0,0,Young,Bangalore,Karnataka,,6.2,,-10.0,3.0,no,64.0,no,yes,50.0,4.0,1250.0,1,1.0,50.0,11.75,425.53,2.0
+2,52,402,HaldiBites,Food and Beverage,Ready-to-cook regional curries,2016.0,2,2,0,0,Young,Delhi,Delhi,,,,1.5,7.9,no,3.0,no,yes,45.0,2.0,2250.0,1,1.0,90.0,11.65,772.53,2.0
+2,52,403,HealHealthPro,Medical/Health,Menstrual care products,2018.0,2,2,0,0,Young,Delhi,Delhi,18000.0,2668.2,90.0,,26.0,no,,yes,yes,90.0,0.75,12000.0,1,1.0,75.0,0.62,12096.77,2.0
+2,53,404,RideMotors,Vehicles/Electrical Vehicles,E-cycle conversion kits,2022.0,2,1,1,1,Middle,Jaipur,Rajasthan,15.0,0.9,34.0,,,yes,14.0,,funded,30.0,8.0,375.0,0,,,,,
+2,53,405,LogicHub360,Technology/Software,Vernacular learning app,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,585.0,,77.0,3.1,9.9,no,1.0,yes,funded,90.0,2.0,4500.0,1,1.0,50.0,2.49,2008.03,1.0
+2,53,406,BharatPack,Manufacturing,Biodegradable cutlery,2019.0,2,1,1,1,Old,Goa,Goa,,158.9,40.0,,,yes,,no,funded,250.0,2.5,10000.0,1,1.0,250.0,6.96,3591.95,2.0
+2,53,407,ChaiFoods360,Food and Beverage,Healthy millet snacks,,2,2,0,0,Middle,Chennai,Tamil Nadu,1227.0,181.2,52.0,-22.7,-7.6,yes,37.0,no,yes,40.0,1.25,3200.0,1,1.0,40.0,2.54,1574.8,3.0
+2,54,408,SwiftAI360,Technology/Software,Vernacular learning app,,1,1,0,0,Middle,Bangalore,Karnataka,78.0,,83.0,,,no,3.0,no,funded,150.0,6.0,2500.0,0,,,,,
+2,54,409,PrimeFab,Manufacturing,Steel kitchenware,2016.0,1,1,0,0,Middle,Delhi,Delhi,294.0,,49.0,,,no,8.0,no,yes,60.0,3.5,1714.29,1,1.0,35.0,9.38,373.13,1.0
+2,54,410,ChaiBrew360,Food and Beverage,Sugar-free sweets,2016.0,1,1,0,0,Middle,Delhi,Delhi,786.0,,36.0,,,yes,,no,yes,100.0,2.0,5000.0,1,1.0,120.0,2.61,4597.7,2.0
+2,54,411,DataAI,Technology/Software,Cybersecurity for SMEs,2022.0,1,1,0,0,Middle,Delhi,Delhi,542.0,,88.0,,14.3,no,,yes,yes,175.0,0.75,23333.33,1,1.0,175.0,0.75,23333.33,2.0
+2,55,412,SwaadBites360,Food and Beverage,Sugar-free sweets,2017.0,1,0,1,0,Young,Delhi,Delhi,405.0,38.1,,7.9,16.9,no,45.0,no,funded,30.0,2.5,1200.0,1,1.0,30.0,5.95,504.2,1.0
+2,55,413,TrustDeskGo,Business Services,Event management,2019.0,2,1,1,0,Middle,Kolkata,West Bengal,0.0,,,,,yes,31.0,no,,30.0,2.0,1500.0,0,,,,,
+2,55,414,MehndiBeautyGo,Beauty/Fashion,Men's grooming kits,2019.0,1,1,0,0,Middle,Pune,Maharashtra,282.0,,57.0,-0.9,6.4,no,,no,funded,35.0,4.0,875.0,1,1.0,35.0,8.73,400.92,1.0
+2,55,415,SwaadSnacksPro,Food and Beverage,Sugar-free sweets,2019.0,1,1,0,0,Middle,Noida,Uttar Pradesh,384.0,,,,20.8,,,yes,funded,200.0,2.5,8000.0,1,1.0,200.0,9.17,2181.03,1.0
+2,56,416,CodeSoftGo,Technology/Software,AI resume screening,2023.0,2,2,0,0,Middle,Indore,Madhya Pradesh,203.0,8.5,64.0,5.2,6.4,,1.0,yes,funded,75.0,4.0,1875.0,1,1.0,75.0,8.63,869.06,2.0
+2,56,417,MilletBrew360,Food and Beverage,Ready-to-cook regional curries,2021.0,2,1,1,0,Middle,Kolkata,West Bengal,63.0,,,,,no,7.0,,yes,20.0,2.0,1000.0,1,1.0,10.0,7.87,127.06,1.0
+2,56,418,MittiHome,Lifestyle/Home,Handmade decor,2018.0,2,1,1,1,Middle,Mumbai,Maharashtra,894.0,66.4,,,28.3,,101.0,no,,90.0,1.0,9000.0,1,1.0,90.0,2.21,4072.4,3.0
+2,56,419,AyurRxPlus,Medical/Health,Smart pill dispenser,2012.0,2,2,0,0,Middle,Hyderabad,Telangana,1763.0,,52.0,0.2,3.9,no,59.0,no,funded,100.0,5.0,2000.0,1,1.0,100.0,5.83,1715.27,1.0
+2,57,420,SmartAssist,Business Services,B2B logistics,2014.0,2,2,0,0,Young,Surat,Gujarat,32000.0,4053.5,56.0,16.3,22.4,yes,,no,funded,300.0,2.0,15000.0,1,0.0,,,,
+2,57,421,MeowBuddy,Animal/Pets,Cattle health monitor,2017.0,2,1,1,1,Young,Bangalore,Karnataka,139.0,11.0,40.0,7.6,30.6,no,40.0,no,,70.0,2.0,3500.0,0,,,,,
+2,57,422,MilletFoodsGo,Food and Beverage,Healthy millet snacks,2019.0,1,0,1,0,Middle,Surat,Gujarat,0.0,,,,,yes,28.0,no,yes,40.0,3.0,1333.33,1,1.0,40.0,6.55,610.69,4.0
+2,57,423,ZariLoom360,Beauty/Fashion,Silver jewellery,2014.0,5,4,1,0,Middle,Bangalore,Karnataka,2384.0,,,17.9,31.6,no,4.0,yes,funded,120.0,1.5,8000.0,0,,,,,
+2,58,424,KayaWearGo,Beauty/Fashion,Sustainable sneakers,2021.0,1,1,0,0,Middle,Mumbai,Maharashtra,112.0,18.5,47.0,11.6,15.8,no,9.0,no,funded,30.0,6.0,500.0,0,,,,,
+3,1,425,SaffronLabel,Beauty/Fashion,Men's grooming kits,2019.0,2,1,1,1,Middle,Mumbai,Maharashtra,430.0,34.5,,12.1,18.6,no,2.0,yes,funded,70.0,6.0,1166.67,1,1.0,70.0,8.11,863.13,1.0
+3,1,426,ChhotaTots,Children/Education,Story books in Indian languages,,3,2,1,0,Middle,Gurugram,Haryana,54.0,,60.0,4.9,10.3,no,95.0,yes,,45.0,4.0,1125.0,1,0.0,,,,
+3,1,427,VitalLabs,Medical/Health,Telehealth for villages,2020.0,1,1,0,0,Middle,Hyderabad,Telangana,200.0,10.1,67.0,,,no,,no,funded,30.0,5.0,600.0,1,1.0,30.0,6.03,497.51,1.0
+3,1,428,NutriDabba,Food and Beverage,Artisanal coffee,2019.0,3,3,0,0,Middle,Gurugram,Haryana,847.0,90.8,57.0,2.9,4.8,no,,no,funded,25.0,1.5,1666.67,1,1.0,25.0,1.5,1666.67,2.0
+3,2,429,ZariLoom,Beauty/Fashion,Ayurvedic skincare,2020.0,2,1,1,1,Middle,Vadodara,Gujarat,431.0,,49.0,0.4,6.7,,35.0,no,yes,50.0,2.5,2000.0,1,1.0,62.5,5.69,1098.42,2.0
+3,2,430,GlowWear,Beauty/Fashion,Ayurvedic skincare,2023.0,2,2,0,0,Young,Mumbai,Maharashtra,229.0,36.9,79.0,,,no,586.0,no,,35.0,6.0,583.33,1,1.0,70.0,16.29,429.71,2.0
+3,2,431,NovaLabs,Technology/Software,SaaS for kirana billing,2019.0,2,1,1,1,Young,Delhi,Delhi,79.0,4.9,60.0,2.7,3.4,no,1.0,no,,125.0,2.5,5000.0,1,0.0,,,,
+3,2,432,HealLabs,Medical/Health,Smart pill dispenser,2021.0,2,1,1,0,Middle,Mumbai,Maharashtra,,30.7,,,-3.7,yes,46.0,no,funded,45.0,2.5,1800.0,1,1.0,54.0,4.17,1294.96,2.0
+3,3,433,LogicLabs,Technology/Software,Vernacular learning app,2019.0,2,2,0,0,Middle,Bangalore,Karnataka,1363.0,115.4,70.0,-4.4,10.7,no,1.0,no,funded,35.0,2.0,1750.0,1,1.0,35.0,2.11,1658.77,3.0
+3,3,434,PrimeLogix,Business Services,HR outsourcing,2023.0,2,2,0,0,Young,Mumbai,Maharashtra,130.0,14.7,57.0,-1.7,1.0,,4.0,no,yes,25.0,12.0,208.33,1,1.0,30.0,22.42,133.81,2.0
+3,3,435,SaffronStudio,Beauty/Fashion,Handloom sarees online,2017.0,2,2,0,0,Middle,Mumbai,Maharashtra,12.0,0.2,56.0,,8.7,no,64.0,no,funded,40.0,2.0,2000.0,0,,,,,
+3,3,436,TatvaNestOne,Lifestyle/Home,Smart home lighting,2024.0,3,3,0,0,Middle,Guwahati,Assam,72.0,9.3,76.0,,35.3,no,,no,funded,50.0,2.0,2500.0,0,,,,,
+3,4,437,CloudLabsGo,Technology/Software,AI resume screening,2014.0,2,1,1,1,Young,,,404.0,,56.0,,,no,1.0,no,,70.0,3.0,2333.33,1,1.0,70.0,6.3,1111.11,4.0
+3,4,438,BrightKids,Children/Education,STEM toy kits,2022.0,2,1,1,0,Middle,Bangalore,Karnataka,204.0,18.5,38.0,,6.1,no,,no,funded,25.0,10.0,250.0,1,1.0,50.0,32.01,156.2,2.0
+3,4,439,TatvaCraft,Lifestyle/Home,Smart home lighting,2022.0,1,1,0,0,Middle,Surat,Gujarat,182.0,14.4,76.0,15.7,19.5,no,4.0,no,,45.0,5.0,900.0,1,1.0,25.0,4.82,518.67,1.0
+3,4,440,KonaHome,Lifestyle/Home,Eco cleaning products,2016.0,2,1,1,1,Young,Ahmedabad,Gujarat,131.0,5.8,63.0,,,yes,,no,funded,125.0,1.5,8333.33,0,,,,,
+3,5,441,HealHealth,Medical/Health,Diabetes-friendly foods,2020.0,3,2,1,0,Middle,Mumbai,Maharashtra,925.0,35.7,61.0,,5.9,no,15.0,yes,funded,200.0,2.0,10000.0,1,1.0,100.0,1.0,10000.0,1.0
+3,5,442,NoorLoom,Beauty/Fashion,Handloom sarees online,2015.0,2,1,1,1,Middle,Kolkata,West Bengal,6352.0,293.6,57.0,20.0,22.8,no,22.0,no,,125.0,2.5,5000.0,1,1.0,125.0,4.26,2934.27,1.0
+3,5,443,ZenHaus,Lifestyle/Home,Organic bedding,2020.0,3,2,1,0,Middle,Delhi,Delhi,1493.0,66.6,66.0,,1.7,no,42.0,no,funded,120.0,4.0,3000.0,1,1.0,70.0,2.33,3004.29,1.0
+3,5,444,SwasthPlus,Medical/Health,Ortho support braces,2021.0,3,1,2,0,Middle,Gurugram,Haryana,24.0,1.1,56.0,-16.2,-12.4,no,,no,yes,25.0,8.0,312.5,1,1.0,10.0,8.07,123.92,1.0
+3,6,445,ForgeIndustries,Manufacturing,Precision auto parts,2022.0,2,2,0,0,Middle,Gurugram,Haryana,132.0,8.7,,2.0,7.0,yes,13.0,no,funded,60.0,3.0,2000.0,1,0.0,,,,
+3,6,446,AxisPack,Manufacturing,Biodegradable cutlery,2023.0,1,1,0,0,Middle,Bhopal,Madhya Pradesh,46.0,5.2,48.0,,7.0,yes,11.0,no,yes,60.0,2.5,2400.0,0,,,,,
+3,6,447,MehndiThreads,Beauty/Fashion,Ayurvedic skincare,2017.0,2,2,0,0,Middle,Delhi,Delhi,281.0,,68.0,5.9,15.3,no,30.0,no,yes,200.0,2.0,10000.0,0,,,,,
+3,6,448,RasoiBites,Food and Beverage,Artisanal coffee,2023.0,1,0,1,0,Middle,Surat,Gujarat,1701.0,,62.0,,,yes,,no,funded,120.0,0.75,16000.0,1,1.0,180.0,1.92,9375.0,2.0
+3,7,449,ChargeDrive,Vehicles/Electrical Vehicles,Electric scooters,2020.0,2,2,0,0,Young,Ahmedabad,Gujarat,165.0,6.1,36.0,13.7,26.4,no,100.0,no,yes,60.0,3.0,2000.0,1,1.0,40.0,7.9,506.33,1.0
+3,7,450,PixelWorks,Technology/Software,Cybersecurity for SMEs,,3,2,1,0,Middle,Delhi,Delhi,462.0,16.1,64.0,-11.1,0.5,no,,no,funded,90.0,2.0,4500.0,1,1.0,90.0,5.92,1520.27,1.0
+3,7,451,QuickHub,Business Services,HR outsourcing,,2,1,1,0,Middle,Gurugram,Haryana,,11.7,69.0,-1.0,3.9,no,,no,funded,150.0,2.5,6000.0,1,1.0,150.0,6.71,2235.47,1.0
+3,7,452,KesarDabba,Food and Beverage,Protein-rich namkeen,2020.0,1,1,0,0,Middle,Bangalore,Karnataka,296.0,43.4,46.0,,5.2,no,185.0,no,funded,45.0,3.5,1285.71,1,1.0,45.0,8.04,559.7,3.0
+3,8,453,MilletTreats,Food and Beverage,Protein-rich namkeen,2021.0,2,2,0,0,Middle,Mumbai,Maharashtra,457.0,,41.0,-10.2,3.8,no,,,funded,70.0,5.0,1400.0,1,1.0,70.0,8.11,863.13,3.0
+3,8,454,GyaanBooks,Children/Education,Exam prep app,2019.0,2,1,1,1,Middle,Ahmedabad,Gujarat,141.0,7.6,34.0,,,no,8.0,no,yes,50.0,3.0,1666.67,1,1.0,50.0,5.13,974.66,1.0
+3,8,455,TipsyDistillery,Liquor/Alcohol,Premium mixers,2023.0,3,1,2,0,Middle,Kolkata,West Bengal,1075.0,,57.0,-2.4,7.8,no,,,funded,70.0,0.75,9333.33,0,,,,,
+3,8,456,LinkSolutions,Business Services,Event management,2019.0,1,1,0,0,Middle,Pune,Maharashtra,235.0,74.7,380.0,,,,1.0,no,yes,125.0,2.0,6250.0,0,,,,,
+3,9,457,KonaLivingPlus,Lifestyle/Home,Smart home lighting,2017.0,2,2,0,0,Young,Delhi,Delhi,1331.0,167.4,63.0,,18.6,no,57.0,no,funded,80.0,4.0,2000.0,1,1.0,35.0,2.11,1658.77,1.0
+3,9,458,DhagaLabelPro,Beauty/Fashion,Handloom sarees online,,2,2,0,0,Middle,Pune,Maharashtra,29.0,3.9,78.0,,16.8,no,58.0,no,funded,50.0,1.5,3333.33,0,,,,,
+3,9,459,DataLabsGo,Technology/Software,AI resume screening,2017.0,2,1,1,1,Middle,Ludhiana,Punjab,47.0,9.3,66.0,12.4,14.3,no,,yes,yes,125.0,2.0,6250.0,0,,,,,
+3,9,460,MehndiCare,Beauty/Fashion,Handloom sarees online,2019.0,2,1,1,1,Middle,Mumbai,Maharashtra,551.0,32.4,65.0,,10.1,no,476.0,no,yes,60.0,3.0,2000.0,1,1.0,90.0,11.79,763.36,4.0
+3,10,461,MasalaDabba,Food and Beverage,Sugar-free sweets,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,417.0,48.7,31.0,-21.3,-11.3,yes,26.0,no,yes,100.0,2.5,4000.0,1,0.0,,,,
+3,10,462,RangWear,Beauty/Fashion,Ayurvedic skincare,2023.0,2,2,0,0,Young,Gurugram,Haryana,201.0,35.7,63.0,-11.4,3.9,no,45.0,no,yes,70.0,1.5,4666.67,1,1.0,70.0,5.03,1391.65,1.0
+3,10,463,SaffronStudioPlus,Beauty/Fashion,Ayurvedic skincare,,3,2,1,0,Young,Vadodara,Gujarat,76.0,2.1,61.0,,4.0,no,96.0,,yes,60.0,2.5,2400.0,1,1.0,72.0,8.47,850.06,2.0
+3,10,464,NeuralAIX,Technology/Software,Fleet tracking software,2024.0,2,0,2,0,Middle,,,493.0,26.8,70.0,-5.9,-3.5,yes,6.0,,funded,70.0,2.0,3500.0,1,1.0,70.0,2.0,3500.0,4.0
+3,11,465,DataHub,Technology/Software,AI resume screening,2017.0,2,2,0,0,Young,Ahmedabad,Gujarat,130.0,5.9,56.0,25.5,27.9,no,4.0,yes,yes,40.0,5.0,800.0,1,1.0,40.0,10.84,369.0,2.0
+3,11,466,LoopLabs,Technology/Software,Clinic management app,,3,2,1,0,Middle,Ahmedabad,Gujarat,66.0,,69.0,,,,2.0,yes,funded,35.0,2.0,1750.0,1,1.0,35.0,4.82,726.14,2.0
+3,11,467,KagazWorld,Others,Wedding planning,2022.0,2,1,1,0,Middle,Kolkata,West Bengal,44.0,1.0,11.0,2.9,4.9,no,,no,yes,250.0,4.0,6250.0,0,,,,,
+3,11,468,SaffronSkin,Beauty/Fashion,Silver jewellery,2018.0,1,1,0,0,Young,Delhi,Delhi,,15.6,64.0,5.6,22.4,no,43.0,no,,35.0,8.0,437.5,1,1.0,35.0,10.43,335.57,1.0
+3,12,469,NeerBrews,Liquor/Alcohol,Premium mixers,2021.0,2,1,1,1,Middle,Delhi,Delhi,25.0,,81.0,,,no,369.0,no,yes,200.0,3.0,6666.67,0,,,,,
+3,12,470,VedaLabs,Medical/Health,At-home diagnostic kits,2022.0,1,1,0,0,Middle,Mumbai,Maharashtra,322.0,7.1,,2.4,9.1,no,,no,yes,80.0,1.25,6400.0,1,1.0,80.0,2.78,2877.7,2.0
+3,12,471,TrustConnect,Business Services,Co-working spaces,2020.0,2,1,1,1,Middle,,,0.0,0.0,,,,yes,,no,funded,35.0,3.0,1166.67,0,,,,,
+3,12,472,ChaiDabba,Food and Beverage,Cold-pressed juices,2022.0,1,1,0,0,Young,Pune,Maharashtra,53.0,7.6,41.0,,-1.6,yes,21.0,no,funded,20.0,4.0,500.0,0,,,,,
+3,13,473,EcoPack,Manufacturing,Recycled plastic tiles,,2,2,0,0,Middle,Goa,Goa,73.0,5.9,63.0,,,yes,,no,yes,70.0,5.0,1400.0,1,1.0,45.0,11.0,409.09,4.0
+3,13,474,KhelPro,Fitness/Sports/Outdoors,Cricket training gear,2023.0,1,0,1,0,Middle,Ahmedabad,Gujarat,389.0,48.0,81.0,3.4,8.1,yes,61.0,no,,60.0,3.0,2000.0,1,1.0,75.0,4.89,1533.74,2.0
+3,13,475,SparkEVX,Vehicles/Electrical Vehicles,EV for delivery fleets,2022.0,1,1,0,0,Middle,Jaipur,Rajasthan,6.0,1.2,17.0,-22.7,-11.4,yes,24.0,no,yes,50.0,6.0,833.33,0,,,,,
+3,13,476,LinkSolutions360,Business Services,Corporate gifting,2017.0,1,1,0,0,Middle,Delhi,Delhi,448.0,11.5,50.0,9.8,10.8,,,,yes,40.0,1.0,4000.0,1,1.0,40.0,2.52,1587.3,2.0
+3,14,477,SparkDrive,Vehicles/Electrical Vehicles,E-cycle conversion kits,2021.0,2,1,1,1,Middle,Vadodara,Gujarat,169.0,,62.0,,8.9,no,,no,funded,100.0,2.0,5000.0,1,1.0,100.0,6.29,1589.83,1.0
+3,14,478,BinduStudioGo,Beauty/Fashion,Plus-size ethnic wear,2022.0,4,4,0,0,Young,Noida,Uttar Pradesh,274.0,24.3,79.0,,8.1,no,26.0,no,funded,75.0,1.25,6000.0,1,1.0,75.0,1.25,6000.0,3.0
+3,14,479,KiddoPlay360,Children/Education,Coding classes for kids,,2,2,0,0,Young,Ahmedabad,Gujarat,139.0,16.0,,,9.6,no,45.0,no,funded,45.0,3.5,1285.71,1,1.0,45.0,6.23,722.31,2.0
+3,14,480,SwiftSystems,Technology/Software,Fleet tracking software,2021.0,2,0,2,0,Young,Ahmedabad,Gujarat,42.0,2.6,59.0,,,yes,,,yes,80.0,3.0,2666.67,0,,,,,
+3,15,481,GharNestOne,Lifestyle/Home,Handmade decor,2021.0,2,1,1,1,Middle,Nagpur,Maharashtra,102.0,6.3,68.0,,18.7,no,71.0,,yes,70.0,3.5,2000.0,0,,,,,
+3,15,482,MediHealth,Medical/Health,Smart pill dispenser,2022.0,2,2,0,0,Middle,Bangalore,Karnataka,223.0,,61.0,,5.9,no,,no,funded,75.0,7.5,1000.0,1,1.0,150.0,51.92,288.91,2.0
+3,15,483,PulseLife360,Medical/Health,Menstrual care products,2018.0,2,2,0,0,Middle,,,222.0,16.8,63.0,5.7,20.0,,88.0,no,funded,120.0,4.0,3000.0,0,,,,,
+3,15,484,DesiSnacks,Food and Beverage,Artisanal coffee,2020.0,3,1,2,0,Middle,Chennai,Tamil Nadu,0.0,,,,,yes,33.0,no,funded,40.0,3.5,1142.86,1,1.0,40.0,8.35,479.04,2.0
+3,16,485,MilletBites360,Food and Beverage,Healthy millet snacks,2022.0,1,0,1,0,Young,Ahmedabad,Gujarat,50.0,2.7,49.0,,12.1,no,,no,yes,50.0,1.0,5000.0,0,,,,,
+3,16,486,MasalaBitesPro,Food and Beverage,Ready-to-cook regional curries,,3,3,0,0,Young,Hyderabad,Telangana,464.0,,71.0,,,yes,,no,funded,90.0,1.5,6000.0,0,,,,,
+3,16,487,PixelStack,Technology/Software,AI resume screening,2014.0,2,1,1,0,Middle,Delhi,Delhi,731.0,84.1,,,18.7,no,,no,funded,175.0,5.0,3500.0,1,0.0,,,,
+3,16,488,ZenCraft,Lifestyle/Home,Handmade decor,2018.0,3,3,0,0,Middle,Hubballi,Karnataka,152.0,16.1,68.0,,26.5,no,185.0,no,yes,125.0,2.5,5000.0,1,1.0,125.0,6.11,2045.83,5.0
+3,17,489,KesarBitesOne,Food and Beverage,Artisanal coffee,2022.0,2,0,2,0,Middle,Nagpur,Maharashtra,222.0,,61.0,21.1,23.9,no,,no,yes,75.0,3.0,2500.0,1,1.0,112.5,15.0,750.0,5.0
+3,17,490,ChaiBites,Food and Beverage,Healthy millet snacks,2015.0,2,1,1,1,Middle,Indore,Madhya Pradesh,126.0,10.8,,6.1,14.0,no,12.0,no,yes,120.0,3.0,4000.0,0,,,,,
+3,17,491,UdyogTools,Manufacturing,Steel kitchenware,2024.0,2,1,1,1,Middle,Bhopal,Madhya Pradesh,100.0,,,,,yes,26.0,,yes,100.0,5.0,2000.0,0,,,,,
+3,17,492,SmartDesk,Business Services,Digital marketing agency,2021.0,2,1,1,1,Young,Delhi,Delhi,,144.4,53.0,-4.4,9.8,no,,no,yes,150.0,1.25,12000.0,1,1.0,150.0,1.25,12000.0,2.0
+3,18,493,PixelSystemsX,Technology/Software,Fleet tracking software,2019.0,2,1,1,1,Middle,Ahmedabad,Gujarat,1541.0,164.9,68.0,24.6,28.6,no,1.0,no,funded,90.0,1.5,6000.0,1,1.0,135.0,2.5,5400.0,2.0
+3,18,494,DhagaThreads,Beauty/Fashion,Ayurvedic skincare,2018.0,2,2,0,0,Middle,Mumbai,Maharashtra,6405.0,,,,,yes,25.0,no,funded,150.0,0.75,20000.0,1,1.0,150.0,2.58,5813.95,1.0
+3,18,495,LinkLogix,Business Services,Co-working spaces,,2,2,0,0,Middle,Mumbai,Maharashtra,327.0,20.1,,-17.9,2.3,no,,no,yes,75.0,3.0,2500.0,1,1.0,75.0,4.65,1612.9,3.0
+3,18,496,DhagaWear360,Beauty/Fashion,Handloom sarees online,2024.0,3,3,0,0,Middle,Delhi,Delhi,39.0,5.4,75.0,,,yes,,no,funded,60.0,2.0,3000.0,0,,,,,
+3,19,497,ZariLabel360,Beauty/Fashion,Men's grooming kits,2023.0,2,1,1,0,Young,Hyderabad,Telangana,141.0,17.8,50.0,,,yes,,no,yes,40.0,4.0,1000.0,1,1.0,40.0,11.3,353.98,1.0
+3,19,498,AgroGrow,Agriculture,Hydroponic farming kits,2019.0,2,1,1,0,Young,Delhi,Delhi,849.0,64.1,35.0,,,yes,,no,yes,100.0,0.75,13333.33,1,1.0,100.0,1.68,5952.38,1.0
+3,19,499,SwaadBitesX,Food and Beverage,Cold-pressed juices,2023.0,2,2,0,0,Middle,Ahmedabad,Gujarat,28.0,3.6,,,,,9.0,no,,30.0,7.5,400.0,1,1.0,60.0,38.87,154.36,2.0
+3,19,500,DhagaWearPlus,Beauty/Fashion,Silver jewellery,2021.0,1,1,0,0,Middle,Gurugram,Haryana,58.0,,92.0,8.6,13.4,no,,no,,70.0,5.0,1400.0,1,1.0,70.0,13.05,536.4,4.0
+3,20,501,TinyPlay,Children/Education,Baby care products,2020.0,2,1,1,1,Middle,Gurugram,Haryana,363.0,61.1,56.0,0.2,6.5,no,7.0,,,250.0,1.25,20000.0,0,,,,,
+3,20,502,BinduLoom,Beauty/Fashion,Ayurvedic skincare,2022.0,4,3,1,0,Middle,,,6527.0,923.9,,27.2,35.4,no,36.0,no,yes,175.0,1.0,17500.0,1,1.0,210.0,1.74,12068.97,2.0
+3,20,503,ZariBeauty,Beauty/Fashion,Handloom sarees online,,3,2,1,0,Young,Mumbai,Maharashtra,0.0,0.0,,,,yes,12.0,yes,yes,35.0,4.0,875.0,0,,,,,
+3,20,504,ShikshaAcademy,Children/Education,STEM toy kits,2021.0,1,1,0,0,Young,Mumbai,Maharashtra,215.0,,59.0,10.9,13.8,no,248.0,yes,funded,50.0,2.5,2000.0,1,1.0,50.0,4.79,1043.84,4.0
+3,21,505,SutraStudio360,Beauty/Fashion,Men's grooming kits,2023.0,1,1,0,0,Middle,Mumbai,Maharashtra,126.0,12.4,46.0,,,yes,106.0,no,funded,25.0,1.0,2500.0,1,0.0,,,,
+3,21,506,NutriKitchenOne,Food and Beverage,Healthy millet snacks,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,180.0,7.6,58.0,14.0,18.4,no,3.0,no,yes,40.0,2.0,2000.0,1,0.0,,,,
+3,21,507,KiddoTots,Children/Education,Exam prep app,2023.0,2,0,2,0,Middle,Delhi,Delhi,76.0,15.5,26.0,,,no,,no,funded,70.0,4.0,1750.0,0,,,,,
+3,21,508,TadkaFresh,Food and Beverage,Healthy millet snacks,2019.0,1,1,0,0,Middle,Lucknow,Uttar Pradesh,139.0,,45.0,,,yes,,no,funded,35.0,3.5,1000.0,1,1.0,35.0,10.89,321.4,1.0
+3,22,509,HealPlusPro,Medical/Health,Telehealth for villages,2009.0,2,1,1,0,Middle,Noida,Uttar Pradesh,1948.0,516.4,63.0,,,yes,64.0,yes,yes,75.0,1.5,5000.0,1,1.0,75.0,1.5,5000.0,1.0
+3,22,510,SahayakServices,Business Services,Event management,2019.0,2,2,0,0,Middle,Gurugram,Haryana,802.0,48.8,69.0,1.6,3.4,no,,no,,30.0,1.25,2400.0,1,1.0,30.0,1.48,2027.03,5.0
+3,22,511,BinduLoomGo,Beauty/Fashion,Sustainable sneakers,2017.0,2,2,0,0,Middle,Pune,Maharashtra,873.0,52.9,70.0,6.4,11.8,no,,no,yes,120.0,0.75,16000.0,1,1.0,120.0,1.59,7547.17,2.0
+3,22,512,VoltMobility,Vehicles/Electrical Vehicles,EV for delivery fleets,2020.0,3,3,0,0,Middle,Pune,Maharashtra,1328.0,,,-1.5,7.1,,61.0,no,yes,200.0,3.0,6666.67,1,1.0,175.0,4.63,3779.7,2.0
+3,23,513,DhagaLabel360,Beauty/Fashion,Sustainable sneakers,2021.0,2,2,0,0,Middle,Hyderabad,Telangana,125.0,,52.0,,,no,9.0,no,,40.0,2.5,1600.0,1,1.0,40.0,7.62,524.93,1.0
+3,23,514,ForgeIndustriesGo,Manufacturing,Industrial gloves,,2,0,2,0,Middle,Mumbai,Maharashtra,100.0,,,-10.1,-3.5,yes,5.0,no,yes,90.0,2.5,3600.0,0,,,,,
+3,23,515,OfficeLogixGo,Business Services,Co-working spaces,2021.0,1,1,0,0,Middle,Delhi,Delhi,24.0,0.5,,,,yes,1.0,no,yes,40.0,5.0,800.0,0,,,,,
+3,23,516,SwaadBrew360,Food and Beverage,Protein-rich namkeen,2023.0,1,1,0,0,Middle,Ahmedabad,Gujarat,70.0,,63.0,26.9,33.9,no,5.0,yes,yes,100.0,3.0,3333.33,1,1.0,100.0,8.98,1113.59,1.0
+3,24,517,ArogyaRx,Medical/Health,At-home diagnostic kits,2018.0,1,1,0,0,Middle,Jaipur,Rajasthan,51.0,10.3,75.0,,12.3,no,39.0,no,yes,50.0,10.0,500.0,1,1.0,62.5,33.26,187.91,2.0
+3,24,518,ArogyaLabs,Medical/Health,Telehealth for villages,2021.0,1,1,0,0,Young,Delhi,Delhi,447.0,29.9,73.0,28.0,33.2,no,46.0,yes,,75.0,4.0,1875.0,1,1.0,75.0,4.0,1875.0,1.0
+3,24,519,ArogyaClinic,Medical/Health,Menstrual care products,2022.0,3,2,1,0,Young,,,97.0,4.7,48.0,4.5,6.5,no,21.0,no,funded,50.0,3.5,1428.57,0,,,,,
+3,24,520,VedaCareGo,Medical/Health,Diabetes-friendly foods,2018.0,1,1,0,0,Middle,Delhi,Delhi,18.0,5.5,63.0,,,yes,,no,,50.0,2.0,2500.0,0,,,,,
+3,25,521,CodeAI,Technology/Software,Vernacular learning app,2020.0,1,1,0,0,Middle,Delhi,Delhi,56.0,,75.0,-2.2,3.3,no,1.0,,yes,25.0,3.5,714.29,1,1.0,25.0,10.44,239.46,3.0
+3,25,522,JeevanRx,Medical/Health,Telehealth for villages,2020.0,2,2,0,0,Middle,Pune,Maharashtra,15.0,1.8,76.0,36.8,39.5,,14.0,no,yes,60.0,2.0,3000.0,0,,,,,
+3,25,523,NutriTreatsPro,Food and Beverage,Artisanal coffee,2021.0,2,1,1,1,Middle,Jaipur,Rajasthan,149.0,9.8,48.0,5.0,9.0,no,,no,yes,50.0,3.0,1666.67,0,,,,,
+3,25,524,E-MobilityGo,Vehicles/Electrical Vehicles,Battery swapping,2020.0,1,1,0,0,Middle,Kolkata,West Bengal,142.0,11.0,35.0,,25.1,,99.0,,yes,60.0,1.25,4800.0,0,,,,,
+3,26,525,PrimeHub,Business Services,B2B logistics,2023.0,2,1,1,1,Young,Bangalore,Karnataka,115.0,,51.0,11.5,14.4,yes,3.0,no,funded,100.0,3.5,2857.14,0,,,,,
+3,26,526,BharatFabGo,Manufacturing,Recycled plastic tiles,2010.0,2,1,1,1,Young,Bangalore,Karnataka,376.0,,35.0,,,,90.0,no,yes,120.0,0.75,16000.0,1,1.0,120.0,2.49,4819.28,2.0
+3,26,527,GyaanPlay,Children/Education,Coding classes for kids,,2,1,1,1,Middle,Noida,Uttar Pradesh,35.0,3.3,60.0,3.3,9.0,no,116.0,no,funded,50.0,4.0,1250.0,0,,,,,
+3,26,528,OfficeSolutionsPlus,Business Services,Event management,2023.0,2,1,1,1,Young,Delhi,Delhi,26.0,,,-6.2,7.6,no,2.0,no,funded,30.0,12.0,250.0,1,1.0,20.0,24.16,82.78,1.0
+3,27,529,AyurWellGo,Medical/Health,Telehealth for villages,2017.0,1,1,0,0,Middle,Kolkata,West Bengal,954.0,140.6,69.0,-3.5,4.6,no,42.0,,yes,120.0,2.0,6000.0,1,1.0,120.0,2.0,6000.0,1.0
+3,27,530,VitalCare,Medical/Health,Telehealth for villages,2021.0,2,0,2,0,Middle,Surat,Gujarat,,60.3,90.0,,7.5,,11.0,yes,yes,300.0,1.25,24000.0,1,1.0,360.0,4.27,8430.91,2.0
+3,27,531,GlowLabel360,Beauty/Fashion,Sustainable sneakers,2023.0,2,1,1,0,Middle,Bangalore,Karnataka,370.0,14.7,54.0,,8.2,no,68.0,no,funded,25.0,6.0,416.67,1,1.0,20.0,4.8,416.67,1.0
+3,27,532,SutraWearOne,Beauty/Fashion,Silver jewellery,2020.0,3,3,0,0,Middle,Kochi,Kerala,0.0,0.0,,,,yes,13.0,no,funded,90.0,4.0,2250.0,1,1.0,90.0,29.41,306.02,1.0
+3,28,533,GlowThreadsX,Beauty/Fashion,Silver jewellery,2019.0,2,2,0,0,Middle,Delhi,Delhi,,,71.0,,41.0,yes,139.0,no,,120.0,2.0,6000.0,1,1.0,50.0,1.37,3649.64,3.0
+3,28,534,NeuralSoft,Technology/Software,Clinic management app,2019.0,2,2,0,0,Middle,Ahmedabad,Gujarat,246.0,11.8,54.0,-5.6,-3.2,,4.0,yes,yes,100.0,1.5,6666.67,0,,,,,
+3,28,535,LinkAssist,Business Services,Event management,2020.0,2,2,0,0,Middle,,,244.0,27.0,,,7.9,no,26.0,no,,60.0,1.5,4000.0,0,,,,,
+3,28,536,TatvaHome,Lifestyle/Home,Handmade decor,2015.0,2,2,0,0,Middle,,,1328.0,48.4,53.0,,,yes,,no,yes,70.0,1.0,7000.0,1,1.0,87.5,2.15,4069.77,2.0
+3,29,537,AyurClinic,Medical/Health,Ortho support braces,2019.0,3,1,2,0,Middle,Jaipur,Rajasthan,1141.0,98.6,69.0,3.1,13.2,no,11.0,no,funded,100.0,1.5,6666.67,1,1.0,150.0,2.25,6666.67,2.0
+3,29,538,ChaiBitesGo,Food and Beverage,Cold-pressed juices,,2,2,0,0,Middle,Bangalore,Karnataka,33.0,3.0,35.0,,,no,,no,yes,30.0,3.5,857.14,0,,,,,
+3,29,539,WoofBuddy,Animal/Pets,Fresh pet food,2022.0,1,1,0,0,Middle,Pune,Maharashtra,102.0,5.6,78.0,3.4,10.8,no,,no,yes,125.0,2.0,6250.0,1,0.0,,,,
+3,29,540,NeuralStack360,Technology/Software,Cybersecurity for SMEs,2011.0,1,1,0,0,Young,Indore,Madhya Pradesh,1965.0,206.8,64.0,,20.3,no,1.0,no,yes,100.0,1.5,6666.67,1,1.0,40.0,1.04,3846.15,1.0
+3,30,541,NeerSpirits,Liquor/Alcohol,Craft gin,2021.0,1,0,1,0,Middle,Bangalore,Karnataka,57.0,,50.0,13.4,16.6,no,,no,funded,60.0,1.25,4800.0,0,,,,,
+3,30,542,HaldiBrewPro,Food and Beverage,Healthy millet snacks,2022.0,3,2,1,0,Young,Bangalore,Karnataka,309.0,21.1,,,,yes,27.0,no,funded,90.0,2.5,3600.0,0,,,,,
+3,30,543,SwaadBitesPlus,Food and Beverage,Cold-pressed juices,2022.0,1,1,0,0,Young,Delhi,Delhi,39.0,,55.0,,,yes,61.0,no,funded,35.0,5.0,700.0,1,1.0,35.0,11.25,311.11,1.0
+3,30,544,MittiNest,Lifestyle/Home,Smart home lighting,2022.0,2,2,0,0,Middle,Delhi,Delhi,1439.0,167.7,56.0,-12.6,6.7,no,,no,funded,30.0,2.5,1200.0,1,1.0,20.0,1.67,1197.6,3.0
+3,31,545,DesiKart,Others,Stationery,2019.0,2,2,0,0,Middle,Kolkata,West Bengal,1510.0,155.1,,1.1,9.5,no,16.0,no,yes,5000000.0,0.5,10000.0,1,1.0,50.0,0.96,5208.33,1.0
+3,31,546,QuickHubPlus,Business Services,Co-working spaces,2023.0,2,1,1,1,Middle,Ahmedabad,Gujarat,160.0,41.1,,,,yes,,,yes,70.0,3.5,2000.0,0,,,,,
+3,31,547,MittiFields,Agriculture,Farm-to-home vegetables,2022.0,2,2,0,0,Young,Noida,Uttar Pradesh,96.0,3.1,49.0,,5.0,no,35.0,yes,yes,50.0,5.0,1000.0,1,1.0,30.0,3.0,1000.0,1.0
+3,31,548,NestLiving,Lifestyle/Home,Smart home lighting,2021.0,2,2,0,0,Middle,Ahmedabad,Gujarat,0.0,0.0,,,,yes,29.0,no,yes,60.0,3.5,1714.29,1,0.0,,,,
+3,32,549,BinduThreadsPro,Beauty/Fashion,Silver jewellery,2023.0,2,2,0,0,Young,Gurugram,Haryana,608.0,36.8,,,,yes,16.0,yes,yes,125.0,0.75,16666.67,0,,,,,
+3,32,550,JoshMovesX,Fitness/Sports/Outdoors,Trekking tours,2017.0,1,1,0,0,Middle,Delhi,Delhi,118.0,43.4,65.0,,5.9,no,12.0,yes,funded,45.0,7.5,600.0,1,1.0,45.0,23.2,193.97,3.0
+3,32,551,MilletBitesPro,Food and Beverage,Protein-rich namkeen,2018.0,2,1,1,1,Middle,Delhi,Delhi,29.0,2.2,60.0,,,,,no,funded,60.0,2.0,3000.0,0,,,,,
+3,32,552,KesarFreshPro,Food and Beverage,Healthy millet snacks,2020.0,1,1,0,0,Middle,Mumbai,Maharashtra,129.0,7.4,41.0,,,no,288.0,no,funded,90.0,1.5,6000.0,0,,,,,
+3,33,553,ChhotaPlay,Children/Education,Exam prep app,2016.0,2,1,1,0,Middle,Indore,Madhya Pradesh,102.0,6.4,49.0,-20.0,6.7,no,38.0,no,yes,35.0,5.0,700.0,1,1.0,20.0,6.85,291.97,1.0
+3,33,554,QuickAssist,Business Services,HR outsourcing,2020.0,2,0,2,0,Middle,Pune,Maharashtra,12.0,0.3,52.0,-9.9,11.0,no,1.0,,funded,50.0,2.0,2500.0,0,,,,,
+3,33,555,BioCycle,Green/CleanTech,Compostable bags,2015.0,5,5,0,0,Young,Ahmedabad,Gujarat,16.0,1.6,19.0,,,no,45.0,no,funded,60.0,25.0,240.0,0,,,,,
+3,33,556,SutraLoomPro,Beauty/Fashion,Silver jewellery,2021.0,3,3,0,0,Middle,Bangalore,Karnataka,233.0,40.4,76.0,15.1,17.5,yes,,,funded,200.0,1.25,16000.0,0,,,,,
+3,34,557,BrightPlay,Children/Education,Baby care products,2023.0,2,2,0,0,Middle,Kolkata,West Bengal,632.0,19.8,48.0,-4.2,5.1,no,4.0,no,funded,70.0,3.5,2000.0,1,1.0,70.0,11.55,606.06,1.0
+3,34,558,ShikshaAcademyPlus,Children/Education,Montessori furniture,2020.0,2,2,0,0,Young,Jaipur,Rajasthan,957.0,164.0,,,,,,yes,yes,60.0,3.0,2000.0,1,1.0,60.0,3.17,1892.74,2.0
+3,34,559,CloudAIPlus,Technology/Software,SaaS for kirana billing,2011.0,1,1,0,0,Middle,Gurugram,Haryana,268.0,70.2,,16.8,21.3,no,3.0,no,yes,45.0,5.0,900.0,1,1.0,45.0,6.9,652.17,1.0
+3,34,560,SevaSolutions,Business Services,Co-working spaces,2021.0,2,2,0,0,Middle,Gurugram,Haryana,337.0,56.8,60.0,11.6,17.3,yes,,no,funded,75.0,2.5,3000.0,1,1.0,75.0,7.24,1035.91,3.0
+3,35,561,NovaTechPlus,Technology/Software,SaaS for kirana billing,,2,2,0,0,Young,,,636.0,54.5,78.0,,16.1,no,,no,yes,25.0,3.0,833.33,1,1.0,25.0,3.0,833.33,1.0
+3,35,562,EcoWorks,Manufacturing,Industrial gloves,,2,0,2,0,Middle,Nagpur,Maharashtra,115.0,8.5,48.0,3.0,3.7,no,22.0,no,yes,30.0,1.5,2000.0,1,1.0,30.0,2.46,1219.51,2.0
+3,35,563,LittleToys,Children/Education,Montessori furniture,2014.0,3,2,1,0,Middle,Mumbai,Maharashtra,652.0,,78.0,,10.3,no,10.0,no,yes,45.0,2.5,1800.0,1,1.0,35.0,3.96,883.84,3.0
+3,35,564,HaraLabsPlus,Green/CleanTech,Biogas plants,2022.0,3,3,0,0,Middle,Patna,Bihar,,7.2,48.0,,,no,,yes,funded,30.0,1.5,2000.0,1,0.0,,,,
+3,36,565,MilletKitchen,Food and Beverage,Healthy millet snacks,,1,0,1,0,Middle,Hyderabad,Telangana,2266.0,242.7,,-3.2,3.3,no,55.0,no,yes,70.0,2.0,3500.0,1,1.0,30.0,1.39,2158.27,2.0
+3,36,566,MediHealthX,Medical/Health,Ortho support braces,,2,1,1,1,Middle,Kochi,Kerala,615.0,39.6,68.0,,16.2,no,,yes,,200.0,1.5,13333.33,1,1.0,100.0,2.33,4291.85,2.0
+3,36,567,DhagaStudioPro,Beauty/Fashion,Silver jewellery,2021.0,2,2,0,0,Middle,Hyderabad,Telangana,99.0,34.3,59.0,,8.3,no,46.0,yes,funded,50.0,6.0,833.33,1,1.0,50.0,22.24,224.82,4.0
+3,36,568,GlowSkinOne,Beauty/Fashion,Plus-size ethnic wear,2018.0,2,2,0,0,Young,Noida,Uttar Pradesh,18.0,2.4,50.0,17.2,29.8,no,,no,yes,25.0,8.0,312.5,0,,,,,
+3,37,569,NutriFreshX,Food and Beverage,Sugar-free sweets,2022.0,3,3,0,0,Young,Mumbai,Maharashtra,57.0,3.4,39.0,,,,,no,yes,80.0,3.0,2666.67,0,,,,,
+3,37,570,VidyaMinds,Children/Education,Baby care products,2022.0,1,1,0,0,Middle,,,706.0,65.0,60.0,,12.1,no,8.0,no,funded,400.0,1.0,40000.0,0,,,,,
+3,37,571,KesarBitesGo,Food and Beverage,Cold-pressed juices,2023.0,2,1,1,1,Middle,Noida,Uttar Pradesh,10.0,0.5,39.0,,,yes,49.0,no,,45.0,7.5,600.0,0,,,,,
+3,37,572,CosyCo360,Lifestyle/Home,Eco cleaning products,2022.0,1,1,0,0,Middle,Gurugram,Haryana,617.0,51.2,85.0,,10.2,no,576.0,no,yes,200.0,1.0,20000.0,1,1.0,200.0,2.67,7490.64,1.0
+3,38,573,CloudHubPlus,Technology/Software,Fleet tracking software,2016.0,1,1,0,0,Middle,Ahmedabad,Gujarat,187.0,14.0,67.0,19.3,22.7,no,1.0,no,yes,45.0,1.25,3600.0,1,1.0,45.0,2.55,1764.71,2.0
+3,38,574,KhelCamp,Fitness/Sports/Outdoors,Home gym kits,2023.0,2,1,1,0,Middle,Gurugram,Haryana,35.0,2.0,69.0,,3.1,no,78.0,yes,yes,100.0,5.0,2000.0,1,1.0,150.0,14.17,1058.57,2.0
+3,38,575,SaffronThreadsGo,Beauty/Fashion,Sustainable sneakers,2022.0,2,2,0,0,Middle,Delhi,Delhi,60.0,8.2,51.0,,,yes,12.0,no,yes,150.0,2.0,7500.0,0,,,,,
+3,38,576,AanganSpaceGo,Lifestyle/Home,Modular furniture,2019.0,1,1,0,0,Young,Mumbai,Maharashtra,235.0,69.0,,,,no,,no,yes,60.0,2.0,3000.0,1,1.0,30.0,2.39,1255.23,1.0
+3,39,577,ChaiFoodsGo,Food and Beverage,Protein-rich namkeen,2018.0,1,0,1,0,Middle,Ahmedabad,Gujarat,280.0,,37.0,,,yes,,no,yes,40.0,2.5,1600.0,1,1.0,40.0,8.22,486.62,2.0
+3,39,578,RasoiTreatsX,Food and Beverage,Cold-pressed juices,2021.0,3,2,1,0,Middle,Mumbai,Maharashtra,707.0,61.4,63.0,-0.9,2.2,no,50.0,,funded,125.0,5.0,2500.0,1,1.0,125.0,6.08,2055.92,1.0
+3,39,579,MediWell360,Medical/Health,Diabetes-friendly foods,2021.0,2,2,0,0,Middle,Pune,Maharashtra,,17.0,70.0,-3.6,2.6,no,39.0,no,yes,70.0,1.5,4666.67,1,1.0,60.0,4.33,1385.68,1.0
+3,39,580,GlowSkinPlus,Beauty/Fashion,Ayurvedic skincare,,2,2,0,0,Middle,Bangalore,Karnataka,0.0,0.0,,,,,130.0,,funded,40.0,5.0,800.0,0,,,,,
+3,40,581,NovaSoft,Technology/Software,Cybersecurity for SMEs,,2,2,0,0,Young,Delhi,Delhi,47.0,6.2,,,,yes,,yes,funded,70.0,20.0,350.0,0,,,,,
+3,40,582,SteelIndustriesX,Manufacturing,Packaging solutions,2022.0,3,0,3,0,Middle,Gurugram,Haryana,49.0,2.0,46.0,,,yes,19.0,no,yes,60.0,2.5,2400.0,1,1.0,60.0,8.64,694.44,1.0
+3,40,583,RaftaarAuto,Vehicles/Electrical Vehicles,Electric 3-wheelers,2019.0,2,2,0,0,Middle,Gurugram,Haryana,22.0,1.0,41.0,-7.1,-3.1,yes,,yes,yes,20.0,5.0,400.0,1,1.0,20.0,24.5,81.63,1.0
+3,40,584,GlowCarePlus,Beauty/Fashion,Sustainable sneakers,2021.0,2,2,0,0,Young,Delhi,Delhi,22.0,5.0,54.0,8.7,11.6,no,910.0,no,yes,40.0,3.5,1142.86,0,,,,,
+3,41,585,SahayakPartners,Business Services,HR outsourcing,2021.0,3,1,2,0,Middle,Kolkata,West Bengal,162.0,13.1,43.0,,18.9,no,1.0,no,funded,20.0,3.0,666.67,0,,,,,
+3,41,586,ByteWorks,Technology/Software,Cybersecurity for SMEs,2021.0,2,1,1,1,Young,Gurugram,Haryana,60.0,3.8,77.0,29.7,37.2,no,,no,yes,60.0,7.5,800.0,1,1.0,60.0,13.09,458.37,1.0
+3,41,587,BharatWorksPro,Manufacturing,Precision auto parts,2023.0,3,2,1,0,Middle,Mumbai,Maharashtra,144.0,10.8,,,-2.4,no,,yes,funded,60.0,8.0,750.0,1,1.0,60.0,15.06,398.41,1.0
+3,41,588,AyurLife,Medical/Health,Diabetes-friendly foods,2023.0,2,1,1,1,Middle,Delhi,Delhi,95.0,4.4,,,,no,,no,funded,500.0,4.0,12500.0,0,,,,,
+3,42,589,SutraSkinGo,Beauty/Fashion,Sustainable sneakers,2024.0,3,2,1,0,Middle,Mumbai,Maharashtra,43.0,,79.0,,27.6,no,,,yes,45.0,4.0,1125.0,1,1.0,45.0,18.59,242.07,1.0
+3,42,590,VoltMoto,Vehicles/Electrical Vehicles,EV charging stations,2017.0,1,1,0,0,Middle,Gurugram,Haryana,,,45.0,12.5,17.4,no,30.0,yes,yes,50.0,1.0,5000.0,1,1.0,50.0,1.0,5000.0,2.0
+3,42,591,EcoTools360,Manufacturing,Biodegradable cutlery,2022.0,1,0,1,0,Middle,Kolkata,West Bengal,164.0,,,,,yes,76.0,,yes,75.0,1.5,5000.0,1,1.0,75.0,7.28,1030.22,1.0
+3,42,592,ToughWorks,Manufacturing,Packaging solutions,2019.0,1,1,0,0,Middle,Hubballi,Karnataka,219.0,28.2,31.0,,-3.5,yes,15.0,yes,yes,100.0,2.0,5000.0,1,1.0,75.0,3.57,2100.84,3.0
+3,43,593,UrbanLiving360,Lifestyle/Home,Handmade decor,2023.0,2,2,0,0,Middle,Hyderabad,Telangana,618.0,27.9,71.0,-4.2,8.7,no,225.0,no,funded,45.0,8.0,562.5,1,1.0,90.0,17.66,509.63,2.0
+3,43,594,ArogyaRx360,Medical/Health,Menstrual care products,2023.0,2,2,0,0,Middle,Mumbai,Maharashtra,49.0,5.7,35.0,4.3,6.8,,26.0,no,yes,30.0,1.5,2000.0,0,,,,,
+3,43,595,BharatPolymers,Manufacturing,Industrial gloves,2023.0,3,1,2,0,Middle,Lucknow,Uttar Pradesh,56.0,,60.0,9.5,13.5,no,31.0,no,funded,35.0,4.0,875.0,1,1.0,30.0,13.88,216.14,1.0
+3,43,596,LinkPartnersPro,Business Services,Event management,2017.0,1,1,0,0,Middle,Mumbai,Maharashtra,463.0,72.8,61.0,7.5,11.0,no,,no,funded,100.0,1.25,8000.0,1,1.0,75.0,2.42,3099.17,1.0
+3,44,597,OfficeHub,Business Services,Co-working spaces,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,360.0,52.0,49.0,,,no,3.0,no,funded,90.0,3.5,2571.43,0,,,,,
+3,44,598,ToughPackPlus,Manufacturing,Precision auto parts,2019.0,1,1,0,0,Middle,Hyderabad,Telangana,284.0,89.7,,13.0,17.8,no,,no,yes,125.0,10.0,1250.0,1,1.0,125.0,20.03,624.06,1.0
+4,1,599,DataWorks,Technology/Software,SaaS for kirana billing,2023.0,2,2,0,0,Young,Mumbai,Maharashtra,2510.0,183.7,49.0,,4.6,no,,yes,funded,70.0,0.5,14000.0,1,1.0,70.0,0.77,9090.91,2.0
+4,1,600,KayaCare,Beauty/Fashion,Silver jewellery,2023.0,2,2,0,0,Young,Delhi,Delhi,598.0,51.4,73.0,,,no,,no,funded,50.0,0.5,10000.0,1,1.0,50.0,0.5,10000.0,1.0
+4,1,601,PlayZone,Entertainment,Event ticketing,2021.0,1,0,1,0,Young,Noida,Uttar Pradesh,1237.0,,37.0,,-13.4,no,7.0,no,funded,125.0,0.75,16666.67,0,,,,,
+4,1,602,DataSystems,Technology/Software,Clinic management app,2091.0,3,1,2,0,Young,Delhi,Delhi,1318.0,44.1,81.0,32.9,39.3,no,3.0,yes,yes,120.0,2.0,6000.0,1,1.0,120.0,2.03,5911.33,1.0
+4,2,603,SutraWearX,Beauty/Fashion,Handloom sarees online,,3,2,1,0,Young,Bangalore,Karnataka,95.0,,,,14.1,no,,no,,60.0,3.5,1714.29,1,1.0,55.0,23.21,236.97,1.0
+4,2,604,DesiDabba360,Food and Beverage,Protein-rich namkeen,2019.0,2,1,1,1,Young,Delhi,Delhi,97.0,3.9,34.0,,-16.6,yes,33.0,no,funded,50.0,1.5,3333.33,0,,,,,
+4,2,605,RangLabel,Beauty/Fashion,Ayurvedic skincare,2018.0,1,1,0,0,Middle,Noida,Uttar Pradesh,1385.0,38.1,,,,,221.0,no,yes,175.0,1.25,14000.0,1,1.0,175.0,3.51,4985.75,1.0
+4,2,606,YatraFit,Fitness/Sports/Outdoors,Cricket training gear,2022.0,3,3,0,0,Young,Bangalore,Karnataka,520.0,,79.0,26.6,31.9,no,6.0,,,60.0,1.5,4000.0,1,1.0,60.0,1.5,4000.0,2.0
+4,3,607,PulseRx,Medical/Health,At-home diagnostic kits,2020.0,2,2,0,0,Middle,Gurugram,Haryana,296.0,,60.0,,10.4,no,20.0,no,yes,100.0,3.0,3333.33,1,1.0,85.0,5.62,1512.46,1.0
+4,3,608,RaftaarMotors,Vehicles/Electrical Vehicles,E-cycle conversion kits,2021.0,3,1,2,0,Young,Delhi,Delhi,10.0,1.2,28.0,,,yes,30.0,yes,yes,50.0,3.0,1666.67,0,,,,,
+4,3,609,EcoPolymers,Manufacturing,Steel kitchenware,2015.0,2,2,0,0,Young,Delhi,Delhi,487.0,19.3,35.0,,,yes,7.0,no,yes,50.0,1.0,5000.0,1,1.0,50.0,3.19,1567.4,2.0
+4,3,610,PulseRxX,Medical/Health,Menstrual care products,2018.0,2,2,0,0,Middle,Delhi,Delhi,359.0,,86.0,15.0,17.3,no,8.0,,,75.0,1.25,6000.0,1,1.0,75.0,2.66,2819.55,1.0
+4,4,611,NeuralAI,Technology/Software,Vernacular learning app,2023.0,3,3,0,0,Middle,,,296.0,16.8,85.0,,31.7,no,1.0,no,,75.0,5.0,1500.0,1,1.0,75.0,7.45,1006.71,1.0
+4,4,612,DataSoft,Technology/Software,AI resume screening,2023.0,2,1,1,0,Middle,Mumbai,Maharashtra,110.0,5.1,53.0,2.5,16.1,no,,no,,90.0,1.25,7200.0,0,,,,,
+4,4,613,VoltAuto,Vehicles/Electrical Vehicles,E-cycle conversion kits,2013.0,1,1,0,0,Middle,Mumbai,Maharashtra,150.0,20.1,25.0,14.5,16.6,no,37.0,no,funded,30.0,4.0,750.0,1,1.0,15.0,4.84,309.92,2.0
+4,4,614,MediWell,Medical/Health,Smart pill dispenser,2023.0,2,2,0,0,Middle,Hubballi,Karnataka,,21.3,64.0,,,no,,yes,yes,50.0,2.5,2000.0,1,1.0,50.0,6.73,742.94,1.0
+4,5,615,E-Ride,Vehicles/Electrical Vehicles,Electric scooters,,2,2,0,0,Middle,Noida,Uttar Pradesh,113.0,5.2,29.0,,1.1,no,112.0,yes,,60.0,4.0,1500.0,1,1.0,60.0,18.66,321.54,2.0
+4,5,616,DesiFresh,Food and Beverage,Protein-rich namkeen,2022.0,2,1,1,1,Middle,Gurugram,Haryana,47.0,4.4,46.0,,12.1,no,23.0,no,yes,45.0,8.0,562.5,1,1.0,45.0,27.72,162.34,5.0
+4,5,617,OfficeSolutions,Business Services,HR outsourcing,2024.0,3,2,1,0,Middle,Bhopal,Madhya Pradesh,848.0,211.3,,-1.7,11.5,no,73.0,no,yes,45.0,3.0,1500.0,1,1.0,45.0,3.0,1500.0,5.0
+4,5,618,NutriBrewPro,Food and Beverage,Cold-pressed juices,2020.0,1,1,0,0,Middle,Ahmedabad,Gujarat,21.0,0.9,47.0,,,no,,no,funded,45.0,1.25,3600.0,0,,,,,
+4,6,619,DesiFresh360,Food and Beverage,Artisanal coffee,2024.0,2,2,0,0,Middle,Noida,Uttar Pradesh,4002.0,275.6,,-6.2,-3.3,yes,37.0,no,funded,100.0,2.0,5000.0,1,1.0,125.0,2.6,4807.69,2.0
+4,6,620,ZariLoomOne,Beauty/Fashion,Handloom sarees online,2024.0,2,1,1,1,Middle,Chandigarh,Punjab,10.0,1.1,68.0,,10.8,no,14.0,no,funded,75.0,8.0,937.5,0,,,,,
+4,6,621,CodeTech,Technology/Software,Fleet tracking software,2019.0,1,1,0,0,Middle,Ludhiana,Punjab,1960.0,,76.0,,,yes,20.0,no,funded,60.0,2.0,3000.0,1,1.0,60.0,2.0,3000.0,1.0
+4,6,622,UrbanDecor,Lifestyle/Home,Handmade decor,,3,2,1,0,Middle,Chennai,Tamil Nadu,920.0,103.3,52.0,3.2,9.3,,,,yes,90.0,3.0,3000.0,1,1.0,90.0,7.61,1182.65,1.0
+4,7,623,ByteSoft,Technology/Software,SaaS for kirana billing,2024.0,2,0,2,0,Middle,Gurugram,Haryana,242.0,,65.0,,22.9,no,3.0,no,funded,150.0,7.5,2000.0,1,0.0,,,,
+4,7,624,SparkEV,Vehicles/Electrical Vehicles,EV for delivery fleets,2020.0,2,2,0,0,Middle,Ahmedabad,Gujarat,19.0,1.0,,,,yes,95.0,no,funded,120.0,4.0,3000.0,0,,,,,
+4,7,625,ShikshaBooks,Children/Education,STEM toy kits,2010.0,3,1,2,0,Young,Surat,Gujarat,257.0,11.7,31.0,17.5,20.6,no,19.0,yes,funded,80.0,2.0,4000.0,1,1.0,80.0,8.69,920.6,5.0
+4,7,626,BeejFarms,Agriculture,Seed quality testing,2020.0,2,2,0,0,Middle,Ludhiana,Punjab,388.0,17.4,41.0,,9.5,no,197.0,yes,yes,40.0,1.5,2666.67,1,1.0,20.0,1.79,1117.32,3.0
+4,8,627,KayaCareGo,Beauty/Fashion,Plus-size ethnic wear,2021.0,1,1,0,0,Middle,Mumbai,Maharashtra,97.0,2.9,79.0,,23.6,no,56.0,no,funded,30.0,2.0,1500.0,1,1.0,15.0,2.44,614.75,5.0
+4,8,628,DhagaWear,Beauty/Fashion,Ayurvedic skincare,2023.0,2,2,0,0,Middle,Delhi,Delhi,427.0,66.3,,1.2,5.0,no,14.0,no,yes,50.0,0.75,6666.67,1,1.0,50.0,1.67,2994.01,3.0
+4,8,629,DhagaCare,Beauty/Fashion,Ayurvedic skincare,2021.0,1,0,1,0,Middle,Hyderabad,Telangana,37.0,4.2,,,,no,24.0,no,yes,45.0,2.0,2250.0,0,,,,,
+4,8,630,CureLabs,Medical/Health,Smart pill dispenser,,2,1,1,0,Young,Ahmedabad,Gujarat,70.0,24.6,48.0,,,yes,39.0,no,yes,40.0,5.0,800.0,0,,,,,
+4,9,631,ZenHausPro,Lifestyle/Home,Smart home lighting,,2,0,2,0,Middle,Delhi,Delhi,386.0,44.1,,,,yes,,no,funded,125.0,0.75,16666.67,0,,,,,
+4,9,632,NovaWorks,Technology/Software,AI resume screening,2022.0,2,2,0,0,Middle,Lucknow,Uttar Pradesh,,2.1,,,20.3,no,4.0,yes,yes,40.0,10.0,400.0,1,1.0,40.0,20.12,198.81,3.0
+4,9,633,GlowLoom,Beauty/Fashion,Silver jewellery,2022.0,4,3,1,0,Middle,Mumbai,Maharashtra,192.0,32.5,63.0,,,yes,11.0,yes,yes,90.0,6.0,1500.0,1,1.0,90.0,15.83,568.54,3.0
+4,9,634,EcoLabsOne,Green/CleanTech,Rooftop solar,,3,3,0,0,Middle,Mumbai,Maharashtra,617.0,80.4,28.0,0.6,2.1,yes,15.0,no,yes,40.0,2.0,2000.0,0,,,,,
+4,10,635,SprintCamp,Fitness/Sports/Outdoors,Smart skipping rope,2023.0,2,2,0,0,Middle,Kolkata,West Bengal,169.0,22.4,67.0,-2.6,1.3,no,,no,yes,35.0,0.75,4666.67,1,1.0,35.0,2.21,1583.71,3.0
+4,10,636,IndusParts,Manufacturing,Industrial gloves,2024.0,2,2,0,0,Middle,Kolkata,West Bengal,22.0,1.4,59.0,8.3,15.0,no,94.0,,yes,45.0,2.5,1800.0,0,,,,,
+4,10,637,GlowWearOne,Beauty/Fashion,Handloom sarees online,,2,1,1,1,Young,Jaipur,Rajasthan,266.0,,72.0,,,,,no,funded,30.0,3.0,1000.0,1,0.0,,,,
+4,10,638,RasoiFresh,Food and Beverage,Artisanal coffee,2021.0,3,1,2,0,Middle,Hyderabad,Telangana,214.0,5.4,54.0,,,yes,4.0,no,yes,35.0,3.5,1000.0,1,1.0,42.0,5.01,838.32,2.0
+4,11,639,CosySpace,Lifestyle/Home,Eco cleaning products,2024.0,1,1,0,0,Middle,Delhi,Delhi,279.0,37.4,64.0,9.7,11.1,yes,107.0,no,,20.0,4.0,500.0,1,1.0,40.0,8.0,500.0,2.0
+4,11,640,NeuralSystems,Technology/Software,Clinic management app,2018.0,1,1,0,0,Middle,Kolkata,West Bengal,646.0,53.3,70.0,,27.9,yes,1.0,yes,funded,70.0,2.0,3500.0,1,1.0,84.0,2.57,3268.48,2.0
+4,11,641,CloudHub,Technology/Software,SaaS for kirana billing,,2,2,0,0,Middle,Delhi,Delhi,151.0,34.8,81.0,18.6,28.0,no,2.0,,funded,125.0,6.0,2083.33,1,1.0,125.0,13.12,952.74,5.0
+4,11,642,IndusIndustries,Manufacturing,Industrial gloves,,2,2,0,0,Young,Jaipur,Rajasthan,4154.0,,61.0,2.4,9.6,no,124.0,no,funded,175.0,0.5,35000.0,1,1.0,175.0,0.89,19662.92,3.0
+4,12,643,BizLogix,Business Services,Co-working spaces,2017.0,1,0,1,0,Young,Mumbai,Maharashtra,183.0,7.9,49.0,5.7,15.6,no,,no,yes,50.0,2.0,2500.0,1,0.0,,,,
+4,12,644,NutriDabbaX,Food and Beverage,Ready-to-cook regional curries,2021.0,1,1,0,0,Middle,Mumbai,Maharashtra,1944.0,187.7,65.0,,30.8,no,26.0,no,yes,150.0,0.75,20000.0,1,1.0,150.0,1.54,9740.26,1.0
+4,12,645,TrekSports,Fitness/Sports/Outdoors,Home gym kits,2024.0,2,1,1,1,Middle,Delhi,Delhi,187.0,5.3,58.0,,,yes,,yes,yes,70.0,3.0,2333.33,0,,,,,
+4,12,646,KonaLivingPro,Lifestyle/Home,Organic bedding,2022.0,2,2,0,0,Middle,Jaipur,Rajasthan,2359.0,125.0,71.0,22.7,30.6,no,8.0,,yes,90.0,0.5,18000.0,1,1.0,90.0,0.5,18000.0,3.0
+4,13,647,ArogyaWell,Medical/Health,Diabetes-friendly foods,,1,0,1,0,Middle,Chennai,Tamil Nadu,78.0,,87.0,,19.8,no,96.0,no,funded,30.0,4.0,750.0,1,1.0,37.5,13.3,281.95,2.0
+4,13,648,ArogyaWellPlus,Medical/Health,Telehealth for villages,,3,2,1,0,Middle,Noida,Uttar Pradesh,53.0,2.5,54.0,,,yes,106.0,no,yes,30.0,2.5,1200.0,0,,,,,
+4,13,649,MediClinic,Medical/Health,Smart pill dispenser,2022.0,2,2,0,0,Young,Delhi,Delhi,3063.0,452.2,82.0,,21.0,no,2.0,yes,yes,200.0,1.25,16000.0,1,1.0,300.0,1.88,15957.45,2.0
+4,13,650,BizLogixPro,Business Services,Co-working spaces,2019.0,1,1,0,0,Young,Ahmedabad,Gujarat,744.0,43.1,63.0,,,yes,9.0,yes,funded,90.0,2.0,4500.0,0,,,,,
+4,14,651,GlowCare,Beauty/Fashion,Men's grooming kits,2024.0,2,2,0,0,Middle,Noida,Uttar Pradesh,0.0,0.0,,,,yes,50.0,no,funded,25.0,2.5,1000.0,0,,,,,
+4,14,652,ZipEV,Vehicles/Electrical Vehicles,Electric scooters,2022.0,1,1,0,0,Middle,Mumbai,Maharashtra,114.0,5.4,,,9.0,no,,yes,,100.0,1.5,6666.67,0,,,,,
+4,14,653,ByteTech,Technology/Software,AI resume screening,2023.0,2,2,0,0,Middle,Bangalore,Karnataka,123.0,,52.0,-15.2,-7.8,yes,,no,funded,70.0,5.0,1400.0,0,,,,,
+4,14,654,ChaiFresh360,Food and Beverage,Artisanal coffee,2024.0,1,1,0,0,Middle,Surat,Gujarat,568.0,,46.0,-8.6,8.5,yes,55.0,no,funded,60.0,3.0,2000.0,1,1.0,60.0,3.0,2000.0,1.0
+4,15,655,SwasthRxX,Medical/Health,Diabetes-friendly foods,2015.0,3,2,1,0,Middle,Delhi,Delhi,824.0,,74.0,19.8,25.7,no,7.0,no,funded,120.0,1.0,12000.0,1,1.0,120.0,1.0,12000.0,1.0
+4,15,656,SaffronLabelPro,Beauty/Fashion,Silver jewellery,2023.0,2,1,1,1,Young,Mumbai,Maharashtra,,100.3,52.0,-5.1,6.3,,185.0,no,yes,175.0,0.75,23333.33,1,1.0,100.0,0.68,14705.88,3.0
+4,15,657,RasoiBitesOne,Food and Beverage,Artisanal coffee,2024.0,2,1,1,1,Middle,Delhi,Delhi,,30.8,42.0,,,,17.0,no,yes,200.0,2.5,8000.0,0,,,,,
+4,15,658,HaldiTreatsPro,Food and Beverage,Artisanal coffee,2019.0,2,0,2,0,Middle,Bangalore,Karnataka,337.0,17.2,45.0,13.7,15.4,,23.0,no,,100.0,1.25,8000.0,0,,,,,
+4,16,659,E-Drive,Vehicles/Electrical Vehicles,EV charging stations,2023.0,3,2,1,0,Middle,,,314.0,,,,,yes,,no,,20.0,3.0,666.67,1,0.0,,,,
+4,16,660,ToughPolymers,Manufacturing,Precision auto parts,2019.0,3,2,1,0,Young,Jaipur,Rajasthan,2863.0,294.5,41.0,,,yes,13.0,no,yes,100.0,2.5,4000.0,0,,,,,
+4,16,661,CodeStack,Technology/Software,Fleet tracking software,2023.0,2,2,0,0,Middle,Mumbai,Maharashtra,197.0,,56.0,,,yes,1.0,no,,20.0,1.25,1600.0,1,1.0,40.0,6.47,618.24,2.0
+4,16,662,LinkServices,Business Services,HR outsourcing,2022.0,1,0,1,0,Middle,Hyderabad,Telangana,555.0,56.8,36.0,,21.1,no,2.0,no,funded,75.0,1.25,6000.0,0,,,,,
+4,17,663,CloudAI,Technology/Software,Cybersecurity for SMEs,2018.0,2,1,1,1,Middle,Noida,Uttar Pradesh,49.0,,92.0,14.0,18.6,no,1.0,no,yes,50.0,6.0,833.33,1,1.0,50.0,15.77,317.06,1.0
+4,17,664,TadkaKitchen,Food and Beverage,Sugar-free sweets,2018.0,2,1,1,0,Young,Pune,Maharashtra,763.0,145.0,,10.0,17.0,no,,no,yes,50.0,3.5,1428.57,1,1.0,60.0,4.2,1428.57,2.0
+4,17,665,ByteLabs,Technology/Software,Cybersecurity for SMEs,2020.0,2,1,1,1,Middle,Mumbai,Maharashtra,21.0,1.4,84.0,,35.1,no,,no,yes,4500000.0,1.5,3000.0,0,,,,,
+4,17,666,NovaTechPro,Technology/Software,Vernacular learning app,2024.0,2,0,2,0,Middle,Mumbai,Maharashtra,953.0,,71.0,,-4.9,no,1.0,no,yes,60.0,3.0,2000.0,1,1.0,55.0,4.35,1264.37,3.0
+4,18,667,TrekMoves,Fitness/Sports/Outdoors,Smart skipping rope,2023.0,3,3,0,0,Young,Jaipur,Rajasthan,481.0,32.3,36.0,-1.9,0.9,no,,no,yes,75.0,1.5,5000.0,1,1.0,60.0,2.23,2690.58,1.0
+4,18,668,SwaadDabba,Food and Beverage,Healthy millet snacks,2021.0,1,1,0,0,Middle,Delhi,Delhi,170.0,13.3,40.0,-10.5,-6.3,yes,,no,funded,120.0,1.5,8000.0,0,,,,,
+4,18,669,BharatTools,Manufacturing,Biodegradable cutlery,2021.0,1,1,0,0,Young,Gurugram,Haryana,547.0,32.1,,,,yes,44.0,no,funded,90.0,3.0,3000.0,0,,,,,
+4,18,670,KraftParts,Manufacturing,Recycled plastic tiles,2021.0,3,3,0,0,Middle,Delhi,Delhi,264.0,19.9,38.0,,,yes,115.0,no,funded,200.0,4.0,5000.0,1,0.0,,,,
+4,19,671,SteelPolymers,Manufacturing,Packaging solutions,2021.0,3,2,1,0,Middle,Jaipur,Rajasthan,211.0,,46.0,,,yes,,no,yes,50.0,2.5,2000.0,0,,,,,
+4,19,672,GharDecor,Lifestyle/Home,Handmade decor,2022.0,2,2,0,0,Middle,Pune,Maharashtra,197.0,18.1,59.0,,,yes,43.0,no,yes,25.0,0.75,3333.33,1,1.0,15.0,1.02,1470.59,1.0
+4,19,673,NoorBeauty,Beauty/Fashion,Sustainable sneakers,2022.0,3,3,0,0,Young,Mumbai,Maharashtra,2514.0,313.8,50.0,,,yes,19.0,no,funded,90.0,1.5,6000.0,1,1.0,65.0,1.83,3551.91,1.0
+4,19,674,PixelSystems,Technology/Software,Cybersecurity for SMEs,2021.0,2,2,0,0,Middle,,,123.0,9.2,62.0,-8.6,-4.5,yes,,no,,100.0,2.5,4000.0,1,1.0,100.0,9.19,1088.14,1.0
+4,20,675,CosyCraft,Lifestyle/Home,Eco cleaning products,2022.0,2,1,1,0,Young,Noida,Uttar Pradesh,66.0,,69.0,5.9,8.8,no,4.0,no,,45.0,1.5,3000.0,0,,,,,
+4,20,676,GauPals,Animal/Pets,Cattle health monitor,,1,0,1,0,Young,Mumbai,Maharashtra,158.0,6.9,410.0,,12.7,yes,32.0,no,yes,90.0,5.0,1800.0,1,1.0,50.0,12.63,395.88,3.0
+4,20,677,DesiFoods,Food and Beverage,Artisanal coffee,2024.0,1,1,0,0,Young,Vadodara,Gujarat,302.0,24.9,40.0,,,no,,no,yes,100.0,1.0,10000.0,0,,,,,
+4,20,678,PixelSoftGo,Technology/Software,Cybersecurity for SMEs,2022.0,2,2,0,0,Middle,Bangalore,Karnataka,283.0,14.9,,,0.6,,61.0,yes,yes,90.0,2.0,4500.0,1,1.0,90.0,9.5,947.37,1.0
+4,21,679,VoltDrive,Vehicles/Electrical Vehicles,E-cycle conversion kits,2023.0,2,1,1,1,Middle,Ahmedabad,Gujarat,16.0,1.4,,,,yes,155.0,,funded,50.0,3.0,1666.67,0,,,,,
+4,21,680,SutraStudio,Beauty/Fashion,Plus-size ethnic wear,2024.0,2,1,1,1,Middle,Bangalore,Karnataka,394.0,,63.0,,,yes,,no,yes,50.0,2.5,2000.0,1,1.0,40.0,2.68,1492.54,2.0
+4,21,681,MediHealthPlus,Medical/Health,Ortho support braces,2018.0,3,2,1,0,Middle,Mumbai,Maharashtra,770.0,146.1,77.0,,16.1,no,,,yes,35.0,1.5,2333.33,1,1.0,43.75,3.63,1205.23,2.0
+4,21,682,BioPower,Green/CleanTech,Solar dryers for farmers,2020.0,3,3,0,0,Middle,Delhi,Delhi,5858.0,293.3,52.0,4.8,12.3,no,,no,yes,120.0,1.0,12000.0,1,1.0,120.0,1.42,8450.7,1.0
+4,22,683,KesarBites360,Food and Beverage,Cold-pressed juices,2016.0,2,1,1,1,Middle,Delhi,Delhi,92.0,10.6,,,,yes,73.0,no,funded,50.0,3.0,1666.67,1,1.0,50.0,8.51,587.54,4.0
+4,22,684,BinduStudio360,Beauty/Fashion,Ayurvedic skincare,2020.0,5,5,0,0,Young,Chandigarh,Punjab,123.0,,43.0,,10.9,no,,no,funded,30.0,3.0,1000.0,0,,,,,
+4,22,685,BharatIndustries,Manufacturing,Recycled plastic tiles,2024.0,3,2,1,0,Middle,Bangalore,Karnataka,60.0,3.3,27.0,,,yes,9.0,,funded,30.0,2.5,1200.0,0,,,,,
+4,22,686,GeniusMinds,Children/Education,Baby care products,2023.0,2,2,0,0,Young,Jaipur,Rajasthan,635.0,16.9,52.0,,,yes,4.0,no,yes,90.0,2.0,4500.0,1,1.0,90.0,4.19,2147.97,2.0
+4,23,687,MehndiLabelPro,Beauty/Fashion,Ayurvedic skincare,2020.0,2,2,0,0,Young,Hyderabad,Telangana,730.0,223.8,59.0,,,no,22.0,no,funded,90.0,2.0,4500.0,1,1.0,90.0,2.37,3797.47,2.0
+4,23,688,GlowSkin,Beauty/Fashion,Men's grooming kits,2022.0,2,2,0,0,Young,Mumbai,Maharashtra,271.0,16.1,71.0,-0.4,3.0,no,,no,yes,60.0,1.5,4000.0,1,1.0,30.0,2.08,1442.31,3.0
+4,23,689,ZariLabelX,Beauty/Fashion,Silver jewellery,2021.0,1,1,0,0,Middle,Noida,Uttar Pradesh,155.0,,85.0,,13.6,no,177.0,no,funded,70.0,1.25,5600.0,1,1.0,70.0,3.59,1949.86,2.0
+4,23,690,AanganLiving,Lifestyle/Home,Modular furniture,2023.0,2,2,0,0,Middle,Mumbai,Maharashtra,546.0,54.1,59.0,,,yes,,no,funded,100.0,5.0,2000.0,0,,,,,
+4,24,691,GlowLabelPro,Beauty/Fashion,Silver jewellery,2019.0,2,2,0,0,Middle,Pune,Maharashtra,839.0,45.1,66.0,-1.2,8.5,no,11.0,no,yes,90.0,3.0,3000.0,1,1.0,90.0,3.01,2990.03,2.0
+4,24,692,SwaadKitchen,Food and Beverage,Protein-rich namkeen,2023.0,2,1,1,1,Middle,Kolkata,West Bengal,1548.0,,48.0,,,yes,13.0,no,yes,125.0,2.5,5000.0,1,1.0,125.0,2.81,4448.4,2.0
+4,24,693,DhagaStudio360,Beauty/Fashion,Ayurvedic skincare,2018.0,3,2,1,0,Middle,Ahmedabad,Gujarat,1043.0,,73.0,7.2,18.9,no,207.0,,yes,150.0,0.75,20000.0,1,1.0,150.0,3.29,4559.27,1.0
+4,24,694,MilletDabbaPro,Food and Beverage,Ready-to-cook regional curries,2023.0,3,2,1,0,Middle,Bangalore,Karnataka,1564.0,294.3,74.0,,18.1,no,51.0,no,,100.0,2.0,5000.0,1,1.0,100.0,2.58,3875.97,1.0
+4,25,695,VedaPlus,Medical/Health,Diabetes-friendly foods,,3,2,1,0,Middle,,,187.0,14.5,64.0,,-5.7,yes,30.0,yes,yes,100.0,2.5,4000.0,1,1.0,100.0,7.42,1347.71,2.0
+4,25,696,KesarDabbaPlus,Food and Beverage,Artisanal coffee,2020.0,1,1,0,0,Middle,Mumbai,Maharashtra,807.0,52.0,27.0,5.7,15.1,,156.0,,funded,150.0,2.0,7500.0,0,,,,,
+4,25,697,NeelPlanetGo,Green/CleanTech,Biogas plants,2021.0,4,4,0,0,Middle,Bangalore,Karnataka,1078.0,,,,-0.8,,18.0,no,funded,200.0,2.0,10000.0,0,,,,,
+4,25,698,GlowThreads,Beauty/Fashion,Men's grooming kits,2022.0,1,1,0,0,Middle,Ahmedabad,Gujarat,38.0,6.2,48.0,1.4,9.6,no,14.0,no,funded,20.0,3.0,666.67,1,0.0,,,,
+4,26,699,AyurRx,Medical/Health,Diabetes-friendly foods,2017.0,2,2,0,0,Middle,Bhopal,Madhya Pradesh,164.0,,91.0,,,no,,,funded,90.0,8.0,1125.0,1,1.0,90.0,14.16,635.59,1.0
+4,26,700,MasalaFoods,Food and Beverage,Healthy millet snacks,,1,1,0,0,Middle,Bangalore,Karnataka,39.0,4.4,40.0,30.9,35.0,,20.0,,yes,100.0,4.0,2500.0,0,,,,,
+4,26,701,GlowLabelX,Beauty/Fashion,Plus-size ethnic wear,2021.0,1,1,0,0,Middle,Jaipur,Rajasthan,0.0,0.0,,,,yes,8.0,,funded,25.0,5.0,500.0,1,1.0,25.0,21.43,116.66,1.0
+4,26,702,PixelAI,Technology/Software,Cybersecurity for SMEs,2021.0,1,1,0,0,Middle,Kolkata,West Bengal,401.0,54.2,,-3.8,12.2,no,,yes,funded,175.0,1.25,14000.0,1,1.0,85.0,1.55,5483.87,1.0
+4,27,703,JeevanClinic360,Medical/Health,Diabetes-friendly foods,2024.0,1,0,1,0,Middle,Delhi,Delhi,7.0,,38.0,,,,35.0,no,funded,20.0,6.0,333.33,0,,,,,
+4,27,704,RangStudioX,Beauty/Fashion,Handloom sarees online,2019.0,3,3,0,0,Middle,Mumbai,Maharashtra,31.0,7.5,69.0,-6.3,8.7,no,226.0,,funded,25.0,6.0,416.67,1,1.0,37.5,15.6,240.38,2.0
+4,27,705,GharHome,Lifestyle/Home,Scented candles,,2,1,1,1,Young,Delhi,Delhi,1411.0,,68.0,,5.3,no,20.0,,funded,50.0,1.25,4000.0,1,1.0,40.0,1.0,4000.0,1.0
+4,27,706,BarrelSpirits,Liquor/Alcohol,Craft beer,2020.0,2,2,0,0,Young,Bangalore,Karnataka,327.0,,54.0,,,yes,32.0,no,,175.0,5.0,3500.0,1,1.0,175.0,8.17,2141.98,3.0
+4,28,707,HaldiFreshX,Food and Beverage,Protein-rich namkeen,2023.0,1,1,0,0,Young,Chennai,Tamil Nadu,,1.7,35.0,,,yes,,no,yes,60.0,1.0,6000.0,0,,,,,
+4,28,708,ForgeTools,Manufacturing,Industrial gloves,2020.0,1,1,0,0,Young,Nagpur,Maharashtra,34.0,2.5,39.0,,-9.9,yes,78.0,no,funded,45.0,5.0,900.0,0,,,,,
+4,28,709,ChaiDabbaPro,Food and Beverage,Ready-to-cook regional curries,2022.0,1,0,1,0,Young,Hyderabad,Telangana,52.0,,,,17.2,no,136.0,no,funded,20.0,3.0,666.67,1,1.0,20.0,17.65,113.31,1.0
+4,28,710,ShikshaKids,Children/Education,STEM toy kits,2018.0,1,1,0,0,Middle,Gurugram,Haryana,421.0,15.3,59.0,-18.9,-6.1,yes,,no,funded,60.0,2.5,2400.0,0,,,,,
+4,29,711,NovaLabsX,Technology/Software,Fleet tracking software,2021.0,1,0,1,0,Middle,Gurugram,Haryana,137.0,16.0,460.0,24.4,28.6,no,3.0,no,yes,20.0,2.5,800.0,1,1.0,20.0,2.5,800.0,1.0
+4,29,712,MehndiLoomGo,Beauty/Fashion,Handloom sarees online,2024.0,2,2,0,0,Middle,Gurugram,Haryana,425.0,45.3,63.0,,,yes,,no,yes,80.0,4.0,2000.0,1,1.0,96.0,8.88,1081.08,2.0
+4,29,713,OfficeServices,Business Services,Corporate gifting,2020.0,2,2,0,0,Young,Mumbai,Maharashtra,180.0,,,15.1,19.7,no,,no,funded,100.0,5.0,2000.0,1,1.0,200.0,18.65,1072.39,2.0
+4,29,714,ByteStack,Technology/Software,Clinic management app,2021.0,2,2,0,0,Young,Gurugram,Haryana,0.0,,,,,yes,9.0,no,yes,50.0,3.0,1666.67,0,,,,,
+4,30,715,UrbanDecorOne,Lifestyle/Home,Eco cleaning products,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,342.0,13.6,76.0,1.4,3.0,no,6.0,no,,80.0,0.75,10666.67,1,1.0,80.0,1.09,7339.45,1.0
+4,30,716,ForgeParts,Manufacturing,Precision auto parts,2021.0,3,3,0,0,Middle,Bangalore,Karnataka,,,52.0,17.1,22.0,no,17.0,no,,60.0,8.0,750.0,1,1.0,60.0,8.0,750.0,1.0
+4,30,717,GlowThreadsOne,Beauty/Fashion,Sustainable sneakers,2024.0,3,3,0,0,Middle,Bangalore,Karnataka,137.0,,62.0,9.1,13.3,no,19.0,no,funded,30.0,1.5,2000.0,1,1.0,30.0,7.61,394.22,1.0
+4,30,718,AanganHome,Lifestyle/Home,Smart home lighting,2021.0,2,2,0,0,Middle,Delhi,Delhi,4060.0,,33.0,1.2,4.5,yes,45.0,no,funded,120.0,0.75,16000.0,1,1.0,120.0,0.94,12765.96,3.0
+4,31,719,KesarBrew,Food and Beverage,Ready-to-cook regional curries,2020.0,1,1,0,0,Old,,Madhya Pradesh,9.0,1.0,55.0,3.7,8.9,no,,,yes,125.0,5.0,2500.0,0,,,,,
+4,31,720,MasalaBrew,Food and Beverage,Artisanal coffee,2019.0,3,1,2,0,Middle,Delhi,Delhi,974.0,65.1,48.0,,4.4,no,,no,yes,250.0,0.75,33333.33,0,,,,,
+4,31,721,MasalaKitchen,Food and Beverage,Sugar-free sweets,2022.0,2,2,0,0,Young,Bhopal,Madhya Pradesh,243.0,,57.0,11.0,12.1,no,62.0,no,,25.0,7.5,333.33,1,1.0,25.0,7.5,333.33,4.0
+4,31,722,NutriFoods,Food and Beverage,Artisanal coffee,2020.0,2,0,2,0,Old,Mumbai,Maharashtra,261.0,23.8,70.0,-3.6,2.8,no,,,funded,35.0,0.5,7000.0,1,1.0,35.0,1.74,2011.49,1.0
+4,32,723,MasalaDabbaPlus,Food and Beverage,Sugar-free sweets,2024.0,2,2,0,0,Middle,Mumbai,Maharashtra,32.0,1.8,72.0,-3.8,0.2,,3.0,no,funded,45.0,6.0,750.0,1,1.0,45.0,19.85,226.7,3.0
+4,32,724,ProSolutions,Business Services,Corporate gifting,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,190.0,18.3,,3.0,6.0,no,1.0,no,funded,120.0,4.0,3000.0,0,,,,,
+4,32,725,AyurPlus,Medical/Health,Telehealth for villages,2023.0,1,0,1,0,Middle,Mumbai,Maharashtra,163.0,,42.0,,21.5,no,66.0,,yes,100.0,3.0,3333.33,1,1.0,125.0,17.09,731.42,2.0
+4,32,726,PixelHub,Technology/Software,Cybersecurity for SMEs,2021.0,3,1,2,0,Middle,Goa,Goa,27.0,3.3,66.0,22.8,30.0,no,9.0,no,,30.0,5.0,600.0,1,0.0,,,,
+4,33,727,AanganHaus,Lifestyle/Home,Smart home lighting,2024.0,2,1,1,0,Young,Delhi,Delhi,848.0,477.5,67.0,-1.1,5.2,no,49.0,no,funded,60.0,1.0,6000.0,1,1.0,60.0,1.0,6000.0,2.0
+4,33,728,NutriFresh360,Food and Beverage,Ready-to-cook regional curries,2025.0,2,2,0,0,Young,Mumbai,Maharashtra,257.0,6.6,62.0,9.2,15.9,no,47.0,no,funded,100.0,5.0,2000.0,1,1.0,65.0,6.29,1033.39,1.0
+4,33,729,MittiCoPro,Lifestyle/Home,Eco cleaning products,2020.0,2,2,0,0,Young,Delhi,Delhi,0.0,,,,,yes,33.0,no,funded,20.0,8.0,250.0,0,,,,,
+4,33,730,LinkHub,Business Services,Corporate gifting,2014.0,2,1,1,1,Middle,Mumbai,Maharashtra,1490.0,69.1,,-1.1,0.9,no,1.0,no,yes,100.0,1.0,10000.0,1,1.0,100.0,3.48,2873.56,2.0
+4,34,731,MasalaTreats,Food and Beverage,Ready-to-cook regional curries,2022.0,3,3,0,0,Middle,Ahmedabad,Gujarat,349.0,36.4,58.0,12.6,26.0,no,58.0,,funded,35.0,3.5,1000.0,1,1.0,25.0,7.04,355.11,1.0
+4,34,732,ForgeWorks,Manufacturing,Steel kitchenware,2018.0,1,1,0,0,Middle,Pune,Maharashtra,463.0,33.4,,,2.3,no,,no,yes,100.0,3.0,3333.33,1,1.0,100.0,9.5,1052.63,1.0
+4,34,733,PrimeTools,Manufacturing,Packaging solutions,2023.0,3,2,1,0,Young,Delhi,Delhi,1055.0,44.7,35.0,,15.8,no,,yes,funded,60.0,2.0,3000.0,1,1.0,60.0,2.0,3000.0,3.0
+4,34,734,BinduThreads,Beauty/Fashion,Plus-size ethnic wear,2021.0,2,1,1,1,Young,Bangalore,Karnataka,8.0,0.3,70.0,0.8,6.8,,47.0,no,yes,40.0,7.5,533.33,1,0.0,,,,
+4,35,735,PulsePlusGo,Medical/Health,Diabetes-friendly foods,2016.0,1,1,0,0,Middle,Bangalore,Karnataka,1603.0,148.4,79.0,,17.1,no,,no,yes,120.0,7.5,1600.0,1,0.0,,,,
+4,35,736,DhagaThreads360,Beauty/Fashion,Plus-size ethnic wear,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,0.0,0.0,,,,yes,39.0,yes,yes,45.0,2.5,1800.0,0,,,,,
+4,35,737,NeuralTechOne,Technology/Software,Cybersecurity for SMEs,2023.0,2,1,1,0,Young,Lucknow,Uttar Pradesh,172.0,5.7,88.0,,13.4,no,,yes,,90.0,2.0,4500.0,1,1.0,90.0,6.57,1369.86,3.0
+4,35,738,MilletSnacksX,Food and Beverage,Artisanal coffee,,1,1,0,0,Middle,Gurugram,Haryana,45.0,,52.0,,,yes,58.0,no,funded,80.0,6.0,1333.33,0,,,,,
+4,36,739,LittleLearn,Children/Education,STEM toy kits,2023.0,1,0,1,0,Middle,,,88.0,,38.0,,,yes,,no,yes,50.0,1.25,4000.0,0,,,,,
+4,36,740,SaffronThreadsX,Beauty/Fashion,Handloom sarees online,,2,2,0,0,Middle,Delhi,Delhi,827.0,22.3,65.0,-2.9,4.5,no,12.0,no,yes,35.0,1.25,2800.0,1,1.0,35.0,1.69,2071.01,2.0
+4,36,741,CodeSoft,Technology/Software,Cybersecurity for SMEs,2024.0,2,0,2,0,Young,Mumbai,Maharashtra,11.0,1.5,60.0,4.6,7.9,no,45.0,no,funded,35.0,3.5,1000.0,0,,,,,
+4,36,742,ProPartners,Business Services,Digital marketing agency,,3,3,0,0,Middle,Kolkata,West Bengal,384.0,,540.0,,,yes,2.0,no,yes,45.0,2.0,2250.0,1,0.0,,,,
+4,37,743,SteelIndustries,Manufacturing,Packaging solutions,2019.0,1,0,1,0,Middle,Vadodara,Gujarat,200.0,11.3,23.0,-8.6,4.8,yes,54.0,yes,funded,100.0,3.0,3333.33,1,1.0,100.0,8.55,1169.59,1.0
+4,37,744,ZariLabelGo,Beauty/Fashion,Silver jewellery,,1,1,0,0,Middle,Delhi,Delhi,0.0,0.0,,,,yes,,no,yes,75.0,2.0,3750.0,0,,,,,
+4,37,745,MittiCoX,Lifestyle/Home,Eco cleaning products,2023.0,1,1,0,0,Middle,Delhi,Delhi,898.0,132.3,70.0,5.9,14.0,no,140.0,no,yes,120.0,3.0,4000.0,0,,,,,
+4,37,746,TailKart,Animal/Pets,Cattle health monitor,2019.0,2,1,1,0,Middle,Bangalore,Karnataka,467.0,22.5,55.0,20.8,22.0,,337.0,no,funded,150.0,1.25,12000.0,1,1.0,90.0,2.98,3020.13,2.0
+4,38,747,VitalClinic,Medical/Health,Telehealth for villages,2022.0,1,0,1,0,Middle,Mumbai,Maharashtra,76.0,8.1,76.0,15.8,19.8,no,,no,yes,100.0,6.0,1666.67,1,1.0,100.0,12.88,776.4,1.0
+4,38,748,DesiFreshPro,Food and Beverage,Protein-rich namkeen,2018.0,1,0,1,0,Young,Pune,Maharashtra,52000.0,,,,,yes,15.0,no,yes,400.0,0.5,80000.0,1,1.0,400.0,0.5,80000.0,1.0
+4,38,749,PixelLabs,Technology/Software,SaaS for kirana billing,2021.0,2,1,1,1,Middle,Delhi,Delhi,92.0,15.7,60.0,17.4,23.4,,,no,funded,40.0,2.0,2000.0,0,,,,,
+4,38,750,NoorBeauty360,Beauty/Fashion,Handloom sarees online,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,0.0,0.0,,,,yes,4.0,no,funded,70.0,3.5,2000.0,0,,,,,
+4,39,751,SteelPack,Manufacturing,Packaging solutions,2018.0,3,3,0,0,Middle,Lucknow,Uttar Pradesh,326.0,18.3,,,4.1,no,151.0,no,funded,45.0,2.0,2250.0,1,1.0,35.0,2.55,1372.55,1.0
+4,39,752,NeuralStackGo,Technology/Software,Clinic management app,2020.0,1,1,0,0,Middle,Pune,Maharashtra,23.0,1.3,57.0,,,yes,,no,yes,100.0,3.0,3333.33,0,,,,,
+4,39,753,GyaanAcademyX,Children/Education,Montessori furniture,2021.0,3,2,1,0,Middle,Delhi,Delhi,39.0,,55.0,2.3,8.6,no,,no,yes,50.0,7.5,666.67,1,0.0,,,,
+4,39,754,RasoiDabbaGo,Food and Beverage,Sugar-free sweets,2022.0,1,1,0,0,Middle,Bangalore,Karnataka,191.0,14.9,42.0,3.5,10.6,no,,,yes,45.0,2.0,2250.0,1,1.0,45.0,10.95,410.96,1.0
+4,40,755,AxisParts,Manufacturing,Recycled plastic tiles,2024.0,2,2,0,0,Middle,Bangalore,Karnataka,127.0,10.2,37.0,,,yes,,yes,yes,90.0,3.5,2571.43,1,1.0,112.5,15.61,720.69,2.0
+4,40,756,SahayakAssist360,Business Services,Corporate gifting,2023.0,2,0,2,0,Young,Delhi,Delhi,593.0,24.8,,,,yes,,no,funded,60.0,2.0,3000.0,0,,,,,
+4,40,757,QuickLogix,Business Services,B2B logistics,2022.0,2,2,0,0,Middle,Mumbai,Maharashtra,1.0,,48.0,,7.1,no,26.0,no,yes,40.0,7.5,533.33,0,,,,,
+4,40,758,DoolallySpirits,Liquor/Alcohol,Low-alcohol drinks,2023.0,2,2,0,0,Middle,Bangalore,Karnataka,133.0,6.1,54.0,9.5,12.3,no,123.0,no,yes,40.0,1.5,2666.67,1,1.0,40.0,2.59,1544.4,1.0
+4,41,759,NutriFreshGo,Food and Beverage,Artisanal coffee,2017.0,2,2,0,0,Middle,Bangalore,Karnataka,,157.7,60.0,-18.7,-9.6,yes,26.0,no,yes,175.0,2.5,7000.0,1,1.0,175.0,4.08,4289.22,2.0
+4,41,760,IndusIndustries360,Manufacturing,Packaging solutions,2021.0,1,0,1,0,Middle,Guwahati,Assam,109.0,28.2,37.0,,,no,4.0,no,funded,45.0,5.0,900.0,1,1.0,45.0,13.27,339.11,1.0
+4,41,761,TrustServicesX,Business Services,Co-working spaces,2018.0,3,2,1,0,Young,Gurugram,Haryana,94.0,2.7,65.0,19.3,24.6,no,4.0,no,yes,60.0,2.5,2400.0,1,1.0,60.0,5.1,1176.47,1.0
+4,41,762,TinyAcademy,Children/Education,STEM toy kits,2025.0,1,0,1,0,Young,Gurugram,Haryana,1309.0,62.2,52.0,,6.2,,15.0,no,funded,40.0,2.0,2000.0,1,1.0,40.0,2.5,1600.0,2.0
+4,42,763,BinduWearPlus,Beauty/Fashion,Men's grooming kits,2023.0,2,1,1,1,Middle,Delhi,Delhi,379.0,,59.0,,,yes,52.0,no,,100.0,5.0,2000.0,1,1.0,100.0,5.0,2000.0,2.0
+4,42,764,GlowStudio,Beauty/Fashion,Men's grooming kits,2022.0,4,2,2,0,Middle,Jaipur,Rajasthan,229.0,49.6,76.0,9.2,25.3,no,685.0,no,yes,60.0,2.5,2400.0,1,1.0,60.0,8.3,722.89,1.0
+4,42,765,CloudLabsPro,Technology/Software,SaaS for kirana billing,2023.0,2,2,0,0,Middle,Delhi,Delhi,1.0,0.0,62.0,1.6,5.1,no,12.0,yes,funded,70.0,5.0,1400.0,0,,,,,
+4,42,766,ChaiSnacksOne,Food and Beverage,Cold-pressed juices,2022.0,2,2,0,0,Middle,Mumbai,Maharashtra,396.0,,83.0,,10.5,no,49.0,no,,60.0,2.5,2400.0,1,1.0,60.0,6.11,982.0,1.0
+4,43,767,ToughToolsX,Manufacturing,Biodegradable cutlery,2023.0,2,2,0,0,Middle,Bangalore,Karnataka,0.0,0.0,,,,no,46.0,no,funded,35.0,7.5,466.67,1,0.0,,,,
+4,43,768,KiddoPlayOne,Children/Education,Exam prep app,,2,2,0,0,Middle,Bangalore,Karnataka,16.0,3.4,65.0,,,no,85.0,no,yes,30.0,10.0,300.0,1,1.0,25.0,8.33,300.12,1.0
+4,43,769,MasalaSnacksX,Food and Beverage,Cold-pressed juices,2022.0,3,2,1,0,Middle,Gurugram,Haryana,18.0,,48.0,,,yes,,yes,funded,60.0,6.0,1000.0,0,,,,,
+4,43,770,VitalCarePro,Medical/Health,Menstrual care products,2023.0,1,1,0,0,Middle,Bangalore,Karnataka,120.0,,52.0,,,yes,42.0,,,100.0,3.5,2857.14,0,,,,,
+4,44,771,SwasthWellPro,Medical/Health,Ortho support braces,2024.0,1,1,0,0,Middle,Bhopal,Madhya Pradesh,516.0,30.6,44.0,-6.8,-1.6,yes,29.0,yes,funded,40.0,3.0,1333.33,1,1.0,25.0,1.88,1329.79,2.0
+4,44,772,PulseHealthGo,Medical/Health,Menstrual care products,2020.0,2,2,0,0,Middle,Delhi,Delhi,25.0,,71.0,4.7,12.7,no,,yes,funded,100.0,6.0,1666.67,0,,,,,
+4,44,773,NestCraft360,Lifestyle/Home,Eco cleaning products,2024.0,3,3,0,0,Young,Chennai,Tamil Nadu,259.0,28.1,58.0,37.0,41.1,no,12.0,no,,90.0,0.75,12000.0,0,,,,,
+4,44,774,NovaSystems,Technology/Software,Fleet tracking software,2021.0,2,2,0,0,Middle,Goa,Goa,407.0,87.4,58.0,-2.2,4.6,no,2.0,yes,funded,90.0,3.0,3000.0,1,1.0,90.0,4.22,2132.7,2.0
+4,45,775,ActivePro,Fitness/Sports/Outdoors,Cricket training gear,2023.0,3,3,0,0,Middle,Gurugram,Haryana,84.0,4.7,69.0,,,yes,14.0,no,funded,50.0,2.0,2500.0,1,1.0,50.0,13.27,376.79,1.0
+4,45,776,ZariLoomPro,Beauty/Fashion,Handloom sarees online,2018.0,2,2,0,0,Middle,Bangalore,Karnataka,355.0,40.4,67.0,28.8,31.6,no,12.0,no,funded,80.0,0.75,10666.67,1,0.0,,,,
+4,45,777,CodeAIPlus,Technology/Software,Clinic management app,,2,2,0,0,Middle,Pune,Maharashtra,58.0,2.6,,,6.1,,2.0,no,funded,30.0,4.0,750.0,0,,,,,
+4,45,778,CodeSystems,Technology/Software,SaaS for kirana billing,2019.0,1,1,0,0,Middle,Chennai,Tamil Nadu,120.0,14.3,79.0,,13.7,yes,,,yes,80.0,2.0,4000.0,1,1.0,80.0,5.22,1532.57,4.0
+4,46,779,NoorThreadsX,Beauty/Fashion,Sustainable sneakers,2017.0,2,1,1,1,Middle,Mumbai,Maharashtra,233.0,,75.0,,17.7,no,58.0,yes,yes,30.0,1.25,2400.0,1,1.0,30.0,3.14,955.41,2.0
+4,46,780,LinkPartners,Business Services,Corporate gifting,2007.0,3,2,1,0,Middle,Mumbai,Maharashtra,1414.0,75.2,45.0,,23.0,,2.0,no,,75.0,0.75,10000.0,0,,,,,
+4,46,781,CosyHome360,Lifestyle/Home,Smart home lighting,2023.0,3,0,3,0,Middle,Noida,Uttar Pradesh,80.0,4.7,62.0,10.9,14.4,no,24.0,no,,75.0,6.0,1250.0,1,1.0,45.0,14.06,320.06,3.0
+4,46,782,GharDecorX,Lifestyle/Home,Smart home lighting,2022.0,3,2,1,0,Middle,Lucknow,Uttar Pradesh,341.0,57.4,,-16.1,1.5,no,24.0,no,funded,100.0,2.5,4000.0,0,,,,,
+4,47,783,FasalTech360,Agriculture,Seed quality testing,2015.0,3,3,0,0,Middle,Bangalore,Karnataka,311.0,19.8,,,10.8,yes,26.0,no,yes,35.0,4.0,875.0,1,1.0,35.0,6.3,555.56,1.0
+4,47,784,RasoiBrewPro,Food and Beverage,Artisanal coffee,2023.0,3,3,0,0,Middle,Delhi,Delhi,,,,12.0,13.2,no,,no,funded,35.0,4.0,875.0,0,,,,,
+4,47,785,GauPalsPlus,Animal/Pets,Pet grooming at home,2023.0,2,1,1,1,Middle,Delhi,Delhi,69.0,3.5,,,,no,44.0,,yes,20.0,3.5,571.43,0,,,,,
+4,47,786,QuickServices,Business Services,B2B logistics,2023.0,2,1,1,1,Middle,Bangalore,Karnataka,70.0,7.3,53.0,,,yes,,no,,45.0,6.0,750.0,0,,,,,
+4,48,787,VedaWellOne,Medical/Health,Menstrual care products,2022.0,2,1,1,1,Middle,Kolkata,West Bengal,280.0,30.8,76.0,22.5,26.2,no,19.0,no,funded,100.0,3.5,2857.14,1,1.0,100.0,3.59,2785.52,1.0
+4,48,788,DesiBrewPro,Food and Beverage,Artisanal coffee,2023.0,2,2,0,0,Young,Pune,Maharashtra,34.0,1.3,58.0,,20.6,no,,no,funded,70.0,2.5,2800.0,1,0.0,,,,
+4,48,789,SutraWearGo,Beauty/Fashion,Men's grooming kits,,1,1,0,0,Middle,Goa,Goa,166.0,22.2,79.0,15.6,25.4,no,33.0,no,funded,30.0,2.0,1500.0,1,1.0,30.0,3.66,819.67,1.0
+4,48,790,KayaThreads,Beauty/Fashion,Sustainable sneakers,,1,0,1,0,Middle,Mumbai,Maharashtra,,0.0,,,,yes,,no,funded,35.0,1.5,2333.33,0,,,,,
+4,49,791,MilletBrewX,Food and Beverage,Sugar-free sweets,2021.0,1,1,0,0,Young,Delhi,Delhi,0.0,0.0,,,,yes,,,yes,25.0,7.5,333.33,0,,,,,
+4,49,792,KesarBrewGo,Food and Beverage,Protein-rich namkeen,2010.0,2,1,1,1,Middle,Gurugram,Haryana,1039.0,232.6,53.0,15.3,18.3,no,19.0,no,funded,120.0,4.0,3000.0,1,1.0,65.0,2.17,2995.39,3.0
+4,49,793,NoorSkin360,Beauty/Fashion,Handloom sarees online,2023.0,2,2,0,0,Middle,Delhi,Delhi,292.0,32.5,69.0,,6.5,no,18.0,no,yes,35.0,2.0,1750.0,1,1.0,35.0,3.2,1093.75,1.0
+4,49,794,RangZone,Entertainment,Event ticketing,2016.0,3,1,2,0,Middle,Mumbai,Maharashtra,126.0,,35.0,,,yes,64.0,,yes,60.0,2.5,2400.0,0,,,,,
+4,50,795,DhagaThreadsPro,Beauty/Fashion,Ayurvedic skincare,2021.0,3,2,1,0,Young,Kolkata,West Bengal,611.0,34.6,,2.6,15.7,,74.0,no,funded,75.0,3.0,2500.0,1,1.0,90.0,5.26,1711.03,2.0
+4,50,796,LogicTechPlus,Technology/Software,Clinic management app,2021.0,4,2,2,0,Middle,Bangalore,Karnataka,61.0,3.0,49.0,-11.6,-0.9,yes,2.0,no,funded,90.0,5.0,1800.0,0,,,,,
+4,50,797,ZariLoomPlus,Beauty/Fashion,Plus-size ethnic wear,2024.0,2,2,0,0,Middle,Mumbai,Maharashtra,52.0,2.6,70.0,5.6,7.3,,,no,yes,20.0,2.0,1000.0,1,1.0,20.0,7.11,281.29,1.0
+4,50,798,GlowLabelPlus,Beauty/Fashion,Plus-size ethnic wear,2020.0,3,3,0,0,Young,Bangalore,Karnataka,214.0,18.0,74.0,-0.3,2.8,no,,no,funded,45.0,1.5,3000.0,1,1.0,45.0,2.61,1724.14,1.0
+4,51,799,ChaiDabbaOne,Food and Beverage,Cold-pressed juices,2023.0,1,0,1,0,Middle,Hyderabad,Telangana,1534.0,167.3,61.0,,3.3,no,100.0,,funded,100.0,1.0,10000.0,1,1.0,75.0,0.75,10000.0,3.0
+4,51,800,RangSkin360,Beauty/Fashion,Silver jewellery,2014.0,2,1,1,1,Middle,,,,19.0,58.0,12.5,14.1,no,,no,funded,60.0,3.5,1714.29,0,,,,,
+4,51,801,SaffronStudioOne,Beauty/Fashion,Handloom sarees online,2019.0,2,1,1,1,Middle,Bangalore,Karnataka,13.0,,74.0,,,yes,29.0,yes,,35.0,1.0,3500.0,0,,,,,
+4,51,802,MittiDecor,Lifestyle/Home,Handmade decor,2021.0,1,0,1,0,Middle,Jaipur,Rajasthan,322.0,52.8,,,,yes,75.0,,funded,30.0,3.5,857.14,1,1.0,30.0,3.5,857.14,5.0
+4,52,803,KiddoMindsOne,Children/Education,Montessori furniture,2023.0,1,1,0,0,Middle,Indore,Madhya Pradesh,1366.0,134.3,49.0,,,,21.0,no,yes,200.0,0.75,26666.67,1,1.0,120.0,1.29,9302.33,3.0
+5,1,804,DesiDabba,Food and Beverage,Cold-pressed juices,2022.0,1,0,1,0,Middle,Delhi,Delhi,476.0,70.3,48.0,2.8,10.8,no,,no,yes,175.0,1.5,11666.67,1,1.0,150.0,3.98,3768.84,1.0
+5,1,805,RideWheels,Vehicles/Electrical Vehicles,Electric scooters,2024.0,3,3,0,0,Young,Bangalore,Karnataka,,13.3,17.0,,1.7,,645.0,yes,yes,150.0,2.5,6000.0,0,,,,,
+5,1,806,TatvaNest,Lifestyle/Home,Modular furniture,,3,2,1,0,Middle,Bangalore,Karnataka,68.0,,92.0,18.3,20.4,no,23.0,no,funded,50.0,5.0,1000.0,1,0.0,,,,
+5,1,807,SevaServices,Business Services,Corporate gifting,2020.0,2,1,1,1,Young,Mumbai,Maharashtra,318.0,24.9,58.0,-14.7,-1.7,no,,no,yes,80.0,1.5,5333.33,1,1.0,96.0,6.16,1558.44,2.0
+5,2,808,MehndiLoom,Beauty/Fashion,Silver jewellery,2025.0,3,2,1,0,Middle,Nagpur,Maharashtra,54.0,6.1,75.0,17.2,22.5,no,81.0,,,125.0,4.0,3125.0,1,1.0,156.25,11.49,1359.88,2.0
+5,2,809,PixelSoft,Technology/Software,SaaS for kirana billing,2021.0,2,1,1,1,Middle,Jaipur,Rajasthan,327.0,46.3,73.0,20.7,26.0,no,1.0,yes,yes,175.0,1.5,11666.67,1,0.0,,,,
+5,2,810,SwiftAI,Technology/Software,SaaS for kirana billing,2022.0,1,1,0,0,Middle,Mumbai,Maharashtra,96.0,7.2,69.0,10.2,18.8,no,2.0,no,funded,175.0,2.5,7000.0,0,,,,,
+5,2,811,NoorSkin,Beauty/Fashion,Sustainable sneakers,,2,1,1,1,Young,Hyderabad,Telangana,193.0,25.4,66.0,-0.9,8.5,no,15.0,no,yes,70.0,2.0,3500.0,1,0.0,,,,
+5,3,812,PetTreats,Animal/Pets,Fresh pet food,2023.0,2,2,0,0,Middle,Lucknow,Uttar Pradesh,421.0,44.9,55.0,-9.9,-3.6,yes,33.0,,yes,50.0,2.5,2000.0,1,1.0,50.0,2.5,2000.0,1.0
+5,3,813,IndusFab,Manufacturing,Packaging solutions,2024.0,3,2,1,0,Middle,Pune,Maharashtra,503.0,,28.0,5.6,19.1,no,,no,yes,45.0,1.25,3600.0,1,1.0,45.0,2.64,1704.55,1.0
+5,3,814,SutraCare,Beauty/Fashion,Ayurvedic skincare,2022.0,1,1,0,0,Young,,,396.0,34.3,,,14.3,no,,no,yes,90.0,2.0,4500.0,1,1.0,90.0,2.0,4500.0,1.0
+5,3,815,ToughTools,Manufacturing,Biodegradable cutlery,2019.0,1,1,0,0,Middle,Bhopal,Madhya Pradesh,619.0,34.7,,,5.7,no,38.0,,funded,175.0,2.0,8750.0,1,1.0,175.0,5.74,3048.78,1.0
+5,4,816,VedaCare,Medical/Health,Telehealth for villages,2024.0,2,0,2,0,Middle,Mumbai,Maharashtra,66.0,3.6,83.0,21.3,28.1,no,22.0,no,funded,35.0,3.5,1000.0,1,0.0,,,,
+5,4,817,LogicHub,Technology/Software,Fleet tracking software,2020.0,3,1,2,0,Middle,,,107.0,,34.0,-13.2,-11.8,yes,19.0,no,funded,25.0,5.0,500.0,0,,,,,
+5,4,818,PixelTech,Technology/Software,SaaS for kirana billing,2024.0,2,2,0,0,Middle,Bangalore,Karnataka,113.0,5.0,58.0,,25.5,no,,no,funded,15.0,4.0,375.0,1,1.0,10.0,7.43,134.59,2.0
+5,4,819,MehndiLabel,Beauty/Fashion,Silver jewellery,2018.0,1,1,0,0,Middle,Delhi,Delhi,895.0,133.5,50.0,26.3,34.3,no,46.0,,funded,100.0,0.75,13333.33,1,1.0,80.0,1.07,7476.64,1.0
+5,5,820,HaldiTreats,Food and Beverage,Healthy millet snacks,2023.0,2,2,0,0,Young,Delhi,Delhi,37.0,1.0,62.0,9.2,15.0,no,21.0,no,funded,40.0,2.5,1600.0,0,,,,,
+5,5,821,KagazWorks,Others,Personal safety device,2025.0,2,1,1,0,Young,Delhi,Delhi,323.0,28.2,44.0,-0.9,5.8,no,,no,yes,70.0,6.0,1166.67,1,1.0,70.0,16.01,437.23,1.0
+5,5,822,LoopSoft,Technology/Software,AI resume screening,2025.0,2,2,0,0,Middle,Bangalore,Karnataka,2193.0,98.8,,,,no,1.0,yes,yes,150.0,1.0,15000.0,1,1.0,150.0,1.93,7772.02,1.0
+5,5,823,MittiGrow,Agriculture,Seed quality testing,2022.0,2,2,0,0,Middle,Delhi,Delhi,656.0,,33.0,,,yes,38.0,no,yes,80.0,2.5,3200.0,0,,,,,
+5,6,824,DhagaSkin,Beauty/Fashion,Ayurvedic skincare,2023.0,2,1,1,0,Middle,Chennai,Tamil Nadu,,1.8,73.0,,,yes,,no,yes,30.0,4.0,750.0,1,1.0,15.0,6.63,226.24,1.0
+5,6,825,SuryaSolutions,Green/CleanTech,Compostable bags,2023.0,2,2,0,0,Middle,Pune,Maharashtra,158.0,6.0,46.0,-14.8,-5.3,yes,9.0,,yes,100.0,6.0,1666.67,0,,,,,
+5,6,826,ArogyaLife,Medical/Health,Smart pill dispenser,2023.0,1,0,1,0,Middle,Bangalore,Karnataka,122.0,2.2,64.0,6.9,11.2,no,,yes,,50.0,1.5,3333.33,1,1.0,50.0,5.03,994.04,1.0
+5,6,827,SutraWearPro,Beauty/Fashion,Ayurvedic skincare,2019.0,2,2,0,0,Middle,Mumbai,Maharashtra,986.0,60.6,69.0,,28.2,no,,no,yes,40.0,2.0,2000.0,1,1.0,20.0,1.0,2000.0,5.0
+5,7,828,BinduBeauty,Beauty/Fashion,Handloom sarees online,2024.0,2,2,0,0,Young,Noida,Uttar Pradesh,340.0,,72.0,,9.7,no,18.0,no,funded,500.0,2.5,20000.0,0,,,,,
+5,7,829,NestDecor,Lifestyle/Home,Smart home lighting,2020.0,2,2,0,0,Young,Jaipur,Rajasthan,281.0,,59.0,,,yes,12.0,no,funded,60.0,4.0,1500.0,0,,,,,
+5,7,830,RangStudio,Beauty/Fashion,Silver jewellery,,1,1,0,0,Middle,Mumbai,Maharashtra,25.0,2.0,79.0,,5.5,no,12.0,no,funded,40.0,3.5,1142.86,0,,,,,
+5,7,831,ZariWear,Beauty/Fashion,Sustainable sneakers,,1,1,0,0,Middle,Pune,Maharashtra,2762.0,395.5,55.0,,-2.3,no,,no,yes,200.0,0.75,26666.67,0,,,,,
+5,8,832,BalMinds,Children/Education,Story books in Indian languages,2017.0,2,2,0,0,Middle,Bangalore,Karnataka,280.0,,55.0,,20.7,no,7.0,no,funded,60.0,3.5,1714.29,1,1.0,60.0,3.5,1714.29,3.0
+5,8,833,HarvestGrow,Agriculture,Farm-to-home vegetables,2023.0,3,2,1,0,Middle,Noida,Uttar Pradesh,74.0,23.9,44.0,-5.7,7.9,no,11.0,no,funded,100.0,4.0,2500.0,0,,,,,
+5,8,834,SteelTools,Manufacturing,Packaging solutions,2024.0,1,0,1,0,Middle,Jaipur,Rajasthan,508.0,,,2.5,5.3,no,129.0,no,funded,80.0,1.25,6400.0,1,1.0,80.0,2.79,2867.38,1.0
+5,8,835,SutraThreads,Beauty/Fashion,Men's grooming kits,2023.0,2,1,1,0,Young,Delhi,Delhi,36.0,8.5,80.0,,19.1,no,8.0,no,yes,25.0,3.5,714.29,1,1.0,31.25,26.04,120.01,2.0
+5,9,836,DhagaLoom,Beauty/Fashion,Silver jewellery,2021.0,2,2,0,0,Middle,Delhi,Delhi,1205.0,219.5,77.0,37.6,40.7,no,35.0,no,funded,80.0,1.5,5333.33,1,1.0,35.0,0.66,5303.03,5.0
+5,9,837,NutriKitchen,Food and Beverage,Cold-pressed juices,2021.0,3,2,1,0,Middle,Pune,Maharashtra,,47.4,50.0,-0.2,3.4,no,6.0,no,funded,90.0,3.0,3000.0,1,1.0,90.0,7.5,1200.0,1.0
+5,9,838,MehndiThreadsX,Beauty/Fashion,Men's grooming kits,2021.0,2,2,0,0,Middle,Delhi,Delhi,3052.0,199.8,65.0,6.4,20.0,no,,no,funded,100.0,1.0,10000.0,1,1.0,100.0,1.0,10000.0,1.0
+5,9,839,KesarFoods,Food and Beverage,Artisanal coffee,2023.0,4,3,1,0,Middle,Mumbai,Maharashtra,,1.8,44.0,,,yes,,no,funded,150.0,6.0,2500.0,0,,,,,
+5,10,840,ChaiFresh,Food and Beverage,Protein-rich namkeen,,2,1,1,0,Middle,Delhi,Delhi,151.0,9.1,52.0,,,yes,,,yes,250.0,1.5,16666.67,0,,,,,
+5,10,841,JeevanClinic,Medical/Health,At-home diagnostic kits,2020.0,1,0,1,0,Young,Chandigarh,Punjab,0.0,0.0,,,,yes,61.0,no,yes,40.0,6.0,666.67,1,1.0,40.0,13.96,286.53,1.0
+5,10,842,BharatParts,Manufacturing,Precision auto parts,2022.0,4,3,1,0,Middle,Mumbai,Maharashtra,69.0,10.4,48.0,,,no,,no,funded,45.0,2.0,2250.0,0,,,,,
+5,10,843,MasalaBites,Food and Beverage,Artisanal coffee,2025.0,2,2,0,0,Middle,Bangalore,Karnataka,167.0,8.6,63.0,,12.8,no,58.0,no,funded,120.0,1.0,12000.0,0,,,,,
+5,11,844,ChaiSnacksPlus,Food and Beverage,Ready-to-cook regional curries,2025.0,1,0,1,0,Middle,Surat,Gujarat,1307.0,251.9,51.0,,3.5,no,137.0,no,funded,100.0,2.5,4000.0,1,1.0,100.0,2.5,4000.0,2.0
+5,11,845,AyurWell,Medical/Health,Smart pill dispenser,2024.0,3,2,1,0,Young,Pune,Maharashtra,,,79.0,,13.6,no,71.0,no,yes,70.0,4.0,1750.0,1,1.0,70.0,6.54,1070.34,1.0
+5,11,846,HealLabsPro,Medical/Health,Diabetes-friendly foods,2024.0,2,0,2,0,Middle,Gurugram,Haryana,169.0,8.3,51.0,-22.7,-15.7,,133.0,no,yes,60.0,3.0,2000.0,1,1.0,60.0,6.38,940.44,3.0
+5,11,847,ByteHub,Technology/Software,Vernacular learning app,2023.0,1,1,0,0,Middle,Jaipur,Rajasthan,536.0,32.6,49.0,,,yes,,yes,,40.0,3.5,1142.86,1,1.0,40.0,3.5,1142.86,1.0
+5,12,848,TadkaSnacksX,Food and Beverage,Healthy millet snacks,,1,1,0,0,Middle,Noida,Uttar Pradesh,201.0,39.1,29.0,,,,50.0,no,yes,60.0,10.0,600.0,0,,,,,
+5,12,849,WoofCare,Animal/Pets,Pet treats,2024.0,2,1,1,1,Old,Kolkata,West Bengal,147.0,,73.0,,11.6,no,261.0,no,yes,120.0,1.25,9600.0,1,1.0,120.0,2.97,4040.4,1.0
+5,12,850,UtsavKart,Others,Spiritual products,2017.0,2,1,1,1,Middle,Gurugram,Haryana,645.0,,39.0,-0.1,14.6,no,13.0,no,funded,150.0,3.0,5000.0,1,0.0,,,,
+5,12,851,DesiFreshX,Food and Beverage,Sugar-free sweets,2024.0,3,1,2,0,Middle,Mumbai,Maharashtra,684.0,43.0,40.0,-16.2,-9.9,yes,20.0,no,yes,100.0,5.0,2000.0,1,1.0,100.0,12.48,801.28,1.0
+5,13,852,HaldiBrew,Food and Beverage,Cold-pressed juices,2025.0,1,1,0,0,Middle,Hyderabad,Telangana,150.0,24.1,35.0,,,yes,6.0,,funded,50.0,3.5,1428.57,0,,,,,
+5,13,853,DesiBites,Food and Beverage,Sugar-free sweets,2023.0,3,3,0,0,Middle,Chandigarh,Punjab,524.0,54.2,54.0,,,no,,no,yes,70.0,1.5,4666.67,1,1.0,70.0,1.5,4666.67,4.0
+5,13,854,PrimeParts,Manufacturing,Biodegradable cutlery,2025.0,1,1,0,0,Young,Delhi,Delhi,308.0,25.3,43.0,,,no,45.0,no,funded,100.0,2.5,4000.0,1,1.0,100.0,5.57,1795.33,1.0
+5,13,855,TaraDevices,Electronics,Power banks,,2,1,1,1,Middle,Pune,Maharashtra,1600.0,227.4,,-32.3,-13.3,yes,49.0,no,yes,120.0,1.5,8000.0,1,1.0,144.0,4.32,3333.33,2.0
+5,14,856,DataWorksGo,Technology/Software,Vernacular learning app,2025.0,4,2,2,0,Middle,Delhi,Delhi,223.0,16.0,78.0,,,yes,,no,funded,20.0,4.0,500.0,1,1.0,15.0,3.0,500.0,2.0
+5,14,857,JoshSports,Fitness/Sports/Outdoors,Camping equipment,2020.0,2,2,0,0,Middle,Vadodara,Gujarat,1699.0,198.1,,,13.1,no,11.0,no,yes,20.0,1.5,1333.33,1,1.0,20.0,1.5,1333.33,1.0
+5,14,858,NovaLabs360,Technology/Software,Clinic management app,2021.0,3,3,0,0,Old,Hubballi,Karnataka,,10.3,63.0,-3.4,2.6,no,10.0,yes,funded,50.0,2.0,2500.0,1,0.0,,,,
+5,14,859,OfficeLogix,Business Services,HR outsourcing,2024.0,2,1,1,1,Middle,Noida,Uttar Pradesh,1131.0,27.5,,,4.8,no,,no,,70.0,1.5,4666.67,1,1.0,70.0,4.73,1479.92,3.0
+5,15,860,AxisFab,Manufacturing,Steel kitchenware,2018.0,2,1,1,1,Middle,Bangalore,Karnataka,76.0,,34.0,7.3,13.3,,,,,90.0,2.5,3600.0,0,,,,,
+5,15,861,KraftTools,Manufacturing,Steel kitchenware,2024.0,1,1,0,0,Young,Mumbai,Maharashtra,189.0,27.7,,,,no,166.0,no,funded,90.0,6.0,1500.0,0,,,,,
+5,15,862,RangBeauty,Beauty/Fashion,Men's grooming kits,2018.0,1,1,0,0,Middle,Bangalore,Karnataka,197.0,,35.0,5.3,7.3,no,80.0,no,yes,50.0,3.0,1666.67,1,1.0,50.0,9.0,555.56,1.0
+5,15,863,TadkaDabba,Food and Beverage,Protein-rich namkeen,2025.0,1,1,0,0,Middle,Delhi,Delhi,306.0,89.0,56.0,9.3,12.3,no,15.0,no,yes,120.0,2.0,6000.0,1,1.0,120.0,3.43,3498.54,1.0
+5,16,864,MediLife,Medical/Health,Diabetes-friendly foods,2023.0,3,3,0,0,Middle,Mumbai,Maharashtra,87.0,,,10.3,13.2,no,180.0,no,yes,75.0,2.0,3750.0,0,,,,,
+5,16,865,MilletFresh360,Food and Beverage,Artisanal coffee,2021.0,2,1,1,1,Middle,Pune,Maharashtra,,,,,17.3,no,2.0,no,funded,90.0,1.5,6000.0,1,1.0,60.0,1.0,6000.0,1.0
+5,16,866,GlowLoomPlus,Beauty/Fashion,Ayurvedic skincare,2021.0,3,2,1,0,Middle,Ahmedabad,Gujarat,75.0,2.3,63.0,16.1,19.2,no,,no,funded,20.0,1.25,1600.0,1,1.0,15.0,3.54,423.73,1.0
+5,16,867,PixelSoftPlus,Technology/Software,AI resume screening,2018.0,2,2,0,0,Middle,,,2450.0,74.7,60.0,-16.6,-14.1,yes,,no,funded,90.0,2.0,4500.0,0,,,,,
+5,17,868,KesarBites,Food and Beverage,Artisanal coffee,2018.0,2,2,0,0,Middle,Kolkata,West Bengal,,14.8,47.0,,0.5,no,27.0,no,funded,60.0,1.5,4000.0,1,0.0,,,,
+5,17,869,BalMindsPro,Children/Education,Exam prep app,2025.0,2,0,2,0,Middle,Hyderabad,Telangana,,27.7,64.0,-5.1,4.0,,,no,funded,70.0,2.5,2800.0,1,1.0,70.0,5.87,1192.5,1.0
+5,17,870,MilletBitesPlus,Food and Beverage,Protein-rich namkeen,2021.0,2,2,0,0,Young,Bangalore,Karnataka,,1.1,60.0,,,no,8.0,no,yes,20.0,4.0,500.0,1,1.0,20.0,17.05,117.3,3.0
+5,17,871,PulseLife,Medical/Health,Diabetes-friendly foods,2026.0,2,1,1,0,Middle,Bhopal,Madhya Pradesh,0.0,0.0,,,,yes,16.0,no,funded,25.0,6.0,416.67,1,1.0,25.0,38.23,65.39,1.0
+5,18,872,NutriFreshOne,Food and Beverage,Healthy millet snacks,2021.0,4,3,1,0,Middle,Mumbai,Maharashtra,,8.1,40.0,,14.8,no,4.0,,yes,35.0,3.5,1000.0,1,1.0,43.75,10.99,398.09,2.0
+5,18,873,KiddoPlay,Children/Education,Coding classes for kids,2023.0,3,0,3,0,Middle,Mumbai,Maharashtra,109.0,13.3,63.0,10.4,17.4,no,,,yes,40.0,1.25,3200.0,1,1.0,48.0,5.45,880.73,2.0
+5,18,874,NeuralStack,Technology/Software,AI resume screening,2024.0,4,1,3,0,Middle,Jaipur,Rajasthan,1365.0,79.9,61.0,15.1,17.4,no,2.0,no,funded,150.0,2.0,7500.0,1,1.0,150.0,3.68,4076.09,2.0
+5,18,875,CloudSoft,Technology/Software,AI resume screening,2022.0,2,2,0,0,Middle,Patna,Bihar,90.0,10.6,84.0,,27.6,,,no,funded,35.0,4.0,875.0,1,1.0,35.0,12.07,289.98,1.0
+5,19,876,RangThreads,Beauty/Fashion,Men's grooming kits,2021.0,2,0,2,0,Young,Bangalore,Karnataka,57.0,11.6,65.0,8.1,12.5,no,33.0,,yes,40.0,1.0,4000.0,0,,,,,
+5,19,877,StaminaOutdoors,Fitness/Sports/Outdoors,Trekking tours,2019.0,3,1,2,0,Middle,Ahmedabad,Gujarat,189.0,4.9,46.0,-32.5,-25.6,yes,48.0,yes,yes,40.0,2.5,1600.0,1,1.0,40.0,8.03,498.13,3.0
+5,19,878,DhagaStudio,Beauty/Fashion,Men's grooming kits,2025.0,4,4,0,0,Middle,Pune,Maharashtra,201.0,12.0,81.0,,14.8,no,,no,yes,45.0,2.0,2250.0,1,1.0,45.0,3.66,1229.51,4.0
+5,19,879,BizDeskOne,Business Services,HR outsourcing,2025.0,2,2,0,0,Middle,Chennai,Tamil Nadu,162.0,34.5,,20.5,24.2,no,,no,yes,75.0,4.0,1875.0,1,1.0,75.0,21.09,355.62,1.0
+5,20,880,ZariStudio,Beauty/Fashion,Men's grooming kits,2025.0,2,1,1,0,Middle,Mumbai,Maharashtra,,,77.0,,,yes,,no,yes,40.0,3.0,1333.33,1,1.0,60.0,5.88,1020.41,2.0
+5,20,881,DesiIndia,Others,Stationery,,2,0,2,0,Middle,Bangalore,Karnataka,186.0,10.7,39.0,,,yes,43.0,no,funded,100.0,0.5,20000.0,0,,,,,
+5,20,882,SaffronWear360,Beauty/Fashion,Silver jewellery,2025.0,2,2,0,0,Middle,Chennai,Tamil Nadu,1414.0,162.7,52.0,,,yes,11.0,no,funded,150.0,2.5,6000.0,1,1.0,180.0,3.0,6000.0,2.0
+5,20,883,DesiSnacksGo,Food and Beverage,Ready-to-cook regional curries,,2,1,1,0,Middle,Mumbai,Maharashtra,784.0,43.2,,9.9,15.9,no,36.0,no,yes,17500000.0,3.0,5833.33,1,1.0,210.0,13.03,1611.67,3.0
+5,21,884,DataSoftGo,Technology/Software,Clinic management app,2020.0,2,2,0,0,Middle,Ahmedabad,Gujarat,46.0,5.7,46.0,-3.0,3.1,no,,yes,yes,30.0,3.0,1000.0,1,0.0,,,,
+5,21,885,NoorSkinOne,Beauty/Fashion,Silver jewellery,2024.0,1,1,0,0,Old,Mumbai,Maharashtra,,0.0,,,,yes,1.0,no,funded,20.0,6.0,333.33,0,,,,,
+5,21,886,HealWell,Medical/Health,Telehealth for villages,2023.0,2,2,0,0,Middle,Surat,Gujarat,0.0,0.0,,,,yes,130.0,no,yes,30.0,6.0,500.0,0,,,,,
+5,21,887,UrbanSpace,Lifestyle/Home,Modular furniture,2024.0,3,2,1,0,Middle,Mumbai,Maharashtra,174.0,22.6,49.0,0.0,15.7,no,8.0,no,funded,90.0,10.0,900.0,1,0.0,,,,
+5,22,888,VitalRx,Medical/Health,Telehealth for villages,2024.0,3,2,1,0,Middle,Mumbai,Maharashtra,50.0,,47.0,-25.7,1.0,no,,yes,,30.0,3.5,857.14,1,1.0,30.0,15.23,196.98,1.0
+5,22,889,GlowWearPlus,Beauty/Fashion,Sustainable sneakers,2025.0,2,2,0,0,Middle,Ahmedabad,Gujarat,104.0,,70.0,,-7.0,yes,14.0,no,funded,125.0,5.0,2500.0,0,,,,,
+5,22,890,PeakPro,Fitness/Sports/Outdoors,Yoga wear,2024.0,2,2,0,0,Young,Mumbai,Maharashtra,431.0,,60.0,,,no,171.0,no,funded,60.0,3.0,2000.0,1,1.0,60.0,4.41,1360.54,3.0
+5,22,891,MilletFoods,Food and Beverage,Protein-rich namkeen,2022.0,2,2,0,0,Middle,Bangalore,Karnataka,4798.0,,48.0,7.6,17.4,no,6.0,no,funded,120.0,2.0,6000.0,1,1.0,180.0,3.0,6000.0,2.0
+5,23,892,PrimePartners,Business Services,Corporate gifting,2020.0,3,2,1,0,Young,Mumbai,Maharashtra,,,32.0,,,yes,,yes,yes,100.0,1.5,6666.67,0,,,,,
+5,23,893,MehndiBeautyPro,Beauty/Fashion,Plus-size ethnic wear,2023.0,1,1,0,0,Middle,Hyderabad,Telangana,177.0,28.2,49.0,,-8.5,,1.0,no,,80.0,1.0,8000.0,0,,,,,
+5,23,894,DesiFreshGo,Food and Beverage,Artisanal coffee,2025.0,2,0,2,0,Young,Mumbai,Maharashtra,102.0,8.7,52.0,15.1,26.3,no,63.0,no,yes,70.0,1.0,7000.0,1,0.0,,,,
+5,23,895,SuryaPower,Green/CleanTech,E-waste recycling,2022.0,3,2,1,0,Middle,Kolkata,West Bengal,65.0,2.5,12.0,,7.0,no,76.0,no,funded,80.0,5.0,1600.0,0,,,,,
+5,24,896,JoshCamp,Fitness/Sports/Outdoors,Camping equipment,2020.0,2,0,2,0,Middle,,,1037.0,84.5,61.0,,-14.6,yes,6.0,no,funded,60.0,0.75,8000.0,0,,,,,
+5,24,897,HaldiSnacks,Food and Beverage,Sugar-free sweets,2018.0,2,2,0,0,Middle,Delhi,Delhi,12705.0,1716.3,51.0,,9.2,no,4.0,no,funded,200.0,0.5,40000.0,1,1.0,95.0,0.24,39583.33,2.0
+5,24,898,DataStack,Technology/Software,SaaS for kirana billing,2025.0,2,2,0,0,Middle,Hubballi,Karnataka,61.0,10.2,79.0,,,no,8.0,no,funded,90.0,1.25,7200.0,0,,,,,
+5,24,899,SmartLogix,Business Services,HR outsourcing,2012.0,2,2,0,0,Middle,Mumbai,Maharashtra,257.0,9.7,51.0,,15.1,no,1.0,no,yes,150.0,3.0,5000.0,0,,,,,
+5,25,900,UrbanLivingX,Lifestyle/Home,Modular furniture,2025.0,2,0,2,0,Middle,Guwahati,Assam,341.0,16.1,61.0,-0.1,3.5,yes,,no,yes,45.0,4.0,1125.0,1,1.0,30.0,2.67,1123.6,3.0
+5,25,901,DesiDabbaPlus,Food and Beverage,Sugar-free sweets,2022.0,3,2,1,0,Young,Mumbai,Maharashtra,2583.0,137.9,,,,yes,43.0,no,yes,250.0,8.0,3125.0,1,1.0,250.0,8.0,3125.0,1.0
+5,25,902,BharatFabPro,Manufacturing,Biodegradable cutlery,2025.0,3,1,2,0,Young,Gurugram,Haryana,,3.9,38.0,,,,2.0,no,funded,75.0,3.5,2142.86,0,,,,,
+5,25,903,MilletDabba360,Food and Beverage,Healthy millet snacks,2022.0,3,3,0,0,Middle,Lucknow,Uttar Pradesh,22.0,4.6,550.0,16.6,18.7,no,33.0,no,,35.0,6.0,583.33,0,,,,,
+5,26,904,BalLearn,Children/Education,Story books in Indian languages,2018.0,2,0,2,0,Middle,Hyderabad,Telangana,1617.0,207.9,52.0,,,yes,,no,,70.0,2.5,2800.0,1,1.0,70.0,2.52,2777.78,2.0
+5,26,905,PahadiCamp,Fitness/Sports/Outdoors,Yoga wear,2025.0,2,1,1,1,Young,Bangalore,Karnataka,47.0,5.4,82.0,22.6,28.5,no,128.0,no,yes,45.0,3.0,1500.0,1,1.0,25.0,3.52,710.23,3.0
+5,26,906,KayaSkin360,Beauty/Fashion,Ayurvedic skincare,2023.0,1,1,0,0,Middle,Bangalore,Karnataka,169.0,13.8,56.0,-25.5,-20.3,,56.0,,yes,50.0,3.5,1428.57,1,1.0,50.0,12.43,402.25,1.0
+5,26,907,RasoiTreats,Food and Beverage,Protein-rich namkeen,2022.0,1,1,0,0,Middle,Mumbai,Maharashtra,173.0,,50.0,1.3,6.8,no,54.0,no,funded,30.0,1.25,2400.0,1,1.0,15.0,2.81,533.81,1.0
+5,27,908,LogicLabsPro,Technology/Software,Clinic management app,,2,1,1,1,Middle,Delhi,Delhi,181.0,,50.0,,,no,9.0,no,yes,45.0,1.5,3000.0,1,1.0,45.0,1.5,3000.0,1.0
+5,27,909,SahayakAssistX,Business Services,HR outsourcing,2025.0,1,0,1,0,Middle,Delhi,Delhi,346.0,67.8,64.0,13.0,18.3,no,,no,yes,60.0,4.0,1500.0,1,1.0,50.0,3.33,1501.5,1.0
+5,27,910,ForgeMfg,Manufacturing,Biodegradable cutlery,2017.0,3,3,0,0,Middle,Delhi,Delhi,130.0,5.9,5.0,,,,,no,yes,35.0,3.0,1166.67,0,,,,,
+5,27,911,RangWearGo,Beauty/Fashion,Ayurvedic skincare,2018.0,2,1,1,1,Middle,Ahmedabad,Gujarat,545.0,,76.0,,32.7,no,,no,yes,75.0,0.75,10000.0,1,1.0,55.0,0.55,10000.0,3.0
+5,28,912,HaldiBrewGo,Food and Beverage,Cold-pressed juices,2025.0,2,1,1,1,Middle,Mumbai,Maharashtra,60.0,6.5,52.0,-3.3,7.5,no,,no,funded,50.0,2.0,2500.0,0,,,,,
+5,28,913,LogicTech,Technology/Software,Cybersecurity for SMEs,2023.0,3,2,1,0,Middle,Mumbai,Maharashtra,14.0,2.0,,,-15.2,yes,1.0,yes,yes,25.0,3.0,833.33,0,,,,,
+5,28,914,ShaadiHub,Others,Travel experiences,2024.0,1,0,1,0,Middle,Delhi,Delhi,16.0,3.4,,,,yes,13.0,no,funded,30.0,12.0,250.0,0,,,,,
+5,28,915,EcoLabsGo,Green/CleanTech,Biogas plants,2022.0,2,2,0,0,Young,Bangalore,Karnataka,126.0,24.7,31.0,,,yes,46.0,no,funded,80.0,2.5,3200.0,0,,,,,
+5,29,916,RangLoom,Beauty/Fashion,Ayurvedic skincare,2025.0,3,3,0,0,Young,Kolkata,West Bengal,80.0,7.3,73.0,19.4,24.4,no,,no,funded,90.0,3.5,2571.43,0,,,,,
+5,29,917,BioTech,Green/CleanTech,Water purification units,2024.0,3,2,1,0,Young,Delhi,Delhi,47.0,5.1,31.0,0.2,6.7,no,40.0,yes,yes,30.0,2.5,1200.0,1,1.0,30.0,8.03,373.6,2.0
+5,29,918,StaminaMoves,Fitness/Sports/Outdoors,Smart skipping rope,2020.0,2,2,0,0,Middle,,,771.0,142.9,45.0,,-2.6,yes,69.0,no,funded,70.0,1.0,7000.0,0,,,,,
+5,29,919,MasalaFresh,Food and Beverage,Healthy millet snacks,2022.0,1,1,0,0,Middle,Delhi,Delhi,1623.0,155.8,,,,yes,2.0,no,,200.0,1.5,13333.33,0,,,,,
+5,30,920,SutraLabel360,Beauty/Fashion,Handloom sarees online,2025.0,2,2,0,0,Middle,Mumbai,Maharashtra,0.0,0.0,,,,,,no,funded,30.0,2.5,1200.0,0,,,,,
+5,30,921,KisanGrow,Agriculture,Seed quality testing,2024.0,3,3,0,0,Middle,,Delhi,239.0,,54.0,,3.8,no,,no,yes,6000000.0,3.5,1714.29,1,1.0,35.0,7.86,445.29,1.0
+5,30,922,NestCo,Lifestyle/Home,Scented candles,2023.0,2,2,0,0,Middle,Bangalore,Karnataka,,5.8,73.0,11.4,12.3,no,,no,yes,70.0,3.0,2333.33,1,1.0,70.0,4.91,1425.66,1.0
+5,30,923,NoorSkinPlus,Beauty/Fashion,Plus-size ethnic wear,2024.0,1,0,1,0,Middle,Delhi,Delhi,57.0,2.6,52.0,19.9,24.2,no,42.0,no,yes,35.0,4.0,875.0,0,,,,,
+5,31,924,GlowThreads360,Beauty/Fashion,Ayurvedic skincare,2019.0,1,0,1,0,Young,Bangalore,Karnataka,,10.7,83.0,-0.4,7.8,no,122.0,no,funded,50.0,2.5,2000.0,1,1.0,50.0,7.45,671.14,1.0
+5,31,925,SwaadKitchenX,Food and Beverage,Healthy millet snacks,2024.0,2,1,1,0,Middle,Mumbai,Maharashtra,8.0,,30.0,-7.6,3.2,no,8.0,no,funded,50.0,6.0,833.33,0,,,,,
+5,31,926,RangBeautyX,Beauty/Fashion,Silver jewellery,2020.0,3,2,1,0,Young,Indore,Madhya Pradesh,1660.0,743.7,84.0,,,no,105.0,yes,,50.0,0.75,6666.67,1,1.0,50.0,1.63,3067.48,2.0
+5,31,927,SaffronThreads,Beauty/Fashion,Men's grooming kits,2022.0,1,0,1,0,Middle,Bangalore,Karnataka,323.0,13.7,,,,yes,21.0,no,funded,150.0,5.0,3000.0,0,,,,,
+5,32,928,GatiMobility,Vehicles/Electrical Vehicles,EV for delivery fleets,2023.0,2,2,0,0,Middle,Delhi,Delhi,648.0,,23.0,,,,36.0,no,,80.0,0.75,10666.67,0,,,,,
+5,32,929,IndusParts360,Manufacturing,Biodegradable cutlery,2023.0,2,1,1,1,Young,Delhi,Delhi,64.0,5.2,,-8.1,-1.4,yes,11.0,no,yes,20.0,7.5,266.67,1,1.0,20.0,23.3,85.84,1.0
+5,32,930,StaminaOutdoors360,Fitness/Sports/Outdoors,Home gym kits,2024.0,2,2,0,0,Middle,Kolkata,West Bengal,1600.0,,50.0,-36.1,-28.3,yes,24.0,no,funded,120.0,2.5,4800.0,1,1.0,90.0,2.46,3658.54,3.0
+5,32,931,SutraLoom,Beauty/Fashion,Sustainable sneakers,2022.0,2,1,1,1,Middle,Pune,Maharashtra,33.0,1.4,69.0,11.4,16.3,no,,,funded,50.0,3.0,1666.67,0,,,,,
+5,33,932,VidyaAcademy360,Children/Education,STEM toy kits,2022.0,1,1,0,0,Middle,Bangalore,Karnataka,30.0,1.4,87.0,4.7,12.0,no,17.0,,funded,45.0,3.5,1285.71,1,1.0,67.5,23.67,285.17,2.0
+5,33,933,UdyogWorks,Manufacturing,Packaging solutions,2023.0,3,2,1,0,Middle,Gurugram,Haryana,1432.0,,31.0,,,yes,,no,yes,200.0,1.25,16000.0,1,1.0,200.0,2.73,7326.01,1.0
+5,33,934,FasalFields,Agriculture,Farm-to-home vegetables,2023.0,2,1,1,1,Middle,Lucknow,Uttar Pradesh,118.0,12.8,49.0,,4.6,no,23.0,,funded,70.0,3.0,2333.33,1,1.0,70.0,9.88,708.5,1.0
+5,33,935,NoorThreads,Beauty/Fashion,Sustainable sneakers,2020.0,2,2,0,0,Middle,Delhi,Delhi,56.0,9.0,82.0,,13.6,no,51.0,no,yes,40.0,4.0,1000.0,1,0.0,,,,
+5,34,936,DhagaLoomPro,Beauty/Fashion,Plus-size ethnic wear,2025.0,2,1,1,0,Middle,Bangalore,Karnataka,,15.7,,,11.4,no,,no,yes,120.0,0.75,16000.0,1,1.0,120.0,3.46,3468.21,3.0
+5,34,937,SwaadFresh,Food and Beverage,Artisanal coffee,2025.0,2,2,0,0,Young,Nagpur,Maharashtra,17.0,2.9,70.0,19.3,22.6,no,34.0,no,yes,50.0,6.0,833.33,0,,,,,
+5,34,938,SuryaTech,Green/CleanTech,Compostable bags,2016.0,1,0,1,0,Young,Bangalore,Karnataka,164.0,11.6,29.0,,7.3,no,,yes,,100.0,4.0,2500.0,1,0.0,,,,
+5,34,939,SwiftLabs,Technology/Software,AI resume screening,2024.0,1,1,0,0,Young,Ahmedabad,Gujarat,633.0,44.9,71.0,,17.9,,21.0,no,yes,40.0,2.0,2000.0,1,1.0,40.0,3.82,1047.12,2.0
+5,35,940,SolarPlanet,Green/CleanTech,Biogas plants,2023.0,2,1,1,1,Middle,Pune,Maharashtra,673.0,,26.0,-5.0,3.2,no,,no,funded,30.0,2.5,1200.0,1,1.0,30.0,6.65,451.13,4.0
+5,35,941,ForgeWorksX,Manufacturing,Steel kitchenware,2015.0,3,3,0,0,Middle,Ahmedabad,Gujarat,373.0,16.0,,,-10.7,,4.0,yes,funded,35.0,3.0,1166.67,0,,,,,
+5,35,942,PrimePartnersPlus,Business Services,Event management,2023.0,2,2,0,0,Young,Mumbai,Maharashtra,440.0,27.8,,5.8,14.7,no,1.0,no,yes,75.0,4.0,1875.0,1,1.0,93.75,14.17,661.61,2.0
+5,35,943,KayaSkinPro,Beauty/Fashion,Handloom sarees online,,2,1,1,0,Young,Gurugram,Haryana,40.0,7.7,91.0,23.5,27.2,no,,no,yes,75.0,4.0,1875.0,1,1.0,55.0,8.9,617.98,1.0
+5,36,944,TrustServices,Business Services,B2B logistics,2021.0,2,2,0,0,Middle,Ludhiana,Punjab,284.0,,61.0,31.2,34.5,no,2.0,no,funded,90.0,2.5,3600.0,0,,,,,
+5,36,945,ShikshaToys,Children/Education,Baby care products,2023.0,1,0,1,0,Middle,Mumbai,Maharashtra,98.0,8.0,59.0,-8.4,5.3,no,,no,yes,80.0,2.0,4000.0,1,1.0,80.0,13.81,579.29,3.0
+5,36,946,PrimeLogixGo,Business Services,Corporate gifting,2022.0,2,0,2,0,Young,Jaipur,Rajasthan,577.0,35.0,45.0,-19.8,-18.2,yes,,,,70.0,4.0,1750.0,1,1.0,70.0,4.0,1750.0,5.0
+5,36,947,MehndiCareGo,Beauty/Fashion,Men's grooming kits,2021.0,2,2,0,0,Middle,Noida,Uttar Pradesh,41000.0,1191.8,69.0,-0.2,4.3,,24.0,no,,300.0,1.5,20000.0,1,1.0,300.0,1.5,20000.0,1.0
+5,37,948,KayaBeautyOne,Beauty/Fashion,Handloom sarees online,2019.0,3,2,1,0,Middle,Delhi,Delhi,339.0,12.1,78.0,7.7,14.8,no,43.0,no,funded,90.0,5.0,1800.0,1,1.0,90.0,23.04,390.62,1.0
+5,37,949,NovaWorksPlus,Technology/Software,Cybersecurity for SMEs,2020.0,4,3,1,0,Middle,Noida,Uttar Pradesh,,73.1,73.0,,3.6,no,6.0,no,funded,100.0,2.5,4000.0,1,1.0,75.0,2.51,2988.05,3.0
+5,37,950,SahayakConnectX,Business Services,Digital marketing agency,2023.0,2,2,0,0,Young,Noida,Uttar Pradesh,95.0,,52.0,8.8,10.3,no,11.0,no,funded,40.0,2.5,1600.0,1,1.0,40.0,6.7,597.01,1.0
+5,37,951,TrekSports360,Fitness/Sports/Outdoors,Yoga wear,2017.0,2,1,1,1,Middle,Bangalore,Karnataka,59.0,4.1,,,18.4,no,9.0,yes,funded,90.0,1.25,7200.0,0,,,,,
+5,38,952,GeniusLearn,Children/Education,STEM toy kits,2023.0,2,2,0,0,Middle,Mumbai,Maharashtra,960.0,191.5,60.0,,,yes,29.0,no,yes,200.0,1.5,13333.33,1,1.0,200.0,4.05,4938.27,2.0
+5,38,953,MasalaDabbaGo,Food and Beverage,Protein-rich namkeen,2022.0,2,1,1,1,Middle,Hyderabad,Telangana,1334.0,131.2,63.0,3.8,16.9,,23.0,no,funded,100.0,2.5,4000.0,1,1.0,100.0,2.5,4000.0,3.0
+5,38,954,LoopSoftX,Technology/Software,Vernacular learning app,2024.0,3,3,0,0,Middle,Gurugram,Haryana,,1.6,59.0,31.4,36.1,no,,no,funded,50.0,3.0,1666.67,0,,,,,
+5,38,955,TadkaTreats360,Food and Beverage,Artisanal coffee,2025.0,2,2,0,0,Middle,Jaipur,Rajasthan,89.0,4.5,57.0,-7.0,2.9,no,,no,yes,90.0,2.0,4500.0,1,1.0,45.0,4.36,1032.11,1.0
+5,39,956,ZariStudio360,Beauty/Fashion,Plus-size ethnic wear,2022.0,2,1,1,1,Middle,Hyderabad,Telangana,,,,,,yes,,no,yes,80.0,3.5,2285.71,0,,,,,
+5,39,957,LinkConnect,Business Services,Co-working spaces,2017.0,2,2,0,0,Middle,Mumbai,Maharashtra,1158.0,61.1,47.0,,18.2,no,,no,yes,150.0,1.25,12000.0,1,0.0,,,,
+5,39,958,SuryaTechX,Green/CleanTech,Rooftop solar,2024.0,3,3,0,0,Middle,Noida,Uttar Pradesh,59.0,9.7,25.0,,,yes,57.0,yes,yes,4500000.0,2.0,2250.0,0,,,,,
+5,39,959,VitalLifeOne,Medical/Health,Smart pill dispenser,2023.0,4,3,1,0,Middle,Gurugram,Haryana,0.0,0.0,,,,yes,66.0,no,yes,75.0,2.0,3750.0,0,,,,,
+5,40,960,NeuralHubOne,Technology/Software,Clinic management app,2022.0,2,2,0,0,Middle,Gurugram,Haryana,125.0,3.4,60.0,13.7,18.2,no,,yes,funded,50.0,6.0,833.33,1,1.0,50.0,11.72,426.62,1.0
+5,40,961,SwasthLabs,Medical/Health,Diabetes-friendly foods,2019.0,2,2,0,0,Middle,Delhi,Delhi,2192.0,,66.0,,,no,,yes,yes,120.0,0.5,24000.0,1,1.0,120.0,0.77,15584.42,1.0
+5,40,962,JeevanRx360,Medical/Health,Smart pill dispenser,2024.0,2,2,0,0,Middle,Vadodara,Gujarat,,8.9,82.0,,39.0,no,,no,funded,90.0,4.0,2250.0,1,1.0,108.0,10.51,1027.59,2.0
+5,40,963,MehndiSkinOne,Beauty/Fashion,Handloom sarees online,2024.0,2,2,0,0,Middle,Noida,Uttar Pradesh,17.0,0.8,73.0,,,,35.0,yes,funded,25.0,8.0,312.5,0,,,,,
+5,41,964,DesiKart360,Others,Travel experiences,,1,0,1,0,Middle,Delhi,Delhi,52.0,8.2,18.0,,,yes,,,yes,20.0,4.0,500.0,1,1.0,20.0,14.36,139.28,1.0
+5,41,965,ZariBeautyPro,Beauty/Fashion,Sustainable sneakers,2019.0,2,2,0,0,Middle,Noida,Uttar Pradesh,62.0,6.3,59.0,22.5,28.4,no,102.0,,yes,30.0,3.5,857.14,1,1.0,30.0,4.02,746.27,1.0
+5,41,966,ZariSkinOne,Beauty/Fashion,Ayurvedic skincare,,1,0,1,0,Middle,Delhi,Delhi,198.0,24.5,69.0,,,yes,5.0,no,funded,70.0,3.5,2000.0,0,,,,,
+5,41,967,TrustSolutions,Business Services,B2B logistics,2016.0,3,2,1,0,Middle,Chennai,Tamil Nadu,212.0,74.8,58.0,21.6,26.7,no,,no,yes,120.0,3.0,4000.0,1,1.0,105.0,5.0,2100.0,1.0
+5,42,968,RangThreadsPlus,Beauty/Fashion,Plus-size ethnic wear,2017.0,1,1,0,0,Middle,Chandigarh,Punjab,364.0,18.2,60.0,,14.4,no,47.0,no,yes,40.0,2.0,2000.0,1,0.0,,,,
+5,42,969,SaffronLoom,Beauty/Fashion,Silver jewellery,2020.0,1,1,0,0,Middle,Jaipur,Rajasthan,702.0,111.4,92.0,,,no,15.0,no,yes,100.0,2.0,5000.0,1,1.0,100.0,2.0,5000.0,2.0
+5,42,970,ShaadiWorld,Others,Personal safety device,2023.0,2,1,1,0,Middle,Bangalore,Karnataka,171.0,21.8,,,5.4,no,,no,funded,60.0,4.0,1500.0,0,,,,,
+5,42,971,MasalaSnacks,Food and Beverage,Artisanal coffee,2019.0,1,1,0,0,Middle,Mumbai,Maharashtra,42.0,,33.0,,2.9,yes,38.0,,yes,15.0,7.5,200.0,1,1.0,15.0,16.81,89.23,1.0
+5,43,972,TrustPartners,Business Services,B2B logistics,2019.0,2,2,0,0,Middle,Ahmedabad,Gujarat,543.0,32.6,43.0,-3.7,0.4,no,4.0,,yes,45.0,3.5,1285.71,1,1.0,45.0,3.5,1285.71,1.0
+5,43,973,SparkDrivePlus,Vehicles/Electrical Vehicles,EV for delivery fleets,2024.0,2,1,1,1,Middle,Mumbai,Maharashtra,1178.0,40.6,,,9.4,no,16.0,no,yes,100.0,1.5,6666.67,1,1.0,100.0,2.1,4761.9,1.0
+5,43,974,EcoPolymersPlus,Manufacturing,Industrial gloves,,3,3,0,0,Middle,Ahmedabad,Gujarat,827.0,135.8,38.0,,,yes,1033.0,no,funded,90.0,1.0,9000.0,0,,,,,
+5,43,975,ProAssist,Business Services,B2B logistics,2022.0,3,2,1,0,Middle,Bangalore,Karnataka,394.0,23.2,53.0,,2.7,no,,no,funded,45.0,1.25,3600.0,0,,,,,
+5,44,976,MilletFreshPlus,Food and Beverage,Protein-rich namkeen,2024.0,3,2,1,0,Middle,Mumbai,Maharashtra,784.0,85.1,37.0,,,yes,4.0,no,funded,125.0,5.0,2500.0,0,,,,,
+5,44,977,OfficeConnect360,Business Services,HR outsourcing,2025.0,2,2,0,0,Young,,Maharashtra,109.0,,26.0,,,yes,1.0,,yes,90.0,1.0,9000.0,0,,,,,
+5,44,978,SahayakHub,Business Services,HR outsourcing,2022.0,3,3,0,0,Young,Surat,Gujarat,161.0,17.7,48.0,-2.8,-0.3,,3.0,no,yes,150.0,7.5,2000.0,0,,,,,
+5,44,979,NutriTreatsPlus,Food and Beverage,Sugar-free sweets,2022.0,1,1,0,0,Young,Bangalore,Karnataka,0.0,0.0,,,,,6.0,no,yes,30.0,5.0,600.0,1,0.0,,,,
+5,45,980,LinkLogixGo,Business Services,HR outsourcing,,2,0,2,0,Middle,Indore,Madhya Pradesh,74.0,3.8,46.0,,-4.9,yes,7.0,no,yes,125.0,7.5,1666.67,0,,,,,
+5,45,981,HealLife,Medical/Health,At-home diagnostic kits,2023.0,1,1,0,0,Young,Ahmedabad,Gujarat,331.0,,,-21.0,-13.2,yes,62.0,no,funded,35.0,12.0,291.67,0,,,,,
+5,45,982,OfficeLogixX,Business Services,HR outsourcing,2024.0,3,2,1,0,Young,Bangalore,Karnataka,341.0,,54.0,,,no,,,yes,120.0,2.5,4800.0,1,1.0,240.0,15.48,1550.39,2.0
+5,45,983,PrimeServices,Business Services,HR outsourcing,2025.0,2,1,1,1,Middle,Noida,Uttar Pradesh,274.0,31.5,,,,,1.0,no,,75.0,4.0,1875.0,1,1.0,90.0,10.65,845.07,2.0
+5,46,984,NoorCare,Beauty/Fashion,Sustainable sneakers,2023.0,1,1,0,0,Young,Jaipur,Rajasthan,407.0,36.2,74.0,-0.4,3.9,no,195.0,no,,70.0,8.0,875.0,1,1.0,70.0,8.33,840.34,2.0
+5,46,985,RangCare360,Beauty/Fashion,Silver jewellery,2023.0,2,1,1,0,Middle,Mumbai,Maharashtra,,14.9,77.0,,5.5,no,12.0,yes,funded,50.0,7.5,666.67,1,1.0,35.0,13.15,266.16,2.0
+5,46,986,NutriTreatsX,Food and Beverage,Healthy millet snacks,,1,1,0,0,Young,Gurugram,Haryana,108.0,7.2,,,1.8,no,,no,funded,100.0,1.5,6666.67,0,,,,,
+5,46,987,ZariSkinPro,Beauty/Fashion,Plus-size ethnic wear,2024.0,3,2,1,0,Middle,Pune,Maharashtra,31.0,0.7,62.0,,,yes,,,yes,50.0,1.0,5000.0,0,,,,,
+5,47,988,PawBowl,Animal/Pets,Fresh pet food,2020.0,2,2,0,0,Middle,Jaipur,Rajasthan,48.0,3.6,72.0,,21.4,no,,no,yes,80.0,1.25,6400.0,0,,,,,
+5,47,989,SwaadSnacks,Food and Beverage,Ready-to-cook regional curries,2019.0,3,2,1,0,Young,Jaipur,Rajasthan,0.0,0.0,,,,,20.0,no,yes,50.0,5.0,1000.0,1,0.0,,,,
+5,47,990,ZariThreadsPlus,Beauty/Fashion,Men's grooming kits,2024.0,2,2,0,0,Young,Bangalore,Karnataka,64.0,5.1,52.0,17.8,24.7,no,,no,,80.0,6.0,1333.33,1,1.0,80.0,31.88,250.94,1.0
+5,47,991,QuickAssistGo,Business Services,HR outsourcing,2019.0,2,1,1,1,Middle,Gurugram,Haryana,299.0,,37.0,,7.3,yes,2.0,no,yes,45.0,5.0,900.0,1,1.0,45.0,11.79,381.68,1.0
+5,48,992,VedaWellPro,Medical/Health,Smart pill dispenser,2025.0,2,2,0,0,Middle,Gurugram,Haryana,35.0,12.2,87.0,,25.4,no,4.0,no,funded,70.0,2.5,2800.0,0,,,,,
+5,48,993,SaffronThreadsOne,Beauty/Fashion,Men's grooming kits,2025.0,2,0,2,0,Middle,Delhi,Delhi,18.0,1.7,62.0,,3.0,no,,,,75.0,2.0,3750.0,0,,,,,
+5,48,994,TamashaGames,Entertainment,Gaming cafe chain,2018.0,2,1,1,1,Middle,Mumbai,Maharashtra,532.0,,,,6.4,no,,no,yes,300.0,1.25,24000.0,1,1.0,215.0,2.43,8847.74,2.0
+5,48,995,SaffronWearGo,Beauty/Fashion,Sustainable sneakers,2022.0,3,3,0,0,Middle,Hubballi,Karnataka,158.0,10.9,,,,yes,65.0,no,funded,35.0,4.0,875.0,1,1.0,35.0,8.02,436.41,3.0
+5,49,996,ZipAutoX,Vehicles/Electrical Vehicles,EV for delivery fleets,2022.0,3,3,0,0,Middle,Delhi,Delhi,678.0,37.8,52.0,,,yes,20.0,yes,yes,80.0,1.25,6400.0,1,0.0,,,,
+5,49,997,MasalaBrewPlus,Food and Beverage,Protein-rich namkeen,2025.0,1,1,0,0,Middle,Surat,Gujarat,205.0,,31.0,,-2.2,yes,16.0,no,yes,25.0,1.5,1666.67,0,,,,,
+5,49,998,SutraLabelPlus,Beauty/Fashion,Men's grooming kits,2020.0,2,1,1,0,Old,Ahmedabad,Gujarat,,330.5,55.0,-0.2,12.0,no,26.0,no,funded,70.0,2.5,2800.0,1,1.0,70.0,2.5,2800.0,4.0
+5,49,999,HaldiKitchenOne,Food and Beverage,Healthy millet snacks,2025.0,3,2,1,0,Middle,Ahmedabad,Gujarat,1021.0,252.4,63.0,,,yes,,no,yes,90.0,1.5,6000.0,1,0.0,,,,
+5,50,1000,LogicWorks360,Technology/Software,SaaS for kirana billing,,3,2,1,0,Middle,Bangalore,Karnataka,224.0,20.5,61.0,-1.2,5.8,no,,no,funded,100.0,2.5,4000.0,1,1.0,100.0,3.36,2976.19,4.0
