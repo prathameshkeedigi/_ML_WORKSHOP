@@ -32,21 +32,7 @@ If something breaks, raise your hand and tell us: **"Cell 12, I got this error: 
 
 ---
 
-## 🚀 Setup (pick one)
-
-### Option A: Google Colab (easiest, nothing to install)
-
-1. Open [colab.research.google.com](https://colab.research.google.com) → **File → Open notebook → GitHub**, and paste:
-   `https://github.com/prathameshkeedigi/_ML_WORKSHOP`
-2. Open `deal_ya_doglapan_full_pipeline.ipynb`.
-3. Colab needs the dataset next to the notebook. **Before Cell 1**, add a new code cell at the very top and run:
-   ```python
-   !git clone https://github.com/prathameshkeedigi/_ML_WORKSHOP.git
-   %cd _ML_WORKSHOP
-   ```
-4. Now run Cell 1, Cell 2, … in order (**Shift + Enter**).
-
-### Option B: On your laptop (Jupyter or VS Code)
+## 🚀 Setup (on your laptop: Jupyter or VS Code)
 
 You need **Python 3.10 or newer**.
 
@@ -57,7 +43,7 @@ pip install pandas numpy matplotlib scikit-learn joblib jupyter
 jupyter notebook deal_ya_doglapan_full_pipeline.ipynb
 ```
 
-In VS Code: open the folder, open the notebook, pick your Python kernel, and run the cells.
+In VS Code: open the folder, open the notebook, pick your Python kernel, and run the cells in order (**Shift + Enter**).
 
 > Tested with pandas 2.2, numpy 2.2, matplotlib 3.10, scikit-learn 1.8.
 
@@ -65,7 +51,7 @@ In VS Code: open the folder, open the notebook, pick your Python kernel, and run
 
 - **Run the cells in order, top to bottom.** Later cells use variables made by earlier ones.
 - If you get `NameError: name '…' is not defined`, you skipped a cell. Go back and run the cells above it.
-- If things get weird: **Kernel → Restart & Run All** (in Colab: **Runtime → Restart and run all**).
+- If things get weird: **Kernel → Restart & Run All** (in VS Code: **Restart**, then **Run All**).
 
 ---
 
